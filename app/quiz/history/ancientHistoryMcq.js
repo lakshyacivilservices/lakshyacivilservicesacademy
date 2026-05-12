@@ -759,5 +759,505 @@ export const ancientHistoryMcq = [
   ],
   answer: "Samudragupta",
 },
+  {
+  question: "Which ruler shifted the capital from Rajgriha to Pataliputra?",
+  options: [
+    "Udayin",
+    "Bimbisara",
+    "Ashoka",
+    "Ajatashatru",
+  ],
+  answer: "Udayin",
+},
+{
+  question: "The caves at Barabar were dedicated to:",
+  options: [
+    "Ajivikas",
+    "Buddhists",
+    "Jains",
+    "Shaivites",
+  ],
+  answer: "Ajivikas",
+},
+{
+  question: "Who was the father of Gautama Buddha?",
+  options: [
+    "Suddhodana",
+    "Bimbisara",
+    "Prasenjit",
+    "Ajatashatru",
+  ],
+  answer: "Suddhodana",
+},
+{
+  question: "Which inscription mentions the Kalinga War?",
+  options: [
+    "13th Rock Edict",
+    "Allahabad Pillar",
+    "Junagadh Inscription",
+    "Mehrauli Pillar",
+  ],
+  answer: "13th Rock Edict",
+},
+{
+  question: "The Sangam literature belongs to which region?",
+  options: [
+    "Tamil Nadu",
+    "Punjab",
+    "Bengal",
+    "Gujarat",
+  ],
+  answer: "Tamil Nadu",
+},
+{
+  question: "Which ruler built the Sudarshana Lake?",
+  options: [
+    "Chandragupta Maurya",
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+  ],
+  answer: "Chandragupta Maurya",
+},
+{
+  question: "Which dynasty ruled before the Mauryas?",
+  options: [
+    "Nanda",
+    "Gupta",
+    "Shunga",
+    "Kushan",
+  ],
+  answer: "Nanda",
+},
+{
+  question: "Who was the last Nanda ruler?",
+  options: [
+    "Dhanananda",
+    "Mahapadma Nanda",
+    "Ajatashatru",
+    "Bindusara",
+  ],
+  answer: "Dhanananda",
+},
+{
+  question: "Which Veda contains magical hymns and charms?",
+  options: [
+    "Atharvaveda",
+    "Rigveda",
+    "Samaveda",
+    "Yajurveda",
+  ],
+  answer: "Atharvaveda",
+},
+{
+  question: "The famous dockyard of Harappan Civilization was found at:",
+  options: [
+    "Lothal",
+    "Harappa",
+    "Kalibangan",
+    "Banawali",
+  ],
+  answer: "Lothal",
+},
+{
+  question: "Who wrote Mudrarakshasa?",
+  options: [
+    "Vishakhadatta",
+    "Kalidasa",
+    "Banabhatta",
+    "Panini",
+  ],
+  answer: "Vishakhadatta",
+},
+{
+  question: "Which Gupta ruler was known for patronizing scholars?",
+  options: [
+    "Chandragupta II",
+    "Ashoka",
+    "Bindusara",
+    "Harsha",
+  ],
+  answer: "Chandragupta II",
+},
+{
+  question: "Which Buddhist council was held under Ashoka?",
+  options: [
+    "Third Buddhist Council",
+    "First Buddhist Council",
+    "Second Buddhist Council",
+    "Fourth Buddhist Council",
+  ],
+  answer: "Third Buddhist Council",
+},
+{
+  question: "Who was the founder of the Kanva dynasty?",
+  options: [
+    "Vasudeva",
+    "Pushyamitra",
+    "Simuka",
+    "Gopala",
+  ],
+  answer: "Vasudeva",
+},
+{
+  question: "The term ‘Arya’ means:",
+  options: [
+    "Noble",
+    "Warrior",
+    "Priest",
+    "Merchant",
+  ],
+  answer: "Noble",
+},
+{
+  question: "Which river is called the ‘Sorrow of Bihar’?",
+  options: [
+    "Kosi",
+    "Ganga",
+    "Yamuna",
+    "Godavari",
+  ],
+  answer: "Kosi",
+},
+{
+  question: "Who compiled the Jain text Kalpasutra?",
+  options: [
+    "Bhadrabahu",
+    "Mahavira",
+    "Ashoka",
+    "Kanishka",
+  ],
+  answer: "Bhadrabahu",
+},
+{
+  question: "Which ruler was associated with the Prayag Prashasti?",
+  options: [
+    "Samudragupta",
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+  ],
+  answer: "Samudragupta",
+},
+{
+  question: "The earliest evidence of agriculture in India was found at:",
+  options: [
+    "Mehrgarh",
+    "Harappa",
+    "Mohenjo-Daro",
+    "Lothal",
+  ],
+  answer: "Mehrgarh",
+},
+{
+  question: "Which dynasty built the Ellora Kailasa Temple?",
+  options: [
+    "Rashtrakuta",
+    "Maurya",
+    "Gupta",
+    "Pallava",
+  ],
+  answer: "Rashtrakuta",
+},
+{
+  question: "Who translated Buddhist texts into Chinese?",
+  options: [
+    "Kumarajiva",
+    "Kalidasa",
+    "Panini",
+    "Banabhatta",
+  ],
+  answer: "Kumarajiva",
+},
+{
+  question: "Which ruler issued the Allahabad Pillar inscription?",
+  options: [
+    "Samudragupta",
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+  ],
+  answer: "Samudragupta",
+},
+{
+  question: "The official language of Sangam literature was:",
+  options: [
+    "Tamil",
+    "Sanskrit",
+    "Prakrit",
+    "Pali",
+  ],
+  answer: "Tamil",
+},
+{
+  question: "Which ancient Indian doctor wrote Charaka Samhita?",
+  options: [
+    "Charaka",
+    "Sushruta",
+    "Aryabhata",
+    "Panini",
+  ],
+  answer: "Charaka",
+},
+{
+  question: "Which ruler conquered Kalinga?",
+  options: [
+    "Ashoka",
+    "Harsha",
+    "Ajatashatru",
+    "Samudragupta",
+  ],
+  answer: "Ashoka",
+},
+{
+  question: "Which ancient text describes statecraft and politics?",
+  options: [
+    "Arthashastra",
+    "Ramayana",
+    "Mahabharata",
+    "Rigveda",
+  ],
+  answer: "Arthashastra",
+},
+{
+  question: "Who was the first Tirthankara of Jainism?",
+  options: [
+    "Rishabhanatha",
+    "Mahavira",
+    "Parshvanatha",
+    "Ajitanatha",
+  ],
+  answer: "Rishabhanatha",
+},
+{
+  question: "Which Gupta ruler faced Hun invasions?",
+  options: [
+    "Skandagupta",
+    "Samudragupta",
+    "Chandragupta I",
+    "Kumaragupta",
+  ],
+  answer: "Skandagupta",
+},
+{
+  question: "Which ruler founded the Vikrama era?",
+  options: [
+    "Chandragupta II",
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+  ],
+  answer: "Chandragupta II",
+},
+{
+  question: "Which city was famous for ivory work in ancient India?",
+  options: [
+    "Taxila",
+    "Pataliputra",
+    "Ujjain",
+    "Madurai",
+  ],
+  answer: "Taxila",
+},
+{
+  question: "The Harappan script was written from:",
+  options: [
+    "Right to left",
+    "Left to right",
+    "Top to bottom",
+    "Bottom to top",
+  ],
+  answer: "Right to left",
+},
+{
+  question: "Which king defeated Seleucus Nikator?",
+  options: [
+    "Chandragupta Maurya",
+    "Ashoka",
+    "Bindusara",
+    "Harsha",
+  ],
+  answer: "Chandragupta Maurya",
+},
+{
+  question: "Who was the son of Bindusara?",
+  options: [
+    "Ashoka",
+    "Samudragupta",
+    "Harsha",
+    "Kanishka",
+  ],
+  answer: "Ashoka",
+},
+{
+  question: "Which dynasty built the Shore Temple?",
+  options: [
+    "Pallava",
+    "Chola",
+    "Maurya",
+    "Gupta",
+  ],
+  answer: "Pallava",
+},
+{
+  question: "The earliest Buddhist literature was written in:",
+  options: [
+    "Pali",
+    "Tamil",
+    "Hindi",
+    "Persian",
+  ],
+  answer: "Pali",
+},
+{
+  question: "Which ruler called himself ‘Beloved of the Gods’?",
+  options: [
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+    "Kanishka",
+  ],
+  answer: "Ashoka",
+},
+{
+  question: "Which dynasty was known for cave architecture at Ajanta?",
+  options: [
+    "Vakataka",
+    "Maurya",
+    "Gupta",
+    "Pallava",
+  ],
+  answer: "Vakataka",
+},
+{
+  question: "Who authored Buddhacharita?",
+  options: [
+    "Ashvaghosha",
+    "Kalidasa",
+    "Banabhatta",
+    "Panini",
+  ],
+  answer: "Ashvaghosha",
+},
+{
+  question: "Which ruler established the Chalukya dynasty?",
+  options: [
+    "Pulakeshin I",
+    "Pulakeshin II",
+    "Harsha",
+    "Rajaraja Chola",
+  ],
+  answer: "Pulakeshin I",
+},
+{
+  question: "Which ancient Indian surgeon wrote Sushruta Samhita?",
+  options: [
+    "Sushruta",
+    "Charaka",
+    "Aryabhata",
+    "Panini",
+  ],
+  answer: "Sushruta",
+},
+{
+  question: "Which dynasty ruled from Badami?",
+  options: [
+    "Chalukya",
+    "Maurya",
+    "Gupta",
+    "Pallava",
+  ],
+  answer: "Chalukya",
+},
+{
+  question: "Which ruler was known as the ‘Second Ashoka’?",
+  options: [
+    "Kanishka",
+    "Harsha",
+    "Samudragupta",
+    "Bindusara",
+  ],
+  answer: "Kanishka",
+},
+{
+  question: "The sacred Buddhist text is called:",
+  options: [
+    "Tripitaka",
+    "Vedas",
+    "Upanishads",
+    "Puranas",
+  ],
+  answer: "Tripitaka",
+},
+{
+  question: "Which dynasty introduced rock-cut temples at Mahabalipuram?",
+  options: [
+    "Pallava",
+    "Chola",
+    "Maurya",
+    "Gupta",
+  ],
+  answer: "Pallava",
+},
+{
+  question: "Who was the famous ruler of the Satavahana dynasty?",
+  options: [
+    "Gautamiputra Satakarni",
+    "Simuka",
+    "Ashoka",
+    "Harsha",
+  ],
+  answer: "Gautamiputra Satakarni",
+},
+{
+  question: "Which ruler built a victory tower at Chittor?",
+  options: [
+    "Rana Kumbha",
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+  ],
+  answer: "Rana Kumbha",
+},
+{
+  question: "Which dynasty is associated with the Brihadeshwara Temple?",
+  options: [
+    "Chola",
+    "Pallava",
+    "Maurya",
+    "Gupta",
+  ],
+  answer: "Chola",
+},
+{
+  question: "Which ancient Indian astronomer wrote Panchasiddhantika?",
+  options: [
+    "Varahamihira",
+    "Aryabhata",
+    "Panini",
+    "Charaka",
+  ],
+  answer: "Varahamihira",
+},
+{
+  question: "Which ruler established diplomatic relations with Sri Lanka?",
+  options: [
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+    "Samudragupta",
+  ],
+  answer: "Ashoka",
+},
+{
+  question: "Which dynasty used Prakrit language extensively?",
+  options: [
+    "Maurya",
+    "Gupta",
+    "Chola",
+    "Pallava",
+  ],
+  answer: "Maurya",
+},
   ];
 
