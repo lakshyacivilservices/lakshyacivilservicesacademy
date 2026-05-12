@@ -2789,5 +2789,505 @@ export const ancientHistoryMcq = [
   ],
   answer: "Tulsidas",
 },
+  {
+  question: "Which Sufi saint founded the Chishti order in India?",
+  options: [
+    "Khwaja Moinuddin Chishti",
+    "Nizamuddin Auliya",
+    "Baba Farid",
+    "Salim Chishti",
+  ],
+  answer: "Khwaja Moinuddin Chishti",
+},
+{
+  question: "Who was the founder of Sikhism?",
+  options: [
+    "Guru Nanak",
+    "Guru Gobind Singh",
+    "Kabir",
+    "Ramananda",
+  ],
+  answer: "Guru Nanak",
+},
+{
+  question: "Which Mughal ruler was known for chain of justice?",
+  options: [
+    "Jahangir",
+    "Akbar",
+    "Shah Jahan",
+    "Aurangzeb",
+  ],
+  answer: "Jahangir",
+},
+{
+  question: "Who built the Jama Masjid in Delhi?",
+  options: [
+    "Shah Jahan",
+    "Akbar",
+    "Babur",
+    "Aurangzeb",
+  ],
+  answer: "Shah Jahan",
+},
+{
+  question: "Which ruler wrote Tuzuk-i-Jahangiri?",
+  options: [
+    "Jahangir",
+    "Babur",
+    "Akbar",
+    "Humayun",
+  ],
+  answer: "Jahangir",
+},
+{
+  question: "Who founded the city of Jaipur?",
+  options: [
+    "Sawai Jai Singh II",
+    "Man Singh",
+    "Pratap Singh",
+    "Rana Sanga",
+  ],
+  answer: "Sawai Jai Singh II",
+},
+{
+  question: "Which Rajput ruler fought against Akbar in the Battle of Haldighati?",
+  options: [
+    "Maharana Pratap",
+    "Rana Sanga",
+    "Man Singh",
+    "Rana Kumbha",
+  ],
+  answer: "Maharana Pratap",
+},
+{
+  question: "Who founded the Maratha Empire?",
+  options: [
+    "Shivaji",
+    "Sambhaji",
+    "Balaji Vishwanath",
+    "Baji Rao I",
+  ],
+  answer: "Shivaji",
+},
+{
+  question: "Which Mughal ruler imprisoned Shah Jahan?",
+  options: [
+    "Aurangzeb",
+    "Akbar",
+    "Jahangir",
+    "Humayun",
+  ],
+  answer: "Aurangzeb",
+},
+{
+  question: "Which fort was the capital of Shivaji?",
+  options: [
+    "Raigad",
+    "Sinhagad",
+    "Pratapgad",
+    "Purandar",
+  ],
+  answer: "Raigad",
+},
+{
+  question: "Who wrote Shivabharata?",
+  options: [
+    "Parmanand",
+    "Tulsidas",
+    "Kalidasa",
+    "Jayadeva",
+  ],
+  answer: "Parmanand",
+},
+{
+  question: "Which ruler founded Hyderabad city?",
+  options: [
+    "Muhammad Quli Qutb Shah",
+    "Aurangzeb",
+    "Sher Shah",
+    "Akbar",
+  ],
+  answer: "Muhammad Quli Qutb Shah",
+},
+{
+  question: "Who introduced the Zabti revenue system?",
+  options: [
+    "Akbar",
+    "Sher Shah",
+    "Babur",
+    "Aurangzeb",
+  ],
+  answer: "Akbar",
+},
+{
+  question: "Which ruler was called ‘Prince of Builders’?",
+  options: [
+    "Shah Jahan",
+    "Akbar",
+    "Aurangzeb",
+    "Babur",
+  ],
+  answer: "Shah Jahan",
+},
+{
+  question: "Which Mughal ruler banned music in court?",
+  options: [
+    "Aurangzeb",
+    "Akbar",
+    "Jahangir",
+    "Shah Jahan",
+  ],
+  answer: "Aurangzeb",
+},
+{
+  question: "Who established the Ashta Pradhan council?",
+  options: [
+    "Shivaji",
+    "Sambhaji",
+    "Baji Rao",
+    "Balaji Vishwanath",
+  ],
+  answer: "Shivaji",
+},
+{
+  question: "Which saint was associated with the Varkari movement?",
+  options: [
+    "Namdev",
+    "Kabir",
+    "Tulsidas",
+    "Ramananda",
+  ],
+  answer: "Namdev",
+},
+{
+  question: "Who founded the Sikh Khalsa?",
+  options: [
+    "Guru Gobind Singh",
+    "Guru Nanak",
+    "Guru Arjan Dev",
+    "Guru Tegh Bahadur",
+  ],
+  answer: "Guru Gobind Singh",
+},
+{
+  question: "Which Sikh Guru compiled the Adi Granth?",
+  options: [
+    "Guru Arjan Dev",
+    "Guru Gobind Singh",
+    "Guru Nanak",
+    "Guru Hargobind",
+  ],
+  answer: "Guru Arjan Dev",
+},
+{
+  question: "Which Mughal emperor executed Guru Tegh Bahadur?",
+  options: [
+    "Aurangzeb",
+    "Akbar",
+    "Jahangir",
+    "Shah Jahan",
+  ],
+  answer: "Aurangzeb",
+},
+{
+  question: "Who founded the city of Fatehpur Sikri?",
+  options: [
+    "Akbar",
+    "Babur",
+    "Humayun",
+    "Aurangzeb",
+  ],
+  answer: "Akbar",
+},
+{
+  question: "Which Mughal ruler lost the Battle of Chausa?",
+  options: [
+    "Humayun",
+    "Babur",
+    "Akbar",
+    "Aurangzeb",
+  ],
+  answer: "Humayun",
+},
+{
+  question: "Who defeated Humayun in the Battle of Kannauj?",
+  options: [
+    "Sher Shah Suri",
+    "Babur",
+    "Akbar",
+    "Aurangzeb",
+  ],
+  answer: "Sher Shah Suri",
+},
+{
+  question: "Which ruler built the Grand Trunk Road?",
+  options: [
+    "Sher Shah Suri",
+    "Akbar",
+    "Babur",
+    "Iltutmish",
+  ],
+  answer: "Sher Shah Suri",
+},
+{
+  question: "Which Rajput king fought Babur in the Battle of Khanwa?",
+  options: [
+    "Rana Sanga",
+    "Maharana Pratap",
+    "Rana Kumbha",
+    "Man Singh",
+  ],
+  answer: "Rana Sanga",
+},
+{
+  question: "Who founded the Sayyid dynasty?",
+  options: [
+    "Khizr Khan",
+    "Balban",
+    "Iltutmish",
+    "Bahlul Lodi",
+  ],
+  answer: "Khizr Khan",
+},
+{
+  question: "Which dynasty was the last dynasty of the Delhi Sultanate?",
+  options: [
+    "Lodi",
+    "Tughlaq",
+    "Khalji",
+    "Sayyid",
+  ],
+  answer: "Lodi",
+},
+{
+  question: "Who founded the Lodi dynasty?",
+  options: [
+    "Bahlul Lodi",
+    "Sikandar Lodi",
+    "Ibrahim Lodi",
+    "Balban",
+  ],
+  answer: "Bahlul Lodi",
+},
+{
+  question: "Which Sultan introduced the practice of Sijda?",
+  options: [
+    "Balban",
+    "Iltutmish",
+    "Alauddin Khalji",
+    "Firoz Shah",
+  ],
+  answer: "Balban",
+},
+{
+  question: "Who was the first woman ruler of Delhi Sultanate?",
+  options: [
+    "Razia Sultan",
+    "Nur Jahan",
+    "Jahanara",
+    "Mumtaz Mahal",
+  ],
+  answer: "Razia Sultan",
+},
+{
+  question: "Which ruler completed the Qutub Minar?",
+  options: [
+    "Iltutmish",
+    "Balban",
+    "Alauddin Khalji",
+    "Qutb-ud-din Aibak",
+  ],
+  answer: "Iltutmish",
+},
+{
+  question: "Who introduced Persian culture prominently in medieval India?",
+  options: [
+    "Delhi Sultans",
+    "Mauryas",
+    "Guptas",
+    "Cholas",
+  ],
+  answer: "Delhi Sultans",
+},
+{
+  question: "Which ruler built Tughlaqabad Fort?",
+  options: [
+    "Ghiyasuddin Tughlaq",
+    "Muhammad bin Tughlaq",
+    "Balban",
+    "Iltutmish",
+  ],
+  answer: "Ghiyasuddin Tughlaq",
+},
+{
+  question: "Who was known as the ‘Parrot of India’?",
+  options: [
+    "Amir Khusrau",
+    "Kalidasa",
+    "Abul Fazl",
+    "Faizi",
+  ],
+  answer: "Amir Khusrau",
+},
+{
+  question: "Which ruler introduced the branding system for horses?",
+  options: [
+    "Alauddin Khalji",
+    "Balban",
+    "Iltutmish",
+    "Muhammad bin Tughlaq",
+  ],
+  answer: "Alauddin Khalji",
+},
+{
+  question: "Who founded the city of Ahmedabad?",
+  options: [
+    "Ahmad Shah I",
+    "Mahmud Begada",
+    "Alauddin Khalji",
+    "Sher Shah",
+  ],
+  answer: "Ahmad Shah I",
+},
+{
+  question: "Which ruler built the Gol Gumbaz?",
+  options: [
+    "Muhammad Adil Shah",
+    "Ibrahim Adil Shah",
+    "Aurangzeb",
+    "Akbar",
+  ],
+  answer: "Muhammad Adil Shah",
+},
+{
+  question: "Which Bhakti saint composed devotional songs in Kannada?",
+  options: [
+    "Purandara Dasa",
+    "Kabir",
+    "Namdev",
+    "Tulsidas",
+  ],
+  answer: "Purandara Dasa",
+},
+{
+  question: "Who founded the Mughal capital at Agra?",
+  options: [
+    "Sikandar Lodi",
+    "Akbar",
+    "Babur",
+    "Shah Jahan",
+  ],
+  answer: "Sikandar Lodi",
+},
+{
+  question: "Which Mughal ruler was known as ‘Alamgir’?",
+  options: [
+    "Aurangzeb",
+    "Akbar",
+    "Babur",
+    "Humayun",
+  ],
+  answer: "Aurangzeb",
+},
+{
+  question: "Who was Shivaji’s spiritual guru?",
+  options: [
+    "Ramdas",
+    "Kabir",
+    "Tulsidas",
+    "Namdev",
+  ],
+  answer: "Ramdas",
+},
+{
+  question: "Which Sikh Guru was executed by Jahangir?",
+  options: [
+    "Guru Arjan Dev",
+    "Guru Gobind Singh",
+    "Guru Nanak",
+    "Guru Hargobind",
+  ],
+  answer: "Guru Arjan Dev",
+},
+{
+  question: "Which ruler built the Moti Masjid in Agra?",
+  options: [
+    "Shah Jahan",
+    "Akbar",
+    "Babur",
+    "Aurangzeb",
+  ],
+  answer: "Shah Jahan",
+},
+{
+  question: "Who founded the kingdom of Mysore?",
+  options: [
+    "Wodeyar dynasty",
+    "Marathas",
+    "Cholas",
+    "Pallavas",
+  ],
+  answer: "Wodeyar dynasty",
+},
+{
+  question: "Which Mughal ruler encouraged painting most?",
+  options: [
+    "Jahangir",
+    "Aurangzeb",
+    "Babur",
+    "Humayun",
+  ],
+  answer: "Jahangir",
+},
+{
+  question: "Which ruler founded the Khalsa army?",
+  options: [
+    "Guru Gobind Singh",
+    "Guru Nanak",
+    "Guru Arjan Dev",
+    "Guru Tegh Bahadur",
+  ],
+  answer: "Guru Gobind Singh",
+},
+{
+  question: "Who built the Shalimar Gardens in Kashmir?",
+  options: [
+    "Jahangir",
+    "Akbar",
+    "Shah Jahan",
+    "Aurangzeb",
+  ],
+  answer: "Jahangir",
+},
+{
+  question: "Which ruler was known for justice and administration in Bengal?",
+  options: [
+    "Sher Shah Suri",
+    "Akbar",
+    "Babur",
+    "Balban",
+  ],
+  answer: "Sher Shah Suri",
+},
+{
+  question: "Which Mughal ruler reigned the longest?",
+  options: [
+    "Aurangzeb",
+    "Akbar",
+    "Shah Jahan",
+    "Jahangir",
+  ],
+  answer: "Aurangzeb",
+},
+{
+  question: "Who established the independent kingdom of Hyderabad?",
+  options: [
+    "Nizam-ul-Mulk",
+    "Muhammad Quli Qutb Shah",
+    "Aurangzeb",
+    "Akbar",
+  ],
+  answer: "Nizam-ul-Mulk",
+},
   ];
 
