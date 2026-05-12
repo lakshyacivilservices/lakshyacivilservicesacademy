@@ -503,6 +503,256 @@ const questions = [
   ],
   answer: "Report writing",
 },
+  {
+  question: "The deductive method proceeds from:",
+  options: [
+    "General to specific",
+    "Specific to general",
+    "Observation to theory",
+    "Facts to assumptions",
+  ],
+  answer: "General to specific",
+},
+{
+  question: "The inductive method proceeds from:",
+  options: [
+    "Specific to general",
+    "General to specific",
+    "Theory to observation",
+    "Conclusion to hypothesis",
+  ],
+  answer: "Specific to general",
+},
+{
+  question: "Research based on existing theories is called:",
+  options: [
+    "Analytical research",
+    "Field survey",
+    "Pilot research",
+    "Action research",
+  ],
+  answer: "Analytical research",
+},
+{
+  question: "The process of defining a problem clearly is:",
+  options: [
+    "Problem formulation",
+    "Data coding",
+    "Sampling",
+    "Editing",
+  ],
+  answer: "Problem formulation",
+},
+{
+  question: "Research conducted to gain familiarity with a phenomenon is:",
+  options: [
+    "Exploratory research",
+    "Historical research",
+    "Descriptive research",
+    "Experimental research",
+  ],
+  answer: "Exploratory research",
+},
+{
+  question: "The purpose of exploratory research is to:",
+  options: [
+    "Gain insights",
+    "Test medicine",
+    "Avoid hypotheses",
+    "Create confusion",
+  ],
+  answer: "Gain insights",
+},
+{
+  question: "A literature review helps identify:",
+  options: [
+    "Research gaps",
+    "Printing errors",
+    "Coding mistakes",
+    "Typing speed",
+  ],
+  answer: "Research gaps",
+},
+{
+  question: "The source closest to original information is:",
+  options: [
+    "Primary source",
+    "Secondary source",
+    "Tertiary source",
+    "Magazine",
+  ],
+  answer: "Primary source",
+},
+{
+  question: "A thesis is generally submitted for:",
+  options: [
+    "Academic degree",
+    "Business marketing",
+    "Political campaign",
+    "Entertainment",
+  ],
+  answer: "Academic degree",
+},
+{
+  question: "Peer review improves:",
+  options: [
+    "Research quality",
+    "Typing speed",
+    "Advertising",
+    "Coding errors",
+  ],
+  answer: "Research quality",
+},
+{
+  question: "Research ethics committees examine:",
+  options: [
+    "Ethical issues",
+    "Salary structures",
+    "Marketing plans",
+    "Office design",
+  ],
+  answer: "Ethical issues",
+},
+{
+  question: "A citation acknowledges:",
+  options: [
+    "Original sources",
+    "Typing mistakes",
+    "Advertisements",
+    "Random ideas",
+  ],
+  answer: "Original sources",
+},
+{
+  question: "The APA style was developed by:",
+  options: [
+    "American Psychological Association",
+    "American Political Association",
+    "Applied Physics Association",
+    "Asian Psychological Academy",
+  ],
+  answer: "American Psychological Association",
+},
+{
+  question: "Plagiarism detection software checks:",
+  options: [
+    "Copied content",
+    "Network speed",
+    "Image quality",
+    "Audio files",
+  ],
+  answer: "Copied content",
+},
+{
+  question: "Turnitin is commonly used for:",
+  options: [
+    "Plagiarism checking",
+    "Video editing",
+    "Statistical analysis",
+    "Graphic design",
+  ],
+  answer: "Plagiarism checking",
+},
+{
+  question: "A conceptual framework explains:",
+  options: [
+    "Relationship among concepts",
+    "Printer configuration",
+    "Research budget",
+    "Coding language",
+  ],
+  answer: "Relationship among concepts",
+},
+{
+  question: "Research data can be collected through:",
+  options: [
+    "Observation",
+    "Interview",
+    "Questionnaire",
+    "All of these",
+  ],
+  answer: "All of these",
+},
+{
+  question: "Triangulation in research means:",
+  options: [
+    "Using multiple methods",
+    "Drawing triangles",
+    "Mathematical coding",
+    "Single method only",
+  ],
+  answer: "Using multiple methods",
+},
+{
+  question: "Sampling frame means:",
+  options: [
+    "List of population elements",
+    "Picture frame",
+    "Questionnaire format",
+    "Research table",
+  ],
+  answer: "List of population elements",
+},
+{
+  question: "Systematic sampling selects units:",
+  options: [
+    "At regular intervals",
+    "Randomly without order",
+    "Only by choice",
+    "Without criteria",
+  ],
+  answer: "At regular intervals",
+},
+{
+  question: "Snowball sampling is useful for:",
+  options: [
+    "Hidden populations",
+    "Large factories",
+    "Laboratory testing",
+    "Machine repair",
+  ],
+  answer: "Hidden populations",
+},
+{
+  question: "Ethnographic research studies:",
+  options: [
+    "Cultures and communities",
+    "Chemical formulas",
+    "Machines",
+    "Financial reports",
+  ],
+  answer: "Cultures and communities",
+},
+{
+  question: "Case studies provide:",
+  options: [
+    "In-depth analysis",
+    "Only statistics",
+    "Only averages",
+    "Only graphs",
+  ],
+  answer: "In-depth analysis",
+},
+{
+  question: "Research recommendations should be:",
+  options: [
+    "Practical",
+    "Irrelevant",
+    "Confusing",
+    "Biased",
+  ],
+  answer: "Practical",
+},
+{
+  question: "A researcher should maintain confidentiality of:",
+  options: [
+    "Participant information",
+    "Office furniture",
+    "Computer brand",
+    "Website design",
+  ],
+  answer: "Participant information",
+},
 ];
 
 export default function ResearchMethodologyUnit1() {
