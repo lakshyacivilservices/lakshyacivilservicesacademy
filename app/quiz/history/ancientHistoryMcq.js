@@ -2279,5 +2279,515 @@ export const ancientHistoryMcq = [
   ],
   answer: "Rajendra Chola I",
 },
+  {
+  question: "Which ruler built the Sun Temple at Martand?",
+  options: [
+    "Lalitaditya",
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+  ],
+  answer: "Lalitaditya",
+},
+{
+  question: "Which dynasty ruled over Kannauj after Harsha?",
+  options: [
+    "Gurjara-Pratihara",
+    "Maurya",
+    "Gupta",
+    "Pallava",
+  ],
+  answer: "Gurjara-Pratihara",
+},
+{
+  question: "Who founded the Gurjara-Pratihara dynasty?",
+  options: [
+    "Nagabhata I",
+    "Mihira Bhoja",
+    "Harsha",
+    "Dantidurga",
+  ],
+  answer: "Nagabhata I",
+},
+{
+  question: "Which ruler constructed the Kailasa Temple at Ellora?",
+  options: [
+    "Krishna I",
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+  ],
+  answer: "Krishna I",
+},
+{
+  question: "Which ancient Indian kingdom was famous for horses?",
+  options: [
+    "Gandhara",
+    "Magadha",
+    "Kosala",
+    "Avanti",
+  ],
+  answer: "Gandhara",
+},
+{
+  question: "Who was the author of Vikramankadevacharita?",
+  options: [
+    "Bilhana",
+    "Kalhana",
+    "Kalidasa",
+    "Banabhatta",
+  ],
+  answer: "Bilhana",
+},
+{
+  question: "Which ruler established the city of Agra?",
+  options: [
+    "Sikandar Lodi",
+    "Ashoka",
+    "Harsha",
+    "Akbar",
+  ],
+  answer: "Sikandar Lodi",
+},
+{
+  question: "Which dynasty patronized the Ajanta paintings?",
+  options: [
+    "Vakataka",
+    "Maurya",
+    "Gupta",
+    "Pallava",
+  ],
+  answer: "Vakataka",
+},
+{
+  question: "Which ruler founded the Slave Dynasty?",
+  options: [
+    "Qutb-ud-din Aibak",
+    "Iltutmish",
+    "Balban",
+    "Alauddin Khalji",
+  ],
+  answer: "Qutb-ud-din Aibak",
+},
+{
+  question: "Which ancient Indian text deals with grammar?",
+  options: [
+    "Ashtadhyayi",
+    "Arthashastra",
+    "Charaka Samhita",
+    "Rajatarangini",
+  ],
+  answer: "Ashtadhyayi",
+},
+{
+  question: "Which ruler built the Alai Darwaza?",
+  options: [
+    "Alauddin Khalji",
+    "Iltutmish",
+    "Balban",
+    "Firoz Shah",
+  ],
+  answer: "Alauddin Khalji",
+},
+{
+  question: "Which dynasty ruled from Manyakheta?",
+  options: [
+    "Rashtrakuta",
+    "Maurya",
+    "Pallava",
+    "Chola",
+  ],
+  answer: "Rashtrakuta",
+},
+{
+  question: "Who was the founder of the Pala Empire?",
+  options: [
+    "Gopala",
+    "Dharmapala",
+    "Devapala",
+    "Mahipala",
+  ],
+  answer: "Gopala",
+},
+{
+  question: "Which ruler defeated the Arabs in western India?",
+  options: [
+    "Nagabhata I",
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+  ],
+  answer: "Nagabhata I",
+},
+{
+  question: "Which temple is known as the Black Pagoda?",
+  options: [
+    "Konark Sun Temple",
+    "Jagannath Temple",
+    "Brihadeshwara Temple",
+    "Kailasa Temple",
+  ],
+  answer: "Konark Sun Temple",
+},
+{
+  question: "Who wrote the book ‘Indica’?",
+  options: [
+    "Megasthenes",
+    "Fa-Hien",
+    "Hiuen Tsang",
+    "Al-Biruni",
+  ],
+  answer: "Megasthenes",
+},
+{
+  question: "Which ruler was known for the market control policy?",
+  options: [
+    "Alauddin Khalji",
+    "Balban",
+    "Iltutmish",
+    "Firoz Shah",
+  ],
+  answer: "Alauddin Khalji",
+},
+{
+  question: "Which dynasty introduced cave temples at Ellora?",
+  options: [
+    "Rashtrakuta",
+    "Maurya",
+    "Pallava",
+    "Gupta",
+  ],
+  answer: "Rashtrakuta",
+},
+{
+  question: "Who founded the Bahmani Kingdom?",
+  options: [
+    "Alauddin Bahman Shah",
+    "Krishnadevaraya",
+    "Harihara",
+    "Bukka",
+  ],
+  answer: "Alauddin Bahman Shah",
+},
+{
+  question: "Which ruler built the Charminar?",
+  options: [
+    "Muhammad Quli Qutb Shah",
+    "Aurangzeb",
+    "Akbar",
+    "Sher Shah",
+  ],
+  answer: "Muhammad Quli Qutb Shah",
+},
+{
+  question: "Which ancient Indian king embraced Jainism at the end of his life?",
+  options: [
+    "Chandragupta Maurya",
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+  ],
+  answer: "Chandragupta Maurya",
+},
+{
+  question: "Which ruler established the Vijayanagara Empire?",
+  options: [
+    "Harihara and Bukka",
+    "Krishnadevaraya",
+    "Devaraya II",
+    "Saluva Narasimha",
+  ],
+  answer: "Harihara and Bukka",
+},
+{
+  question: "Who wrote Amuktamalyada?",
+  options: [
+    "Krishnadevaraya",
+    "Kalidasa",
+    "Banabhatta",
+    "Jayadeva",
+  ],
+  answer: "Krishnadevaraya",
+},
+{
+  question: "Which ruler built the Purana Qila?",
+  options: [
+    "Sher Shah Suri",
+    "Akbar",
+    "Babur",
+    "Humayun",
+  ],
+  answer: "Sher Shah Suri",
+},
+{
+  question: "Which ruler founded the Mughal Empire in India?",
+  options: [
+    "Babur",
+    "Akbar",
+    "Humayun",
+    "Aurangzeb",
+  ],
+  answer: "Babur",
+},
+{
+  question: "Which battle established Mughal rule in India?",
+  options: [
+    "First Battle of Panipat",
+    "Battle of Plassey",
+    "Battle of Talikota",
+    "Battle of Khanwa",
+  ],
+  answer: "First Battle of Panipat",
+},
+{
+  question: "Who built Fatehpur Sikri?",
+  options: [
+    "Akbar",
+    "Babur",
+    "Humayun",
+    "Shah Jahan",
+  ],
+  answer: "Akbar",
+},
+{
+  question: "Which ruler introduced Din-i-Ilahi?",
+  options: [
+    "Akbar",
+    "Aurangzeb",
+    "Babur",
+    "Humayun",
+  ],
+  answer: "Akbar",
+},
+{
+  question: "Who wrote Tuzuk-i-Baburi?",
+  options: [
+    "Babur",
+    "Akbar",
+    "Jahangir",
+    "Humayun",
+  ],
+  answer: "Babur",
+},
+{
+  question: "Which ruler built the Taj Mahal?",
+  options: [
+    "Shah Jahan",
+    "Akbar",
+    "Babur",
+    "Aurangzeb",
+  ],
+  answer: "Shah Jahan",
+},
+{
+  question: "Who was known as the ‘Zinda Pir’?",
+  options: [
+    "Aurangzeb",
+    "Akbar",
+    "Babur",
+    "Jahangir",
+  ],
+  answer: "Aurangzeb",
+},
+{
+  question: "Which ruler abolished the Jizya tax temporarily?",
+  options: [
+    "Akbar",
+    "Aurangzeb",
+    "Babur",
+    "Balban",
+  ],
+  answer: "Akbar",
+},
+{
+  question: "Which ruler built the Peacock Throne?",
+  options: [
+    "Shah Jahan",
+    "Akbar",
+    "Babur",
+    "Humayun",
+  ],
+  answer: "Shah Jahan",
+},
+{
+  question: "Who founded the Sur Empire?",
+  options: [
+    "Sher Shah Suri",
+    "Babur",
+    "Akbar",
+    "Humayun",
+  ],
+  answer: "Sher Shah Suri",
+},
+{
+  question: "Which ruler introduced the silver coin ‘Rupiya’?",
+  options: [
+    "Sher Shah Suri",
+    "Akbar",
+    "Babur",
+    "Humayun",
+  ],
+  answer: "Sher Shah Suri",
+},
+{
+  question: "Who wrote Akbarnama?",
+  options: [
+    "Abul Fazl",
+    "Badauni",
+    "Faizi",
+    "Birbal",
+  ],
+  answer: "Abul Fazl",
+},
+{
+  question: "Which ruler constructed the Red Fort in Delhi?",
+  options: [
+    "Shah Jahan",
+    "Akbar",
+    "Babur",
+    "Aurangzeb",
+  ],
+  answer: "Shah Jahan",
+},
+{
+  question: "Who was the last Mughal emperor?",
+  options: [
+    "Bahadur Shah II",
+    "Aurangzeb",
+    "Akbar II",
+    "Shah Alam II",
+  ],
+  answer: "Bahadur Shah II",
+},
+{
+  question: "Which ruler established the Mansabdari system?",
+  options: [
+    "Akbar",
+    "Babur",
+    "Humayun",
+    "Aurangzeb",
+  ],
+  answer: "Akbar",
+},
+{
+  question: "Who translated the Mahabharata into Persian during Akbar’s reign?",
+  options: [
+    "Abdul Qadir Badauni",
+    "Faizi",
+    "Abul Fazl",
+    "Birbal",
+  ],
+  answer: "Abdul Qadir Badauni",
+},
+{
+  question: "Which ruler built Buland Darwaza?",
+  options: [
+    "Akbar",
+    "Shah Jahan",
+    "Aurangzeb",
+    "Babur",
+  ],
+  answer: "Akbar",
+},
+{
+  question: "Who founded the Tughlaq dynasty?",
+  options: [
+    "Ghiyasuddin Tughlaq",
+    "Muhammad bin Tughlaq",
+    "Firoz Shah Tughlaq",
+    "Balban",
+  ],
+  answer: "Ghiyasuddin Tughlaq",
+},
+{
+  question: "Which ruler shifted the capital from Delhi to Daulatabad?",
+  options: [
+    "Muhammad bin Tughlaq",
+    "Balban",
+    "Iltutmish",
+    "Alauddin Khalji",
+  ],
+  answer: "Muhammad bin Tughlaq",
+},
+{
+  question: "Which ruler built Firoz Shah Kotla?",
+  options: [
+    "Firoz Shah Tughlaq",
+    "Balban",
+    "Alauddin Khalji",
+    "Iltutmish",
+  ],
+  answer: "Firoz Shah Tughlaq",
+},
+{
+  question: "Who introduced token currency in medieval India?",
+  options: [
+    "Muhammad bin Tughlaq",
+    "Balban",
+    "Akbar",
+    "Sher Shah",
+  ],
+  answer: "Muhammad bin Tughlaq",
+},
+{
+  question: "Which battle ended the Vijayanagara Empire?",
+  options: [
+    "Battle of Talikota",
+    "Battle of Panipat",
+    "Battle of Khanwa",
+    "Battle of Plassey",
+  ],
+  answer: "Battle of Talikota",
+},
+{
+  question: "Who was the greatest ruler of the Vijayanagara Empire?",
+  options: [
+    "Krishnadevaraya",
+    "Harihara",
+    "Bukka",
+    "Devaraya II",
+  ],
+  answer: "Krishnadevaraya",
+},
+{
+  question: "Which ruler built Humayun’s Tomb?",
+  options: [
+    "Haji Begum",
+    "Akbar",
+    "Shah Jahan",
+    "Nur Jahan",
+  ],
+  answer: "Haji Begum",
+},
+{
+  question: "Who was known as the ‘Jagat Guru’ of medieval India?",
+  options: [
+    "Shankaracharya",
+    "Ramanuja",
+    "Kabir",
+    "Guru Nanak",
+  ],
+  answer: "Shankaracharya",
+},
+{
+  question: "Which Bhakti saint preached in Punjab?",
+  options: [
+    "Guru Nanak",
+    "Kabir",
+    "Tulsidas",
+    "Mirabai",
+  ],
+  answer: "Guru Nanak",
+},
+{
+  question: "Who wrote Ramcharitmanas?",
+  options: [
+    "Tulsidas",
+    "Kabir",
+    "Surdas",
+    "Kalidasa",
+  ],
+  answer: "Tulsidas",
+},
   ];
 
