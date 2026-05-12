@@ -1769,5 +1769,515 @@ export const ancientHistoryMcq = [
   ],
   answer: "Rajendra Chola I",
 },
+  {
+  question: "Which ruler founded the Gupta Era in 320 CE?",
+  options: [
+    "Chandragupta I",
+    "Samudragupta",
+    "Ashoka",
+    "Harsha",
+  ],
+  answer: "Chandragupta I",
+},
+{
+  question: "Which ancient city was famous for cotton production?",
+  options: [
+    "Mohenjo-Daro",
+    "Taxila",
+    "Kannauj",
+    "Ujjain",
+  ],
+  answer: "Mohenjo-Daro",
+},
+{
+  question: "Who among the following was a famous Jain teacher?",
+  options: [
+    "Parshvanatha",
+    "Ashoka",
+    "Kalidasa",
+    "Banabhatta",
+  ],
+  answer: "Parshvanatha",
+},
+{
+  question: "Which ruler is known for the conquest of South India in the Allahabad inscription?",
+  options: [
+    "Samudragupta",
+    "Harsha",
+    "Kanishka",
+    "Ashoka",
+  ],
+  answer: "Samudragupta",
+},
+{
+  question: "Which dynasty ruled over Kashmir during ancient times?",
+  options: [
+    "Karkota",
+    "Maurya",
+    "Gupta",
+    "Chola",
+  ],
+  answer: "Karkota",
+},
+{
+  question: "Which Veda contains sacrificial formulas?",
+  options: [
+    "Yajurveda",
+    "Rigveda",
+    "Samaveda",
+    "Atharvaveda",
+  ],
+  answer: "Yajurveda",
+},
+{
+  question: "Who established the Vikramashila monastery?",
+  options: [
+    "Dharmapala",
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+  ],
+  answer: "Dharmapala",
+},
+{
+  question: "Which ruler was called ‘Kaviraja’?",
+  options: [
+    "Samudragupta",
+    "Ashoka",
+    "Kanishka",
+    "Harsha",
+  ],
+  answer: "Samudragupta",
+},
+{
+  question: "Which dynasty built the temples at Khajuraho?",
+  options: [
+    "Chandela",
+    "Maurya",
+    "Gupta",
+    "Pallava",
+  ],
+  answer: "Chandela",
+},
+{
+  question: "Which ancient Indian text is a source of Mauryan administration?",
+  options: [
+    "Arthashastra",
+    "Rigveda",
+    "Ramayana",
+    "Meghaduta",
+  ],
+  answer: "Arthashastra",
+},
+{
+  question: "Which ruler sent Mahendra and Sanghamitra to Sri Lanka?",
+  options: [
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+    "Bindusara",
+  ],
+  answer: "Ashoka",
+},
+{
+  question: "Which dynasty is associated with Amaravati Stupa?",
+  options: [
+    "Satavahana",
+    "Maurya",
+    "Gupta",
+    "Pallava",
+  ],
+  answer: "Satavahana",
+},
+{
+  question: "Which ruler wrote plays like Ratnavali and Nagananda?",
+  options: [
+    "Harsha",
+    "Ashoka",
+    "Kanishka",
+    "Samudragupta",
+  ],
+  answer: "Harsha",
+},
+{
+  question: "Which ruler founded the city of Srinagar?",
+  options: [
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+    "Samudragupta",
+  ],
+  answer: "Ashoka",
+},
+{
+  question: "Which ancient civilization had advanced drainage systems?",
+  options: [
+    "Harappan Civilization",
+    "Vedic Civilization",
+    "Mauryan Civilization",
+    "Gupta Civilization",
+  ],
+  answer: "Harappan Civilization",
+},
+{
+  question: "Which ruler built the Qutub Minar foundation?",
+  options: [
+    "Qutb-ud-din Aibak",
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+  ],
+  answer: "Qutb-ud-din Aibak",
+},
+{
+  question: "Which ruler was known for religious tolerance in ancient India?",
+  options: [
+    "Ashoka",
+    "Dhanananda",
+    "Pushyamitra",
+    "Simuka",
+  ],
+  answer: "Ashoka",
+},
+{
+  question: "Which text contains dialogues between Nachiketa and Yama?",
+  options: [
+    "Kathopanishad",
+    "Rigveda",
+    "Ramayana",
+    "Mahabharata",
+  ],
+  answer: "Kathopanishad",
+},
+{
+  question: "Which dynasty was known for bronze sculptures?",
+  options: [
+    "Chola",
+    "Maurya",
+    "Gupta",
+    "Shunga",
+  ],
+  answer: "Chola",
+},
+{
+  question: "Who built the Jagannath Temple at Puri?",
+  options: [
+    "Anantavarman Chodaganga",
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+  ],
+  answer: "Anantavarman Chodaganga",
+},
+{
+  question: "Which ruler is credited with spreading Buddhism to Central Asia?",
+  options: [
+    "Kanishka",
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+  ],
+  answer: "Kanishka",
+},
+{
+  question: "Which dynasty issued the largest number of gold coins?",
+  options: [
+    "Gupta",
+    "Maurya",
+    "Nanda",
+    "Shunga",
+  ],
+  answer: "Gupta",
+},
+{
+  question: "Who was the founder of the Pallava dynasty?",
+  options: [
+    "Simhavishnu",
+    "Mahendravarman",
+    "Narasimhavarman",
+    "Dantidurga",
+  ],
+  answer: "Simhavishnu",
+},
+{
+  question: "Which ruler defeated Harsha on the Narmada river?",
+  options: [
+    "Pulakeshin II",
+    "Ashoka",
+    "Samudragupta",
+    "Kanishka",
+  ],
+  answer: "Pulakeshin II",
+},
+{
+  question: "Which language was used in Gupta inscriptions?",
+  options: [
+    "Sanskrit",
+    "Hindi",
+    "Tamil",
+    "Persian",
+  ],
+  answer: "Sanskrit",
+},
+{
+  question: "Which ruler founded the city of Fatehpur Sikri?",
+  options: [
+    "Akbar",
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+  ],
+  answer: "Akbar",
+},
+{
+  question: "Which ancient Indian work deals with medicine?",
+  options: [
+    "Charaka Samhita",
+    "Arthashastra",
+    "Meghaduta",
+    "Mudrarakshasa",
+  ],
+  answer: "Charaka Samhita",
+},
+{
+  question: "Who composed Gita Govinda?",
+  options: [
+    "Jayadeva",
+    "Kalidasa",
+    "Banabhatta",
+    "Panini",
+  ],
+  answer: "Jayadeva",
+},
+{
+  question: "Which dynasty built the temples at Pattadakal?",
+  options: [
+    "Chalukya",
+    "Maurya",
+    "Gupta",
+    "Pallava",
+  ],
+  answer: "Chalukya",
+},
+{
+  question: "Who was the author of Rajatarangini?",
+  options: [
+    "Kalhana",
+    "Kalidasa",
+    "Banabhatta",
+    "Panini",
+  ],
+  answer: "Kalhana",
+},
+{
+  question: "Which ruler built the Mahabodhi Temple at Bodh Gaya?",
+  options: [
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+    "Samudragupta",
+  ],
+  answer: "Ashoka",
+},
+{
+  question: "Which dynasty was famous for maritime trade?",
+  options: [
+    "Chola",
+    "Maurya",
+    "Shunga",
+    "Kanva",
+  ],
+  answer: "Chola",
+},
+{
+  question: "Which ruler introduced the Dhamma policy?",
+  options: [
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+    "Kanishka",
+  ],
+  answer: "Ashoka",
+},
+{
+  question: "Which ruler invaded India in 326 BCE?",
+  options: [
+    "Alexander",
+    "Seleucus",
+    "Cyrus",
+    "Darius",
+  ],
+  answer: "Alexander",
+},
+{
+  question: "Which Buddhist sect emerged during Kanishka’s reign?",
+  options: [
+    "Mahayana",
+    "Hinayana",
+    "Theravada",
+    "Vajrayana",
+  ],
+  answer: "Mahayana",
+},
+{
+  question: "Which ruler built the Nalanda monastery?",
+  options: [
+    "Kumaragupta",
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+  ],
+  answer: "Kumaragupta",
+},
+{
+  question: "Which ancient Indian scientist explained gravity before Newton?",
+  options: [
+    "Brahmagupta",
+    "Aryabhata",
+    "Panini",
+    "Sushruta",
+  ],
+  answer: "Brahmagupta",
+},
+{
+  question: "Which dynasty ruled from Kanchipuram?",
+  options: [
+    "Pallava",
+    "Maurya",
+    "Gupta",
+    "Satavahana",
+  ],
+  answer: "Pallava",
+},
+{
+  question: "Who built the Vijay Stambha?",
+  options: [
+    "Rana Kumbha",
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+  ],
+  answer: "Rana Kumbha",
+},
+{
+  question: "Which ruler was known as ‘Priyadarshi’?",
+  options: [
+    "Ashoka",
+    "Harsha",
+    "Kanishka",
+    "Samudragupta",
+  ],
+  answer: "Ashoka",
+},
+{
+  question: "Which ruler founded the Sena dynasty?",
+  options: [
+    "Samantasena",
+    "Dharmapala",
+    "Gopala",
+    "Devapala",
+  ],
+  answer: "Samantasena",
+},
+{
+  question: "Which ruler was famous for cave temples at Badami?",
+  options: [
+    "Chalukyas",
+    "Mauryas",
+    "Guptas",
+    "Pallavas",
+  ],
+  answer: "Chalukyas",
+},
+{
+  question: "Which dynasty developed Gandhara art?",
+  options: [
+    "Kushan",
+    "Maurya",
+    "Gupta",
+    "Shunga",
+  ],
+  answer: "Kushan",
+},
+{
+  question: "Which dynasty built the Dilwara Temples?",
+  options: [
+    "Solanki",
+    "Maurya",
+    "Gupta",
+    "Chola",
+  ],
+  answer: "Solanki",
+},
+{
+  question: "Which ruler is associated with Junagadh inscription?",
+  options: [
+    "Rudradaman",
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+  ],
+  answer: "Rudradaman",
+},
+{
+  question: "Which ruler was called ‘Indian Napoleon’?",
+  options: [
+    "Samudragupta",
+    "Ashoka",
+    "Kanishka",
+    "Harsha",
+  ],
+  answer: "Samudragupta",
+},
+{
+  question: "Which dynasty is famous for Brihadeshwara Temple architecture?",
+  options: [
+    "Chola",
+    "Pallava",
+    "Maurya",
+    "Shunga",
+  ],
+  answer: "Chola",
+},
+{
+  question: "Who was the founder of the Haryanka dynasty?",
+  options: [
+    "Bimbisara",
+    "Ajatashatru",
+    "Mahapadma Nanda",
+    "Udayin",
+  ],
+  answer: "Bimbisara",
+},
+{
+  question: "Which ancient university was located near Bhagalpur?",
+  options: [
+    "Vikramashila",
+    "Nalanda",
+    "Taxila",
+    "Vallabhi",
+  ],
+  answer: "Vikramashila",
+},
+{
+  question: "Which ruler established the Rashtrakuta Empire?",
+  options: [
+    "Dantidurga",
+    "Krishna I",
+    "Amoghavarsha",
+    "Govinda III",
+  ],
+  answer: "Dantidurga",
+},
+{
+  question: "Which ruler was famous for naval expeditions to Southeast Asia?",
+  options: [
+    "Rajendra Chola I",
+    "Ashoka",
+    "Harsha",
+    "Samudragupta",
+  ],
+  answer: "Rajendra Chola I",
+},
   ];
 
