@@ -253,6 +253,256 @@ const questions = [
     ],
     answer: "Survey research",
   },
+  {
+  question: "Research problem selection depends on:",
+  options: [
+    "Research interest",
+    "Availability of data",
+    "Feasibility",
+    "All of these",
+  ],
+  answer: "All of these",
+},
+{
+  question: "A good hypothesis should be:",
+  options: [
+    "Testable",
+    "Confusing",
+    "Lengthy",
+    "Emotional",
+  ],
+  answer: "Testable",
+},
+{
+  question: "Bibliography is generally placed:",
+  options: [
+    "Beginning",
+    "Middle",
+    "End",
+    "Title page",
+  ],
+  answer: "End",
+},
+{
+  question: "Cross-sectional research studies data at:",
+  options: [
+    "One point in time",
+    "Different years only",
+    "Historical periods",
+    "Future dates",
+  ],
+  answer: "One point in time",
+},
+{
+  question: "Longitudinal research studies:",
+  options: [
+    "Changes over time",
+    "Only current data",
+    "Only past records",
+    "Single event",
+  ],
+  answer: "Changes over time",
+},
+{
+  question: "Research report writing should be:",
+  options: [
+    "Logical",
+    "Disorganized",
+    "Emotional",
+    "Biased",
+  ],
+  answer: "Logical",
+},
+{
+  question: "An abstract summarizes:",
+  options: [
+    "Entire study briefly",
+    "References only",
+    "Tables only",
+    "Graphs only",
+  ],
+  answer: "Entire study briefly",
+},
+{
+  question: "The title of research should be:",
+  options: [
+    "Clear and concise",
+    "Very lengthy",
+    "Confusing",
+    "Irrelevant",
+  ],
+  answer: "Clear and concise",
+},
+{
+  question: "Research gap refers to:",
+  options: [
+    "Unexplored area",
+    "Typing mistake",
+    "Printing issue",
+    "Formatting error",
+  ],
+  answer: "Unexplored area",
+},
+{
+  question: "Empirical research is based on:",
+  options: [
+    "Observation and evidence",
+    "Guesswork",
+    "Myths",
+    "Beliefs only",
+  ],
+  answer: "Observation and evidence",
+},
+{
+  question: "Conceptual research focuses on:",
+  options: [
+    "Ideas and theories",
+    "Numerical data only",
+    "Chemical tests",
+    "Accounting",
+  ],
+  answer: "Ideas and theories",
+},
+{
+  question: "A variable that affects another variable is:",
+  options: [
+    "Independent variable",
+    "Dependent variable",
+    "Control variable",
+    "Constant",
+  ],
+  answer: "Independent variable",
+},
+{
+  question: "Research instruments include:",
+  options: [
+    "Questionnaires",
+    "Schedules",
+    "Interview guides",
+    "All of these",
+  ],
+  answer: "All of these",
+},
+{
+  question: "Coding in research means:",
+  options: [
+    "Assigning symbols to data",
+    "Programming only",
+    "Deleting responses",
+    "Printing tables",
+  ],
+  answer: "Assigning symbols to data",
+},
+{
+  question: "Data editing is done to:",
+  options: [
+    "Remove errors",
+    "Increase mistakes",
+    "Delete findings",
+    "Avoid interpretation",
+  ],
+  answer: "Remove errors",
+},
+{
+  question: "Frequency distribution shows:",
+  options: [
+    "Occurrence of values",
+    "Only averages",
+    "Only graphs",
+    "Only hypotheses",
+  ],
+  answer: "Occurrence of values",
+},
+{
+  question: "Pie chart is used for:",
+  options: [
+    "Graphical presentation",
+    "Typing",
+    "Coding",
+    "Sampling",
+  ],
+  answer: "Graphical presentation",
+},
+{
+  question: "Bar diagram represents:",
+  options: [
+    "Comparisons",
+    "Narratives",
+    "Stories",
+    "Hypotheses",
+  ],
+  answer: "Comparisons",
+},
+{
+  question: "Research findings should be:",
+  options: [
+    "Objective",
+    "Biased",
+    "Manipulated",
+    "Hidden",
+  ],
+  answer: "Objective",
+},
+{
+  question: "Inference means:",
+  options: [
+    "Drawing conclusions",
+    "Typing data",
+    "Deleting records",
+    "Sampling only",
+  ],
+  answer: "Drawing conclusions",
+},
+{
+  question: "Action research aims at:",
+  options: [
+    "Immediate improvement",
+    "Historical analysis",
+    "Future prediction",
+    "Entertainment",
+  ],
+  answer: "Immediate improvement",
+},
+{
+  question: "Survey method collects data from:",
+  options: [
+    "Respondents",
+    "Machines only",
+    "Books only",
+    "Charts only",
+  ],
+  answer: "Respondents",
+},
+{
+  question: "A sample should represent:",
+  options: [
+    "Population",
+    "Researcher only",
+    "One individual",
+    "Only teachers",
+  ],
+  answer: "Population",
+},
+{
+  question: "Research communication includes:",
+  options: [
+    "Publishing findings",
+    "Ignoring results",
+    "Destroying reports",
+    "Avoiding discussion",
+  ],
+  answer: "Publishing findings",
+},
+{
+  question: "The final stage of research is:",
+  options: [
+    "Report writing",
+    "Sampling",
+    "Hypothesis formulation",
+    "Problem selection",
+  ],
+  answer: "Report writing",
+},
 ];
 
 export default function ResearchMethodologyUnit1() {
