@@ -3789,5 +3789,505 @@ export const ancientHistoryMcq = [
   ],
   answer: "Lord Canning",
 },
+  {
+  question: "Who founded the Servants of India Society?",
+  options: [
+    "Gopal Krishna Gokhale",
+    "Bal Gangadhar Tilak",
+    "Dadabhai Naoroji",
+    "Lala Lajpat Rai",
+  ],
+  answer: "Gopal Krishna Gokhale",
+},
+{
+  question: "Who founded the Home Rule League in Madras?",
+  options: [
+    "Annie Besant",
+    "Bal Gangadhar Tilak",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Annie Besant",
+},
+{
+  question: "Which leader founded the Home Rule League in Maharashtra?",
+  options: [
+    "Bal Gangadhar Tilak",
+    "Annie Besant",
+    "Gopal Krishna Gokhale",
+    "Lala Lajpat Rai",
+  ],
+  answer: "Bal Gangadhar Tilak",
+},
+{
+  question: "Which session of Congress adopted the resolution for complete independence?",
+  options: [
+    "Lahore Session",
+    "Calcutta Session",
+    "Bombay Session",
+    "Surat Session",
+  ],
+  answer: "Lahore Session",
+},
+{
+  question: "Who presided over the Lahore Session of Congress in 1929?",
+  options: [
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Sardar Patel",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "Who gave the slogan ‘Delhi Chalo’?",
+  options: [
+    "Subhas Chandra Bose",
+    "Bhagat Singh",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Subhas Chandra Bose",
+},
+{
+  question: "Which revolutionary organization was founded by Bhagat Singh?",
+  options: [
+    "HSRA",
+    "Anushilan Samiti",
+    "Ghadar Party",
+    "Forward Bloc",
+  ],
+  answer: "HSRA",
+},
+{
+  question: "Who founded the Ghadar Party?",
+  options: [
+    "Lala Hardayal",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Rash Behari Bose",
+  ],
+  answer: "Lala Hardayal",
+},
+{
+  question: "Which commission was boycotted by Indians in 1928?",
+  options: [
+    "Simon Commission",
+    "Hunter Commission",
+    "Cripps Mission",
+    "Cabinet Mission",
+  ],
+  answer: "Simon Commission",
+},
+{
+  question: "Who said ‘Simon Go Back’?",
+  options: [
+    "Lala Lajpat Rai",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Lala Lajpat Rai",
+},
+{
+  question: "Who prepared the Nehru Report?",
+  options: [
+    "Motilal Nehru",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Mahatma Gandhi",
+  ],
+  answer: "Motilal Nehru",
+},
+{
+  question: "Which pact was signed between Gandhi and Irwin?",
+  options: [
+    "Gandhi-Irwin Pact",
+    "Poona Pact",
+    "Lucknow Pact",
+    "Delhi Pact",
+  ],
+  answer: "Gandhi-Irwin Pact",
+},
+{
+  question: "Who represented the depressed classes in the Round Table Conference?",
+  options: [
+    "B.R. Ambedkar",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Which pact was signed between Gandhi and Ambedkar?",
+  options: [
+    "Poona Pact",
+    "Lucknow Pact",
+    "Gandhi-Irwin Pact",
+    "Delhi Pact",
+  ],
+  answer: "Poona Pact",
+},
+{
+  question: "Who founded the Depressed Classes Association?",
+  options: [
+    "B.R. Ambedkar",
+    "Mahatma Gandhi",
+    "Jyotiba Phule",
+    "Periyar",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Who started the Self-Respect Movement?",
+  options: [
+    "Periyar E.V. Ramasamy",
+    "Jyotiba Phule",
+    "B.R. Ambedkar",
+    "Swami Vivekananda",
+  ],
+  answer: "Periyar E.V. Ramasamy",
+},
+{
+  question: "Who founded the Satyashodhak Samaj?",
+  options: [
+    "Jyotiba Phule",
+    "Periyar",
+    "B.R. Ambedkar",
+    "Dayanand Saraswati",
+  ],
+  answer: "Jyotiba Phule",
+},
+{
+  question: "Which act introduced provincial autonomy?",
+  options: [
+    "Government of India Act 1935",
+    "Indian Councils Act 1909",
+    "Regulating Act",
+    "Pitt’s India Act",
+  ],
+  answer: "Government of India Act 1935",
+},
+{
+  question: "Which mission proposed partition of India?",
+  options: [
+    "Mountbatten Plan",
+    "Cabinet Mission",
+    "Cripps Mission",
+    "Simon Commission",
+  ],
+  answer: "Mountbatten Plan",
+},
+{
+  question: "Who was the last Viceroy of India?",
+  options: [
+    "Lord Mountbatten",
+    "Lord Wavell",
+    "Lord Linlithgow",
+    "Lord Curzon",
+  ],
+  answer: "Lord Mountbatten",
+},
+{
+  question: "Who hoisted the national flag on Independence Day 1947?",
+  options: [
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Sardar Patel",
+    "Rajendra Prasad",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "Who integrated princely states into India?",
+  options: [
+    "Sardar Vallabhbhai Patel",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+    "B.R. Ambedkar",
+  ],
+  answer: "Sardar Vallabhbhai Patel",
+},
+{
+  question: "Which freedom fighter founded Azad Hind Fauj?",
+  options: [
+    "Rash Behari Bose",
+    "Subhas Chandra Bose",
+    "Bhagat Singh",
+    "Rajguru",
+  ],
+  answer: "Rash Behari Bose",
+},
+{
+  question: "Who reorganized the Indian National Army?",
+  options: [
+    "Subhas Chandra Bose",
+    "Rash Behari Bose",
+    "Bhagat Singh",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Subhas Chandra Bose",
+},
+{
+  question: "Who wrote ‘Hind Swaraj’?",
+  options: [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "B.R. Ambedkar",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Who authored ‘Annihilation of Caste’?",
+  options: [
+    "B.R. Ambedkar",
+    "Jyotiba Phule",
+    "Periyar",
+    "Mahatma Gandhi",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Who founded Banaras Hindu University?",
+  options: [
+    "Madan Mohan Malaviya",
+    "Annie Besant",
+    "Dayanand Saraswati",
+    "Ishwar Chandra Vidyasagar",
+  ],
+  answer: "Madan Mohan Malaviya",
+},
+{
+  question: "Who founded Aligarh Muslim University?",
+  options: [
+    "Sir Syed Ahmad Khan",
+    "Muhammad Ali Jinnah",
+    "Iqbal",
+    "Aga Khan",
+  ],
+  answer: "Sir Syed Ahmad Khan",
+},
+{
+  question: "Which newspaper was started by Bal Gangadhar Tilak?",
+  options: [
+    "Kesari",
+    "Young India",
+    "Harijan",
+    "Bande Mataram",
+  ],
+  answer: "Kesari",
+},
+{
+  question: "Who started the newspaper ‘Young India’?",
+  options: [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Bal Gangadhar Tilak",
+    "Lala Lajpat Rai",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Which movement was associated with indigo farmers?",
+  options: [
+    "Champaran Satyagraha",
+    "Kheda Movement",
+    "Bardoli Satyagraha",
+    "Quit India Movement",
+  ],
+  answer: "Champaran Satyagraha",
+},
+{
+  question: "Who led the Bardoli Satyagraha?",
+  options: [
+    "Sardar Patel",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+  ],
+  answer: "Sardar Patel",
+},
+{
+  question: "Who founded the newspaper ‘Bande Mataram’?",
+  options: [
+    "Bipin Chandra Pal",
+    "Bal Gangadhar Tilak",
+    "Lala Lajpat Rai",
+    "Aurobindo Ghosh",
+  ],
+  answer: "Bipin Chandra Pal",
+},
+{
+  question: "Who was known as Deshbandhu?",
+  options: [
+    "Chittaranjan Das",
+    "Motilal Nehru",
+    "Subhas Chandra Bose",
+    "Lala Lajpat Rai",
+  ],
+  answer: "Chittaranjan Das",
+},
+{
+  question: "Who founded the Swaraj Party?",
+  options: [
+    "C.R. Das and Motilal Nehru",
+    "Bal Gangadhar Tilak",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+  ],
+  answer: "C.R. Das and Motilal Nehru",
+},
+{
+  question: "Who gave the slogan ‘Back to the Vedas’?",
+  options: [
+    "Dayanand Saraswati",
+    "Swami Vivekananda",
+    "Raja Ram Mohan Roy",
+    "Periyar",
+  ],
+  answer: "Dayanand Saraswati",
+},
+{
+  question: "Who founded the Theosophical Society in India?",
+  options: [
+    "Annie Besant",
+    "Madame Blavatsky",
+    "Dayanand Saraswati",
+    "Swami Vivekananda",
+  ],
+  answer: "Annie Besant",
+},
+{
+  question: "Who started the newspaper ‘Harijan’?",
+  options: [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "B.R. Ambedkar",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Who was the founder of the Indian Association?",
+  options: [
+    "Surendranath Banerjee",
+    "Dadabhai Naoroji",
+    "W.C. Banerjee",
+    "A.O. Hume",
+  ],
+  answer: "Surendranath Banerjee",
+},
+{
+  question: "Which act is known as the Black Act?",
+  options: [
+    "Rowlatt Act",
+    "Government of India Act",
+    "Pitt’s India Act",
+    "Indian Councils Act",
+  ],
+  answer: "Rowlatt Act",
+},
+{
+  question: "Which massacre took place in 1919?",
+  options: [
+    "Jallianwala Bagh Massacre",
+    "Chauri Chaura Incident",
+    "Partition of Bengal",
+    "Bardoli Movement",
+  ],
+  answer: "Jallianwala Bagh Massacre",
+},
+{
+  question: "Who ordered firing at Jallianwala Bagh?",
+  options: [
+    "General Dyer",
+    "Lord Curzon",
+    "Lord Wavell",
+    "Robert Clive",
+  ],
+  answer: "General Dyer",
+},
+{
+  question: "Who founded the Abhinav Bharat Society?",
+  options: [
+    "V.D. Savarkar",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Rajguru",
+  ],
+  answer: "V.D. Savarkar",
+},
+{
+  question: "Who wrote ‘India Wins Freedom’?",
+  options: [
+    "Maulana Abul Kalam Azad",
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "B.R. Ambedkar",
+  ],
+  answer: "Maulana Abul Kalam Azad",
+},
+{
+  question: "Who coined the term ‘Pakistan’?",
+  options: [
+    "Chaudhry Rahmat Ali",
+    "Muhammad Ali Jinnah",
+    "Iqbal",
+    "Aga Khan",
+  ],
+ answer: "Chaudhry Rahmat Ali",
+},
+{
+  question: "Who gave the slogan ‘Vande Mataram’ popular recognition?",
+  options: [
+    "Bankim Chandra Chattopadhyay",
+    "Rabindranath Tagore",
+    "Subhas Chandra Bose",
+    "Bal Gangadhar Tilak",
+  ],
+  answer: "Bankim Chandra Chattopadhyay",
+},
+{
+  question: "Who wrote the national song ‘Vande Mataram’?",
+  options: [
+    "Bankim Chandra Chattopadhyay",
+    "Rabindranath Tagore",
+    "Sarojini Naidu",
+    "Iqbal",
+  ],
+  answer: "Bankim Chandra Chattopadhyay",
+},
+{
+  question: "Who wrote the national anthem of India?",
+  options: [
+    "Rabindranath Tagore",
+    "Bankim Chandra Chattopadhyay",
+    "Sarojini Naidu",
+    "Iqbal",
+  ],
+  answer: "Rabindranath Tagore",
+},
+{
+  question: "Who founded Visva-Bharati University?",
+  options: [
+    "Rabindranath Tagore",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+  ],
+  answer: "Rabindranath Tagore",
+},
+{
+  question: "Which freedom fighter was known as Netaji?",
+  options: [
+    "Subhas Chandra Bose",
+    "Bhagat Singh",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Subhas Chandra Bose",
+},
   ];
 
