@@ -6229,5 +6229,485 @@ export const ancientHistoryMcq = [
   ],
  answer: "Rabindranath Tagore",
 },
+  {
+  question: "Who gave Subhas Chandra Bose the title ‘Netaji’?",
+  options: [
+    "German and Indian soldiers in Germany",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Rabindranath Tagore",
+  ],
+  answer: "German and Indian soldiers in Germany",
+},
+{
+  question: "Which freedom fighter was known as ‘Desh Nayak’?",
+  options: [
+    "Subhas Chandra Bose",
+    "Mahatma Gandhi",
+    "Bal Gangadhar Tilak",
+    "Lala Lajpat Rai",
+  ],
+  answer: "Subhas Chandra Bose",
+},
+{
+  question: "Who was called the ‘Lion of Punjab’?",
+  options: [
+    "Lala Lajpat Rai",
+    "Bhagat Singh",
+    "Udham Singh",
+    "Bal Gangadhar Tilak",
+  ],
+  answer: "Lala Lajpat Rai",
+},
+{
+  question: "Who assassinated Michael O'Dwyer in London?",
+  options: [
+    "Udham Singh",
+    "Bhagat Singh",
+    "Rajguru",
+    "Chandrasekhar Azad",
+  ],
+  answer: "Udham Singh",
+},
+{
+  question: "Who founded the Naujawan Bharat Sabha?",
+  options: [
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Rajguru",
+    "Chandrasekhar Azad",
+  ],
+  answer: "Bhagat Singh",
+},
+{
+  question: "Which revolutionary threw a bomb in the Central Legislative Assembly with Bhagat Singh?",
+  options: [
+    "Batukeshwar Dutt",
+    "Rajguru",
+    "Sukhdev",
+    "Azad",
+  ],
+  answer: "Batukeshwar Dutt",
+},
+{
+  question: "Who founded the revolutionary journal ‘Kirti’?",
+  options: [
+    "Santokh Singh",
+    "Bhagat Singh",
+    "Lala Lajpat Rai",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Santokh Singh",
+},
+{
+  question: "Who wrote the slogan ‘Inquilab Zindabad’ originally?",
+  options: [
+    "Maulana Hasrat Mohani",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Ram Prasad Bismil",
+  ],
+  answer: "Maulana Hasrat Mohani",
+},
+{
+  question: "Which revolutionary wrote ‘Why I am an Atheist’?",
+  options: [
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Rajguru",
+    "Azad",
+  ],
+  answer: "Bhagat Singh",
+},
+{
+  question: "Who founded the Communist Party of India in Tashkent?",
+  options: [
+    "M.N. Roy",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+  ],
+  answer: "M.N. Roy",
+},
+{
+  question: "Which movement opposed the Simon Commission?",
+  options: [
+    "All India Protest Movement",
+    "Swadeshi Movement",
+    "Civil Disobedience Movement",
+    "Quit India Movement",
+  ],
+  answer: "All India Protest Movement",
+},
+{
+  question: "Which slogan became popular during anti-Simon protests?",
+  options: [
+    "Simon Go Back",
+    "Do or Die",
+    "Jai Hind",
+    "Delhi Chalo",
+  ],
+  answer: "Simon Go Back",
+},
+{
+  question: "Who chaired the Simon Commission?",
+  options: [
+    "Sir John Simon",
+    "Lord Irwin",
+    "Stafford Cripps",
+    "Lord Wavell",
+  ],
+  answer: "Sir John Simon",
+},
+{
+  question: "Which committee prepared the Nehru Report?",
+  options: [
+    "All Parties Conference Committee",
+    "Congress Working Committee",
+    "Drafting Committee",
+    "Forward Bloc Committee",
+  ],
+  answer: "All Parties Conference Committee",
+},
+{
+  question: "Which report demanded dominion status for India?",
+  options: [
+    "Nehru Report",
+    "Cripps Report",
+    "Hunter Report",
+    "Cabinet Mission Report",
+  ],
+  answer: "Nehru Report",
+},
+{
+  question: "Who opposed the Nehru Report and proposed Fourteen Points?",
+  options: [
+    "Muhammad Ali Jinnah",
+    "Iqbal",
+    "Maulana Azad",
+    "Aga Khan",
+  ],
+  answer: "Muhammad Ali Jinnah",
+},
+{
+  question: "Who proposed the Fourteen Points?",
+  options: [
+    "Muhammad Ali Jinnah",
+    "Iqbal",
+    "Maulana Azad",
+    "Liaquat Ali Khan",
+  ],
+  answer: "Muhammad Ali Jinnah",
+},
+{
+  question: "Which Congress session adopted Purna Swaraj resolution?",
+  options: [
+    "Lahore Session 1929",
+    "Bombay Session",
+    "Karachi Session",
+    "Surat Session",
+  ],
+  answer: "Lahore Session 1929",
+},
+{
+  question: "On which date was Independence Day first celebrated by Congress?",
+  options: [
+    "26 January 1930",
+    "15 August 1947",
+    "26 November 1949",
+    "2 October 1930",
+  ],
+  answer: "26 January 1930",
+},
+{
+  question: "Who led the Salt Satyagraha at Dharasana after Gandhi’s arrest?",
+  options: [
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Kasturba Gandhi",
+    "Aruna Asaf Ali",
+  ],
+  answer: "Sarojini Naidu",
+},
+{
+  question: "Which woman freedom fighter is known as the ‘Nightingale of India’?",
+  options: [
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Aruna Asaf Ali",
+    "Kasturba Gandhi",
+  ],
+  answer: "Sarojini Naidu",
+},
+{
+  question: "Who was the first Indian woman president of the INC?",
+  options: [
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Sucheta Kriplani",
+    "Vijayalakshmi Pandit",
+  ],
+  answer: "Sarojini Naidu",
+},
+{
+  question: "Which movement was suspended after the Gandhi-Irwin Pact?",
+  options: [
+    "Civil Disobedience Movement",
+    "Quit India Movement",
+    "Non-Cooperation Movement",
+    "Swadeshi Movement",
+  ],
+  answer: "Civil Disobedience Movement",
+},
+{
+  question: "Who founded the Congress Socialist Party?",
+  options: [
+    "Jayaprakash Narayan",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "M.N. Roy",
+  ],
+  answer: "Jayaprakash Narayan",
+},
+{
+  question: "Which leader was associated with socialist ideas within Congress?",
+  options: [
+    "Jayaprakash Narayan",
+    "Bal Gangadhar Tilak",
+    "Lala Lajpat Rai",
+    "Gopal Krishna Gokhale",
+  ],
+  answer: "Jayaprakash Narayan",
+},
+{
+  question: "Who organized underground radio during the Quit India Movement?",
+  options: [
+    "Usha Mehta",
+    "Aruna Asaf Ali",
+    "Sarojini Naidu",
+    "Sucheta Kriplani",
+  ],
+  answer: "Usha Mehta",
+},
+{
+  question: "Which woman freedom fighter is associated with underground radio broadcasts?",
+  options: [
+    "Usha Mehta",
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Kasturba Gandhi",
+  ],
+  answer: "Usha Mehta",
+},
+{
+  question: "Who was the first woman Chief Minister of an Indian state?",
+  options: [
+    "Sucheta Kriplani",
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Indira Gandhi",
+  ],
+  answer: "Sucheta Kriplani",
+},
+{
+  question: "Who founded the Azad Hind Radio?",
+  options: [
+    "Subhas Chandra Bose",
+    "Bhagat Singh",
+    "M.N. Roy",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Subhas Chandra Bose",
+},
+{
+  question: "Which slogan is associated with INA?",
+  options: [
+    "Jai Hind",
+    "Do or Die",
+    "Simon Go Back",
+    "Vande Mataram",
+  ],
+  answer: "Jai Hind",
+},
+{
+  question: "Who coined the slogan ‘Jai Hind’?",
+  options: [
+    "Abid Hasan",
+    "Subhas Chandra Bose",
+    "Bhagat Singh",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Abid Hasan",
+},
+{
+  question: "Who led the INA trials defense committee?",
+  options: [
+    "Bhulabhai Desai",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "Rajendra Prasad",
+  ],
+  answer: "Bhulabhai Desai",
+},
+{
+  question: "Where were the INA trials held?",
+  options: [
+    "Red Fort",
+    "Bombay High Court",
+    "Allahabad High Court",
+    "Lahore Fort",
+  ],
+  answer: "Red Fort",
+},
+{
+  question: "Which revolt by naval ratings shook British rule in 1946?",
+  options: [
+    "Royal Indian Navy Revolt",
+    "Sepoy Mutiny",
+    "Santhal Revolt",
+    "Moplah Revolt",
+  ],
+  answer: "Royal Indian Navy Revolt",
+},
+{
+  question: "Where did the Royal Indian Navy Revolt begin?",
+  options: [
+    "Bombay",
+    "Calcutta",
+    "Delhi",
+    "Madras",
+  ],
+  answer: "Bombay",
+},
+{
+  question: "Who proposed the Two-Nation Theory?",
+  options: [
+    "Muhammad Ali Jinnah",
+    "Iqbal",
+    "Sir Syed Ahmad Khan",
+    "Liaquat Ali Khan",
+  ],
+  answer: "Muhammad Ali Jinnah",
+},
+{
+  question: "Who presided over the Muslim League session at Lahore in 1940?",
+  options: [
+    "Muhammad Ali Jinnah",
+    "Iqbal",
+    "Liaquat Ali Khan",
+    "Aga Khan",
+  ],
+  answer: "Muhammad Ali Jinnah",
+},
+{
+  question: "Which resolution demanded Pakistan?",
+  options: [
+    "Lahore Resolution",
+    "Delhi Resolution",
+    "Karachi Resolution",
+    "Lucknow Pact",
+  ],
+  answer: "Lahore Resolution",
+},
+{
+  question: "Which mission proposed a federal structure for India?",
+  options: [
+    "Cabinet Mission",
+    "Cripps Mission",
+    "Simon Commission",
+    "Hunter Commission",
+  ],
+  answer: "Cabinet Mission",
+},
+{
+  question: "Who headed the Interim Government in 1946?",
+  options: [
+    "Jawaharlal Nehru",
+    "Muhammad Ali Jinnah",
+    "Rajendra Prasad",
+    "Sardar Patel",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "Who was independent India’s first Deputy Prime Minister?",
+  options: [
+    "Sardar Vallabhbhai Patel",
+    "Rajendra Prasad",
+    "B.R. Ambedkar",
+    "Lal Bahadur Shastri",
+  ],
+  answer: "Sardar Vallabhbhai Patel",
+},
+{
+  question: "Who integrated Hyderabad into the Indian Union?",
+  options: [
+    "Sardar Patel",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+    "B.R. Ambedkar",
+  ],
+  answer: "Sardar Patel",
+},
+{
+  question: "Which operation integrated Hyderabad into India?",
+  options: [
+    "Operation Polo",
+    "Operation Vijay",
+    "Operation Blue Star",
+    "Operation Trident",
+  ],
+  answer: "Operation Polo",
+},
+{
+  question: "Who was known as the ‘Bismarck of India’?",
+  options: [
+    "Sardar Vallabhbhai Patel",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "B.R. Ambedkar",
+  ],
+  answer: "Sardar Vallabhbhai Patel",
+},
+{
+  question: "Who became the first Law Minister of independent India?",
+  options: [
+    "B.R. Ambedkar",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+    "Sardar Patel",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Who resigned from Nehru’s cabinet over the Hindu Code Bill issue?",
+  options: [
+    "B.R. Ambedkar",
+    "Sardar Patel",
+    "Rajendra Prasad",
+    "C. Rajagopalachari",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Who was the first Education Minister of India?",
+  options: [
+    "Maulana Abul Kalam Azad",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Rajendra Prasad",
+  ],
+  answer: "Maulana Abul Kalam Azad",
+},
+{
+  question: "Which leader is known as the ‘Grand Old Man of India’?",
+  options: [
+    "Dadabhai Naoroji",
+    "Bal Gangadhar Tilak",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Dadabhai Naoroji",
+},
   ];
 
