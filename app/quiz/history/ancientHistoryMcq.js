@@ -5259,5 +5259,475 @@ export const ancientHistoryMcq = [
   ],
  answer: "Vernacular Press Act",
 },
+  {
+  question: "Who introduced the Arms Act in India?",
+  options: [
+    "Lord Lytton",
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Dalhousie",
+  ],
+  answer: "Lord Lytton",
+},
+{
+  question: "Which Viceroy organized the Delhi Durbar of 1877?",
+  options: [
+    "Lord Lytton",
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Canning",
+  ],
+  answer: "Lord Lytton",
+},
+{
+  question: "Who introduced the Hunter Commission on education?",
+  options: [
+    "Lord Ripon",
+    "Lord Curzon",
+    "Lord Dalhousie",
+    "Lord Wellesley",
+  ],
+  answer: "Lord Ripon",
+},
+{
+  question: "Which commission was formed to investigate the Jallianwala Bagh massacre?",
+  options: [
+    "Hunter Commission",
+    "Simon Commission",
+    "Cripps Mission",
+    "Cabinet Mission",
+  ],
+  answer: "Hunter Commission",
+},
+{
+  question: "Who introduced the Indian Universities Act of 1904?",
+  options: [
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Dalhousie",
+    "Lord Wellesley",
+  ],
+  answer: "Lord Curzon",
+},
+{
+  question: "Which Viceroy transferred the capital from Calcutta to Delhi?",
+  options: [
+    "Lord Hardinge",
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Lytton",
+  ],
+  answer: "Lord Hardinge",
+},
+{
+  question: "Who announced the partition of Bengal in 1905?",
+  options: [
+    "Lord Curzon",
+    "Lord Hardinge",
+    "Lord Ripon",
+    "Lord Dalhousie",
+  ],
+  answer: "Lord Curzon",
+},
+{
+  question: "Which act introduced separate electorates for Muslims?",
+  options: [
+    "Indian Councils Act 1909",
+    "Government of India Act 1935",
+    "Pitt’s India Act",
+    "Regulating Act",
+  ],
+  answer: "Indian Councils Act 1909",
+},
+{
+  question: "The Indian Councils Act 1909 is also known as:",
+  options: [
+    "Morley-Minto Reforms",
+    "Montagu-Chelmsford Reforms",
+    "Pitt’s India Act",
+    "Regulating Act",
+  ],
+  answer: "Morley-Minto Reforms",
+},
+{
+  question: "Which reforms introduced dyarchy at the provincial level?",
+  options: [
+    "Montagu-Chelmsford Reforms",
+    "Morley-Minto Reforms",
+    "Pitt’s India Act",
+    "Regulating Act",
+  ],
+  answer: "Montagu-Chelmsford Reforms",
+},
+{
+  question: "Which act is associated with Montagu-Chelmsford Reforms?",
+  options: [
+    "Government of India Act 1919",
+    "Government of India Act 1935",
+    "Indian Councils Act 1909",
+    "Regulating Act",
+  ],
+  answer: "Government of India Act 1919",
+},
+{
+  question: "Who was the Secretary of State associated with the 1919 reforms?",
+  options: [
+    "Edwin Montagu",
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Dalhousie",
+  ],
+  answer: "Edwin Montagu",
+},
+{
+  question: "Which movement was launched against the Rowlatt Act?",
+  options: [
+    "Rowlatt Satyagraha",
+    "Civil Disobedience Movement",
+    "Quit India Movement",
+    "Swadeshi Movement",
+  ],
+  answer: "Rowlatt Satyagraha",
+},
+{
+  question: "Who launched the Rowlatt Satyagraha?",
+  options: [
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "Bal Gangadhar Tilak",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Which movement was launched by Gandhi in support of the Khilafat issue?",
+  options: [
+    "Non-Cooperation Movement",
+    "Civil Disobedience Movement",
+    "Quit India Movement",
+    "Swadeshi Movement",
+  ],
+  answer: "Non-Cooperation Movement",
+},
+{
+  question: "Who were the leaders of the Khilafat Movement?",
+  options: [
+    "Ali Brothers",
+    "Lala Lajpat Rai",
+    "Bal Gangadhar Tilak",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Ali Brothers",
+},
+{
+  question: "Which event marked the withdrawal of the Non-Cooperation Movement?",
+  options: [
+    "Chauri Chaura Incident",
+    "Jallianwala Bagh Massacre",
+    "Dandi March",
+    "Kakori Conspiracy",
+  ],
+  answer: "Chauri Chaura Incident",
+},
+{
+  question: "Where did the Chauri Chaura incident take place?",
+  options: [
+    "Gorakhpur",
+    "Lucknow",
+    "Kanpur",
+    "Allahabad",
+  ],
+  answer: "Gorakhpur",
+},
+{
+  question: "Who founded the Swaraj Party in 1923?",
+  options: [
+    "C.R. Das and Motilal Nehru",
+    "Mahatma Gandhi and Nehru",
+    "Tilak and Lajpat Rai",
+    "Subhas Bose and Azad",
+  ],
+  answer: "C.R. Das and Motilal Nehru",
+},
+{
+  question: "Which movement was launched with the Dandi March?",
+  options: [
+    "Civil Disobedience Movement",
+    "Quit India Movement",
+    "Swadeshi Movement",
+    "Khilafat Movement",
+  ],
+  answer: "Civil Disobedience Movement",
+},
+{
+  question: "From where did Gandhi start the Dandi March?",
+  options: [
+    "Sabarmati Ashram",
+    "Wardha",
+    "Porbandar",
+    "Champaran",
+  ],
+  answer: "Sabarmati Ashram",
+},
+{
+  question: "Who was the Viceroy during the Civil Disobedience Movement?",
+  options: [
+    "Lord Irwin",
+    "Lord Curzon",
+    "Lord Linlithgow",
+    "Lord Wavell",
+  ],
+  answer: "Lord Irwin",
+},
+{
+  question: "Which pact ended the Civil Disobedience Movement temporarily?",
+  options: [
+    "Gandhi-Irwin Pact",
+    "Poona Pact",
+    "Lucknow Pact",
+    "Delhi Pact",
+  ],
+  answer: "Gandhi-Irwin Pact",
+},
+{
+  question: "Who represented Congress in the Second Round Table Conference?",
+  options: [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "B.R. Ambedkar",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Where were the Round Table Conferences held?",
+  options: [
+    "London",
+    "Delhi",
+    "Bombay",
+    "Calcutta",
+  ],
+  answer: "London",
+},
+{
+  question: "Who announced the Communal Award?",
+  options: [
+    "Ramsay MacDonald",
+    "Lord Irwin",
+    "Lord Curzon",
+    "Lord Linlithgow",
+  ],
+  answer: "Ramsay MacDonald",
+},
+{
+  question: "Which pact opposed separate electorates for depressed classes?",
+  options: [
+    "Poona Pact",
+    "Lucknow Pact",
+    "Delhi Pact",
+    "Gandhi-Irwin Pact",
+  ],
+  answer: "Poona Pact",
+},
+{
+  question: "Who fasted against the Communal Award?",
+  options: [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "B.R. Ambedkar",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Which session of Congress elected Subhas Chandra Bose as president?",
+  options: [
+    "Haripura Session",
+    "Lahore Session",
+    "Surat Session",
+    "Bombay Session",
+  ],
+  answer: "Haripura Session",
+},
+{
+  question: "Which Congress session witnessed the split between moderates and extremists?",
+  options: [
+    "Surat Session",
+    "Lahore Session",
+    "Bombay Session",
+    "Lucknow Session",
+  ],
+  answer: "Surat Session",
+},
+{
+  question: "Which Congress session adopted the resolution of complete independence?",
+  options: [
+    "Lahore Session",
+    "Surat Session",
+    "Bombay Session",
+    "Lucknow Session",
+  ],
+  answer: "Lahore Session",
+},
+{
+  question: "Who presided over the first session of the Indian National Congress?",
+  options: [
+    "W.C. Banerjee",
+    "Dadabhai Naoroji",
+    "A.O. Hume",
+    "Surendranath Banerjee",
+  ],
+  answer: "W.C. Banerjee",
+},
+{
+  question: "Which Congress session was presided over by Annie Besant?",
+  options: [
+    "Calcutta Session 1917",
+    "Lahore Session",
+    "Bombay Session",
+    "Lucknow Session",
+  ],
+  answer: "Calcutta Session 1917",
+},
+{
+  question: "Who presided over the Lahore Session of INC in 1929?",
+  options: [
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Sardar Patel",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "Who presided over the Haripura Session of INC?",
+  options: [
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Sardar Patel",
+  ],
+  answer: "Subhas Chandra Bose",
+},
+{
+  question: "Which Congress session accepted the Mountbatten Plan?",
+  options: [
+    "Delhi Session 1947",
+    "Lahore Session",
+    "Bombay Session",
+    "Karachi Session",
+  ],
+  answer: "Delhi Session 1947",
+},
+{
+  question: "Which session adopted the resolution on Fundamental Rights?",
+  options: [
+    "Karachi Session",
+    "Lahore Session",
+    "Bombay Session",
+    "Surat Session",
+  ],
+  answer: "Karachi Session",
+},
+{
+  question: "Who presided over the Karachi Session of INC?",
+  options: [
+    "Sardar Patel",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "Mahatma Gandhi",
+  ],
+  answer: "Sardar Patel",
+},
+{
+  question: "Who founded the Forward Bloc in 1939?",
+  options: [
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Sardar Patel",
+  ],
+  answer: "Subhas Chandra Bose",
+},
+{
+  question: "Which movement was launched in August 1942?",
+  options: [
+    "Quit India Movement",
+    "Civil Disobedience Movement",
+    "Swadeshi Movement",
+    "Khilafat Movement",
+  ],
+  answer: "Quit India Movement",
+},
+{
+  question: "Where was the Quit India resolution passed?",
+  options: [
+    "Bombay",
+    "Delhi",
+    "Calcutta",
+    "Lucknow",
+  ],
+  answer: "Bombay",
+},
+{
+  question: "Which slogan is associated with the Quit India Movement?",
+  options: [
+    "Do or Die",
+    "Jai Hind",
+    "Inquilab Zindabad",
+    "Delhi Chalo",
+  ],
+  answer: "Do or Die",
+},
+{
+  question: "Who gave the slogan ‘Do or Die’?",
+  options: [
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Bhagat Singh",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Who led the underground movement during Quit India?",
+  options: [
+    "Jayaprakash Narayan",
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Jayaprakash Narayan",
+},
+{
+  question: "Who organized the Azad Dasta during the Quit India Movement?",
+  options: [
+    "Jayaprakash Narayan",
+    "Ram Manohar Lohia",
+    "Aruna Asaf Ali",
+    "Subhas Bose",
+  ],
+  answer: "Jayaprakash Narayan",
+},
+{
+  question: "Which mission came to India in 1942?",
+  options: [
+    "Cripps Mission",
+    "Cabinet Mission",
+    "Simon Commission",
+    "Hunter Commission",
+  ],
+  answer: "Cripps Mission",
+},
+{
+  question: "Who headed the Cripps Mission?",
+  options: [
+    "Stafford Cripps",
+    "Lord Wavell",
+    "Lord Mountbatten",
+    "Lord Linlithgow",
+  ],
+ answer: "Stafford Cripps",
+},
   ];
 
