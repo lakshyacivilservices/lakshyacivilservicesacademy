@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
@@ -6,11 +6,11 @@
 </url>
 
 <url>
-<loc>https://lakshyaquizacademy.vercel.app/quiz/hrm</loc>
+<loc>https://lakshyaquizacademy.vercel.app/history-quiz</loc>
 </url>
 
 <url>
-<loc>https://lakshyaquizacademy.vercel.app/quiz/hrm/unit-1</loc>
+<loc>https://lakshyaquizacademy.vercel.app/ugc-net-psychology-mcq</loc>
 </url>
 
 </urlset>
