@@ -5729,5 +5729,505 @@ export const ancientHistoryMcq = [
   ],
  answer: "Stafford Cripps",
 },
+  {
+  question: "Which plan proposed the partition of India in 1947?",
+  options: [
+    "Mountbatten Plan",
+    "Cabinet Mission Plan",
+    "Cripps Plan",
+    "Wavell Plan",
+  ],
+  answer: "Mountbatten Plan",
+},
+{
+  question: "Who announced the June 3 Plan?",
+  options: [
+    "Lord Mountbatten",
+    "Lord Wavell",
+    "Lord Linlithgow",
+    "Lord Curzon",
+  ],
+  answer: "Lord Mountbatten",
+},
+{
+  question: "Which act granted independence to India and Pakistan?",
+  options: [
+    "Indian Independence Act 1947",
+    "Government of India Act 1935",
+    "Indian Councils Act 1909",
+    "Regulating Act",
+  ],
+  answer: "Indian Independence Act 1947",
+},
+{
+  question: "When was the Indian Independence Act passed?",
+  options: [
+    "1947",
+    "1946",
+    "1935",
+    "1919",
+  ],
+  answer: "1947",
+},
+{
+  question: "Who was the first Governor-General of independent India?",
+  options: [
+    "Lord Mountbatten",
+    "C. Rajagopalachari",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+  ],
+  answer: "Lord Mountbatten",
+},
+{
+  question: "Who became the first Indian Governor-General after independence?",
+  options: [
+    "C. Rajagopalachari",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+    "Sardar Patel",
+  ],
+  answer: "C. Rajagopalachari",
+},
+{
+  question: "Who was the chairman of the Union Powers Committee?",
+  options: [
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Sardar Patel",
+    "Rajendra Prasad",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "Who was the chairman of the Provincial Constitution Committee?",
+  options: [
+    "Sardar Patel",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+    "B.R. Ambedkar",
+  ],
+  answer: "Sardar Patel",
+},
+{
+  question: "Who was the constitutional advisor to the Constituent Assembly?",
+  options: [
+    "B.N. Rau",
+    "B.R. Ambedkar",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+  ],
+  answer: "B.N. Rau",
+},
+{
+  question: "When was the Constitution of India adopted?",
+  options: [
+    "26 November 1949",
+    "26 January 1950",
+    "15 August 1947",
+    "2 October 1948",
+  ],
+  answer: "26 November 1949",
+},
+{
+  question: "When did the Constituent Assembly first meet?",
+  options: [
+    "9 December 1946",
+    "15 August 1947",
+    "26 January 1950",
+    "26 November 1949",
+  ],
+  answer: "9 December 1946",
+},
+{
+  question: "Who was the temporary chairman of the Constituent Assembly?",
+  options: [
+    "Sachchidananda Sinha",
+    "Rajendra Prasad",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+  ],
+  answer: "Sachchidananda Sinha",
+},
+{
+  question: "Who moved the Objectives Resolution in December 1946?",
+  options: [
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Rajendra Prasad",
+    "Sardar Patel",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "Who is known as the architect of the Indian Constitution?",
+  options: [
+    "B.R. Ambedkar",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+    "Sardar Patel",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Which committee was chaired by B.R. Ambedkar?",
+  options: [
+    "Drafting Committee",
+    "Union Powers Committee",
+    "Provincial Constitution Committee",
+    "Steering Committee",
+  ],
+  answer: "Drafting Committee",
+},
+{
+  question: "How many members were originally in the Drafting Committee?",
+  options: [
+    "7",
+    "5",
+    "9",
+    "11",
+  ],
+  answer: "7",
+},
+{
+  question: "Who designed the Ashoka Chakra in the national flag?",
+  options: [
+    "Pingali Venkayya",
+    "B.R. Ambedkar",
+    "Rabindranath Tagore",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Pingali Venkayya",
+},
+{
+  question: "When was the national flag adopted?",
+  options: [
+    "22 July 1947",
+    "15 August 1947",
+    "26 January 1950",
+    "26 November 1949",
+  ],
+  answer: "22 July 1947",
+},
+{
+  question: "Who composed the national anthem ‘Jana Gana Mana’?",
+  options: [
+    "Rabindranath Tagore",
+    "Bankim Chandra Chattopadhyay",
+    "Sarojini Naidu",
+    "Iqbal",
+  ],
+  answer: "Rabindranath Tagore",
+},
+{
+  question: "Which song was adopted as the national song of India?",
+  options: [
+    "Vande Mataram",
+    "Jana Gana Mana",
+    "Sare Jahan Se Achha",
+    "Ae Mere Watan Ke Logon",
+  ],
+  answer: "Vande Mataram",
+},
+{
+  question: "Who wrote ‘Sare Jahan Se Achha’?",
+  options: [
+    "Muhammad Iqbal",
+    "Rabindranath Tagore",
+    "Bankim Chandra Chattopadhyay",
+    "Sarojini Naidu",
+  ],
+  answer: "Muhammad Iqbal",
+},
+{
+  question: "Who founded the Indian National Liberal Federation?",
+  options: [
+    "Surendranath Banerjee",
+    "Dadabhai Naoroji",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Surendranath Banerjee",
+},
+{
+  question: "Which revolutionary founded the Ghadar newspaper?",
+  options: [
+    "Lala Hardayal",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Rash Behari Bose",
+  ],
+  answer: "Lala Hardayal",
+},
+{
+  question: "Who was the founder of the revolutionary group Yugantar?",
+  options: [
+    "Barindra Kumar Ghosh",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Chandrasekhar Azad",
+  ],
+  answer: "Barindra Kumar Ghosh",
+},
+{
+  question: "Who organized the Chapekar brothers’ movement?",
+  options: [
+    "Damodar Chapekar",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Rajguru",
+  ],
+  answer: "Damodar Chapekar",
+},
+{
+  question: "Who founded the Hindustan Socialist Republican Association?",
+  options: [
+    "Chandrasekhar Azad",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Ram Prasad Bismil",
+  ],
+  answer: "Chandrasekhar Azad",
+},
+{
+  question: "Who was hanged along with Bhagat Singh?",
+  options: [
+    "Rajguru and Sukhdev",
+    "Azad and Bismil",
+    "Bose and Azad",
+    "Batukeshwar Dutt and Azad",
+  ],
+  answer: "Rajguru and Sukhdev",
+},
+{
+  question: "Who founded the newspaper ‘The Hindu’?",
+  options: [
+    "G. Subramania Iyer",
+    "Bal Gangadhar Tilak",
+    "Mahatma Gandhi",
+    "Surendranath Banerjee",
+  ],
+  answer: "G. Subramania Iyer",
+},
+{
+  question: "Who founded the newspaper ‘Amrita Bazar Patrika’?",
+  options: [
+    "Sisir Kumar Ghosh",
+    "Bal Gangadhar Tilak",
+    "Mahatma Gandhi",
+    "Aurobindo Ghosh",
+  ],
+  answer: "Sisir Kumar Ghosh",
+},
+{
+  question: "Who edited the newspaper ‘Young India’?",
+  options: [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Bal Gangadhar Tilak",
+    "Lala Lajpat Rai",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Who launched the newspaper ‘Harijan’?",
+  options: [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Who wrote the book ‘Hind Swaraj’?",
+  options: [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Who wrote ‘The Indian Struggle’?",
+  options: [
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "B.R. Ambedkar",
+  ],
+  answer: "Subhas Chandra Bose",
+},
+{
+  question: "Who authored ‘Glimpses of World History’?",
+  options: [
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "Mahatma Gandhi",
+    "Rajendra Prasad",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "Who wrote ‘My Experiments with Truth’?",
+  options: [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "B.R. Ambedkar",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Who authored the book ‘Pakistan or Partition of India’?",
+  options: [
+    "B.R. Ambedkar",
+    "Jawaharlal Nehru",
+    "Muhammad Ali Jinnah",
+    "Iqbal",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Who wrote the book ‘Unhappy India’?",
+  options: [
+    "Lala Lajpat Rai",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "Bal Gangadhar Tilak",
+  ],
+  answer: "Lala Lajpat Rai",
+},
+{
+  question: "Who wrote ‘India Divided’?",
+  options: [
+    "Rajendra Prasad",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "B.R. Ambedkar",
+  ],
+  answer: "Rajendra Prasad",
+},
+{
+  question: "Who authored ‘Anandamath’?",
+  options: [
+    "Bankim Chandra Chattopadhyay",
+    "Rabindranath Tagore",
+    "Sarojini Naidu",
+    "Iqbal",
+  ],
+  answer: "Bankim Chandra Chattopadhyay",
+},
+{
+  question: "Which book contains the song ‘Vande Mataram’?",
+  options: [
+    "Anandamath",
+    "Gitanjali",
+    "Hind Swaraj",
+    "Discovery of India",
+  ],
+  answer: "Anandamath",
+},
+{
+  question: "Who founded the Indian Home Rule Society in London?",
+  options: [
+    "Shyamji Krishna Varma",
+    "Subhas Chandra Bose",
+    "Dadabhai Naoroji",
+    "Bhagat Singh",
+  ],
+  answer: "Shyamji Krishna Varma",
+},
+{
+  question: "Who founded India House in London?",
+  options: [
+    "Shyamji Krishna Varma",
+    "V.D. Savarkar",
+    "Lala Hardayal",
+    "Bhagat Singh",
+  ],
+  answer: "Shyamji Krishna Varma",
+},
+{
+  question: "Who assassinated Curzon Wyllie in London?",
+  options: [
+    "Madan Lal Dhingra",
+    "Bhagat Singh",
+    "Rajguru",
+    "Ram Prasad Bismil",
+  ],
+  answer: "Madan Lal Dhingra",
+},
+{
+  question: "Who translated Mazzini’s writings into Marathi?",
+  options: [
+    "V.D. Savarkar",
+    "Bal Gangadhar Tilak",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+  ],
+ answer: "V.D. Savarkar",
+},
+{
+  question: "Who founded the Abhinav Bharat Society?",
+  options: [
+    "V.D. Savarkar",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Rajguru",
+  ],
+ answer: "V.D. Savarkar",
+},
+{
+  question: "Who was known as the ‘Heroine of Quit India Movement’?",
+  options: [
+    "Aruna Asaf Ali",
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Kasturba Gandhi",
+  ],
+ answer: "Aruna Asaf Ali",
+},
+{
+  question: "Who was popularly known as the ‘Grand Old Lady of Independence’?",
+  options: [
+    "Aruna Asaf Ali",
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Vijayalakshmi Pandit",
+  ],
+ answer: "Aruna Asaf Ali",
+},
+{
+  question: "Who founded the All India Women’s Conference?",
+  options: [
+    "Margaret Cousins",
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Savitribai Phule",
+  ],
+ answer: "Margaret Cousins",
+},
+{
+  question: "Which freedom fighter was called ‘Bapu’?",
+  options: [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "Sardar Patel",
+  ],
+ answer: "Mahatma Gandhi",
+},
+{
+  question: "Who gave Gandhi the title ‘Mahatma’?",
+  options: [
+    "Rabindranath Tagore",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "Bal Gangadhar Tilak",
+  ],
+ answer: "Rabindranath Tagore",
+},
   ];
 
