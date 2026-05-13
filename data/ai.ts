@@ -1544,4 +1544,514 @@ export const aiQuestions = [
   ],
   answer: "One Time Password",
 },
+   {
+  question: "What does SSD stand for?",
+  options: [
+    "Solid State Drive",
+    "Secure Storage Device",
+    "System Storage Disk",
+    "Solid Storage Data",
+  ],
+  answer: "Solid State Drive",
+},
+{
+  question: "Which company developed the PlayStation console?",
+  options: [
+    "Sony",
+    "Microsoft",
+    "Nintendo",
+    "Sega",
+  ],
+  answer: "Sony",
+},
+{
+  question: "Which company developed the Xbox console?",
+  options: [
+    "Microsoft",
+    "Sony",
+    "Nintendo",
+    "Valve",
+  ],
+  answer: "Microsoft",
+},
+{
+  question: "Which company developed Nintendo Switch?",
+  options: [
+    "Nintendo",
+    "Sony",
+    "Microsoft",
+    "Sega",
+  ],
+  answer: "Nintendo",
+},
+{
+  question: "What is e-commerce?",
+  options: [
+    "Buying and selling online",
+    "Computer programming",
+    "Data storage",
+    "Wireless networking",
+  ],
+  answer: "Buying and selling online",
+},
+{
+  question: "Which company founded Amazon?",
+  options: [
+    "Jeff Bezos",
+    "Bill Gates",
+    "Elon Musk",
+    "Larry Page",
+  ],
+  answer: "Jeff Bezos",
+},
+{
+  question: "Which company developed Kindle e-readers?",
+  options: [
+    "Amazon",
+    "Apple",
+    "Sony",
+    "Google",
+  ],
+  answer: "Amazon",
+},
+{
+  question: "What does QR stand for in QR code?",
+  options: [
+    "Quick Response",
+    "Quality Response",
+    "Query Response",
+    "Quick Record",
+  ],
+  answer: "Quick Response",
+},
+{
+  question: "Which technology is used in QR codes?",
+  options: [
+    "Optical machine-readable coding",
+    "Bluetooth networking",
+    "Cloud storage",
+    "Satellite communication",
+  ],
+  answer: "Optical machine-readable coding",
+},
+{
+  question: "What is a semiconductor?",
+  options: [
+    "Material used in electronic chips",
+    "A software application",
+    "A network cable",
+    "A type of database",
+  ],
+  answer: "Material used in electronic chips",
+},
+{
+  question: "Which company is famous for Core processors?",
+  options: [
+    "Intel",
+    "AMD",
+    "NVIDIA",
+    "Qualcomm",
+  ],
+  answer: "Intel",
+},
+{
+  question: "Which company manufactures Radeon graphics cards?",
+  options: [
+    "AMD",
+    "NVIDIA",
+    "Intel",
+    "Qualcomm",
+  ],
+  answer: "AMD",
+},
+{
+  question: "What is coding?",
+  options: [
+    "Writing instructions for computers",
+    "Repairing hardware",
+    "Printing documents",
+    "Scanning files",
+  ],
+  answer: "Writing instructions for computers",
+},
+{
+  question: "Which programming language is known for Android app development?",
+  options: [
+    "Java",
+    "HTML",
+    "CSS",
+    "SQL",
+  ],
+  answer: "Java",
+},
+{
+  question: "Which language is widely used for iOS app development?",
+  options: [
+    "Swift",
+    "Python",
+    "PHP",
+    "Ruby",
+  ],
+  answer: "Swift",
+},
+{
+  question: "What is a bug in software?",
+  options: [
+    "An error in a program",
+    "A hardware component",
+    "A security camera",
+    "A web browser",
+  ],
+  answer: "An error in a program",
+},
+{
+  question: "What is debugging?",
+  options: [
+    "Finding and fixing software errors",
+    "Building hardware",
+    "Creating websites",
+    "Scanning files",
+  ],
+  answer: "Finding and fixing software errors",
+},
+{
+  question: "What is source code?",
+  options: [
+    "Human-readable programming instructions",
+    "Computer hardware",
+    "Internet connection",
+    "Storage device",
+  ],
+  answer: "Human-readable programming instructions",
+},
+{
+  question: "Which platform is widely used for code hosting?",
+  options: [
+    "GitHub",
+    "Instagram",
+    "Netflix",
+    "Spotify",
+  ],
+  answer: "GitHub",
+},
+{
+  question: "Which company owns GitHub?",
+  options: [
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+  ],
+  answer: "Microsoft",
+},
+{
+  question: "What is Git?",
+  options: [
+    "Version control system",
+    "Programming language",
+    "Operating system",
+    "Database software",
+  ],
+  answer: "Version control system",
+},
+{
+  question: "What is an API?",
+  options: [
+    "Interface allowing software communication",
+    "A storage device",
+    "A gaming engine",
+    "A monitor type",
+  ],
+  answer: "Interface allowing software communication",
+},
+{
+  question: "What does API stand for?",
+  options: [
+    "Application Programming Interface",
+    "Application Process Integration",
+    "Advanced Program Interface",
+    "Automated Programming Internet",
+  ],
+  answer: "Application Programming Interface",
+},
+{
+  question: "What is big data?",
+  options: [
+    "Very large and complex datasets",
+    "A type of computer",
+    "A mobile application",
+    "An internet browser",
+  ],
+  answer: "Very large and complex datasets",
+},
+{
+  question: "Which company developed Hadoop?",
+  options: [
+    "Apache",
+    "Google",
+    "Microsoft",
+    "IBM",
+  ],
+  answer: "Apache",
+},
+{
+  question: "What is blockchain mainly used for?",
+  options: [
+    "Secure digital transactions",
+    "Photo editing",
+    "Video streaming",
+    "Gaming",
+  ],
+  answer: "Secure digital transactions",
+},
+{
+  question: "What is cryptocurrency mining?",
+  options: [
+    "Validating blockchain transactions",
+    "Repairing computers",
+    "Creating websites",
+    "Video editing",
+  ],
+  answer: "Validating blockchain transactions",
+},
+{
+  question: "Which company developed Ethereum blockchain?",
+  options: [
+    "Ethereum Foundation",
+    "Google",
+    "Microsoft",
+    "Meta",
+  ],
+  answer: "Ethereum Foundation",
+},
+{
+  question: "Who co-founded Apple with Steve Jobs?",
+  options: [
+    "Steve Wozniak",
+    "Bill Gates",
+    "Larry Page",
+    "Sergey Brin",
+  ],
+  answer: "Steve Wozniak",
+},
+{
+  question: "Who founded Google with Sergey Brin?",
+  options: [
+    "Larry Page",
+    "Bill Gates",
+    "Steve Jobs",
+    "Mark Zuckerberg",
+  ],
+  answer: "Larry Page",
+},
+{
+  question: "What is a search engine?",
+  options: [
+    "Tool for finding information online",
+    "Gaming software",
+    "Cloud database",
+    "Computer hardware",
+  ],
+  answer: "Tool for finding information online",
+},
+{
+  question: "Which company developed Bing search engine?",
+  options: [
+    "Microsoft",
+    "Google",
+    "Yahoo",
+    "Meta",
+  ],
+  answer: "Microsoft",
+},
+{
+  question: "What is digital marketing?",
+  options: [
+    "Marketing using digital platforms",
+    "Computer repairing",
+    "Software coding",
+    "Cloud networking",
+  ],
+  answer: "Marketing using digital platforms",
+},
+{
+  question: "What does SEO stand for?",
+  options: [
+    "Search Engine Optimization",
+    "Search Engine Operation",
+    "System Engine Optimization",
+    "Software Engine Output",
+  ],
+  answer: "Search Engine Optimization",
+},
+{
+  question: "Which platform is most used for video sharing?",
+  options: [
+    "YouTube",
+    "LinkedIn",
+    "WhatsApp",
+    "Telegram",
+  ],
+  answer: "YouTube",
+},
+{
+  question: "Which company owns YouTube?",
+  options: [
+    "Google",
+    "Meta",
+    "Microsoft",
+    "Apple",
+  ],
+  answer: "Google",
+},
+{
+  question: "What is streaming?",
+  options: [
+    "Watching media online without downloading fully",
+    "Computer programming",
+    "Repairing networks",
+    "Printing files",
+  ],
+  answer: "Watching media online without downloading fully",
+},
+{
+  question: "Which company developed Netflix?",
+  options: [
+    "Netflix Inc.",
+    "Amazon",
+    "Google",
+    "Disney",
+  ],
+  answer: "Netflix Inc.",
+},
+{
+  question: "What is a smart watch?",
+  options: [
+    "Wearable computer device",
+    "Gaming console",
+    "Programming software",
+    "Storage device",
+  ],
+  answer: "Wearable computer device",
+},
+{
+  question: "Which company developed the Apple Watch?",
+  options: [
+    "Apple",
+    "Samsung",
+    "Google",
+    "Sony",
+  ],
+  answer: "Apple",
+},
+{
+  question: "What is wearable technology?",
+  options: [
+    "Electronic devices worn on the body",
+    "Desktop computers",
+    "Cloud databases",
+    "Programming systems",
+  ],
+  answer: "Electronic devices worn on the body",
+},
+{
+  question: "Which company developed Android Wear OS?",
+  options: [
+    "Google",
+    "Apple",
+    "Samsung",
+    "Microsoft",
+  ],
+  answer: "Google",
+},
+{
+  question: "What is a smart speaker?",
+  options: [
+    "Voice-controlled speaker device",
+    "Gaming laptop",
+    "Database server",
+    "Cloud printer",
+  ],
+  answer: "Voice-controlled speaker device",
+},
+{
+  question: "Which company developed Echo smart speakers?",
+  options: [
+    "Amazon",
+    "Apple",
+    "Google",
+    "Microsoft",
+  ],
+  answer: "Amazon",
+},
+{
+  question: "Which AI assistant powers Amazon Echo?",
+  options: [
+    "Alexa",
+    "Siri",
+    "Gemini",
+    "Copilot",
+  ],
+  answer: "Alexa",
+},
+{
+  question: "What is automation?",
+  options: [
+    "Using technology to perform tasks automatically",
+    "Programming websites",
+    "Repairing hardware",
+    "Managing printers",
+  ],
+  answer: "Using technology to perform tasks automatically",
+},
+{
+  question: "What is robotics?",
+  options: [
+    "Technology involving robots",
+    "Cloud storage",
+    "Database programming",
+    "Internet browsing",
+  ],
+  answer: "Technology involving robots",
+},
+{
+  question: "What is a robot?",
+  options: [
+    "Programmable machine",
+    "Computer virus",
+    "Network cable",
+    "Web browser",
+  ],
+  answer: "Programmable machine",
+},
+{
+  question: "Which company is known for humanoid robot Optimus?",
+  options: [
+    "Tesla",
+    "Google",
+    "Amazon",
+    "Meta",
+  ],
+  answer: "Tesla",
+},
+{
+  question: "What is autonomous technology?",
+  options: [
+    "Technology operating without human control",
+    "Photo editing software",
+    "Programming language",
+    "Cloud storage",
+  ],
+  answer: "Technology operating without human control",
+},
+{
+  question: "Which company developed Waymo self-driving technology?",
+  options: [
+    "Google",
+    "Tesla",
+    "Apple",
+    "Microsoft",
+  ],
+  answer: "Google",
+},
 ];
