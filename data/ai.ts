@@ -1034,4 +1034,514 @@ export const aiQuestions = [
   ],
   answer: "Microsoft",
 },
+   {
+  question: "What does GUI stand for?",
+  options: [
+    "Graphical User Interface",
+    "General Utility Interface",
+    "Graphical Unified Internet",
+    "General User Integration",
+  ],
+  answer: "Graphical User Interface",
+},
+{
+  question: "Which company developed macOS?",
+  options: [
+    "Apple",
+    "Microsoft",
+    "Google",
+    "IBM",
+  ],
+  answer: "Apple",
+},
+{
+  question: "Which operating system is used in iPhones?",
+  options: [
+    "iOS",
+    "Android",
+    "Windows",
+    "Linux",
+  ],
+  answer: "iOS",
+},
+{
+  question: "What does SMS stand for?",
+  options: [
+    "Short Message Service",
+    "Simple Mail Service",
+    "Short Mail System",
+    "System Message Service",
+  ],
+  answer: "Short Message Service",
+},
+{
+  question: "Which company created Gmail?",
+  options: [
+    "Google",
+    "Yahoo",
+    "Microsoft",
+    "Apple",
+  ],
+  answer: "Google",
+},
+{
+  question: "What does GPS stand for?",
+  options: [
+    "Global Positioning System",
+    "General Positioning Service",
+    "Global Program System",
+    "Geographic Program Service",
+  ],
+  answer: "Global Positioning System",
+},
+{
+  question: "Which company developed Google Maps?",
+  options: [
+    "Google",
+    "Apple",
+    "Microsoft",
+    "Meta",
+  ],
+  answer: "Google",
+},
+{
+  question: "What is the full form of ISP?",
+  options: [
+    "Internet Service Provider",
+    "Internet System Protocol",
+    "Integrated Service Provider",
+    "Internal Service Program",
+  ],
+  answer: "Internet Service Provider",
+},
+{
+  question: "Which company provides AWS cloud services?",
+  options: [
+    "Amazon",
+    "Google",
+    "Microsoft",
+    "IBM",
+  ],
+  answer: "Amazon",
+},
+{
+  question: "What does AWS stand for?",
+  options: [
+    "Amazon Web Services",
+    "Amazon Wireless Service",
+    "Advanced Web System",
+    "Application Web Services",
+  ],
+  answer: "Amazon Web Services",
+},
+{
+  question: "Which company provides Azure cloud services?",
+  options: [
+    "Microsoft",
+    "Amazon",
+    "Google",
+    "IBM",
+  ],
+  answer: "Microsoft",
+},
+{
+  question: "Which company provides Google Cloud Platform?",
+  options: [
+    "Google",
+    "Microsoft",
+    "Amazon",
+    "Oracle",
+  ],
+  answer: "Google",
+},
+{
+  question: "What is a firewall in computing?",
+  options: [
+    "Security system for networks",
+    "Computer cooling system",
+    "Programming language",
+    "Storage device",
+  ],
+  answer: "Security system for networks",
+},
+{
+  question: "Which company developed the Windows operating system first?",
+  options: [
+    "Microsoft",
+    "IBM",
+    "Apple",
+    "Google",
+  ],
+  answer: "Microsoft",
+},
+{
+  question: "What is open-source software?",
+  options: [
+    "Software with publicly available source code",
+    "Paid software",
+    "Hardware software",
+    "Closed network software",
+  ],
+  answer: "Software with publicly available source code",
+},
+{
+  question: "Which open-source operating system is popular on servers?",
+  options: [
+    "Linux",
+    "Windows",
+    "macOS",
+    "DOS",
+  ],
+  answer: "Linux",
+},
+{
+  question: "What is the full form of AIoT?",
+  options: [
+    "Artificial Intelligence of Things",
+    "Artificial Internet of Technology",
+    "Automated Internet Tools",
+    "Advanced Integration of Things",
+  ],
+  answer: "Artificial Intelligence of Things",
+},
+{
+  question: "Which company developed the BERT AI language model?",
+  options: [
+    "Google",
+    "OpenAI",
+    "Meta",
+    "Microsoft",
+  ],
+  answer: "Google",
+},
+{
+  question: "What is data mining?",
+  options: [
+    "Extracting useful information from data",
+    "Deleting computer files",
+    "Programming websites",
+    "Repairing networks",
+  ],
+  answer: "Extracting useful information from data",
+},
+{
+  question: "Which device scans physical documents into digital form?",
+  options: [
+    "Scanner",
+    "Printer",
+    "Monitor",
+    "Router",
+  ],
+  answer: "Scanner",
+},
+{
+  question: "What is the primary purpose of a printer?",
+  options: [
+    "Produce hard copies",
+    "Store data",
+    "Connect networks",
+    "Play videos",
+  ],
+  answer: "Produce hard copies",
+},
+{
+  question: "What does CAPTCHA help prevent?",
+  options: [
+    "Bots and spam",
+    "Internet speed issues",
+    "Battery damage",
+    "Hardware failures",
+  ],
+  answer: "Bots and spam",
+},
+{
+  question: "Which company developed the AI assistant Gemini?",
+  options: [
+    "Google",
+    "OpenAI",
+    "Meta",
+    "Anthropic",
+  ],
+  answer: "Google",
+},
+{
+  question: "Which company developed Bard before renaming it Gemini?",
+  options: [
+    "Google",
+    "Microsoft",
+    "Meta",
+    "Apple",
+  ],
+  answer: "Google",
+},
+{
+  question: "Which AI company developed Claude?",
+  options: [
+    "Anthropic",
+    "Google",
+    "Meta",
+    "OpenAI",
+  ],
+  answer: "Anthropic",
+},
+{
+  question: "Which AI field focuses on computer vision?",
+  options: [
+    "Image understanding by computers",
+    "Audio networking",
+    "Cloud printing",
+    "Database management",
+  ],
+  answer: "Image understanding by computers",
+},
+{
+  question: "What is biometric authentication?",
+  options: [
+    "Using fingerprints or face for security",
+    "Password sharing",
+    "Data compression",
+    "Cloud storage",
+  ],
+  answer: "Using fingerprints or face for security",
+},
+{
+  question: "Which company developed Face ID?",
+  options: [
+    "Apple",
+    "Samsung",
+    "Google",
+    "Microsoft",
+  ],
+  answer: "Apple",
+},
+{
+  question: "What is ransomware?",
+  options: [
+    "Malware demanding payment",
+    "Cloud storage software",
+    "Programming framework",
+    "Photo editing software",
+  ],
+  answer: "Malware demanding payment",
+},
+{
+  question: "Which company created Windows?",
+  options: [
+    "Microsoft",
+    "Apple",
+    "Google",
+    "IBM",
+  ],
+  answer: "Microsoft",
+},
+{
+  question: "What is edge computing?",
+  options: [
+    "Processing data near the source",
+    "Cloud-only computing",
+    "Gaming hardware",
+    "Wireless charging",
+  ],
+  answer: "Processing data near the source",
+},
+{
+  question: "Which company manufactures iPads?",
+  options: [
+    "Apple",
+    "Samsung",
+    "Lenovo",
+    "Dell",
+  ],
+  answer: "Apple",
+},
+{
+  question: "What is the purpose of a motherboard?",
+  options: [
+    "Connect computer components",
+    "Provide internet",
+    "Store videos",
+    "Print files",
+  ],
+  answer: "Connect computer components",
+},
+{
+  question: "What does OLED stand for?",
+  options: [
+    "Organic Light Emitting Diode",
+    "Optical Light Electronic Display",
+    "Organic Liquid Emitting Display",
+    "Optical LED Display",
+  ],
+  answer: "Organic Light Emitting Diode",
+},
+{
+  question: "Which company is famous for Snapdragon chips?",
+  options: [
+    "Qualcomm",
+    "Intel",
+    "AMD",
+    "NVIDIA",
+  ],
+  answer: "Qualcomm",
+},
+{
+  question: "What is 5G?",
+  options: [
+    "Fifth generation mobile network",
+    "Fifth graphics processor",
+    "Gaming software",
+    "Cloud storage type",
+  ],
+  answer: "Fifth generation mobile network",
+},
+{
+  question: "Which company developed ChatGPT’s GPT models?",
+  options: [
+    "OpenAI",
+    "Google",
+    "Meta",
+    "Anthropic",
+  ],
+  answer: "OpenAI",
+},
+{
+  question: "What is a chatbot?",
+  options: [
+    "Software that communicates with users",
+    "Computer hardware",
+    "Storage device",
+    "Operating system",
+  ],
+  answer: "Software that communicates with users",
+},
+{
+  question: "Which technology enables video calls over the internet?",
+  options: [
+    "VoIP",
+    "Bluetooth",
+    "NFC",
+    "SQL",
+  ],
+  answer: "VoIP",
+},
+{
+  question: "What does VoIP stand for?",
+  options: [
+    "Voice over Internet Protocol",
+    "Video over Internet Process",
+    "Virtual Online Internet Program",
+    "Voice Online Integrated Platform",
+  ],
+  answer: "Voice over Internet Protocol",
+},
+{
+  question: "Which company owns Skype?",
+  options: [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "Apple",
+  ],
+  answer: "Microsoft",
+},
+{
+  question: "Which company developed Zoom video conferencing?",
+  options: [
+    "Zoom Video Communications",
+    "Microsoft",
+    "Google",
+    "Cisco",
+  ],
+  answer: "Zoom Video Communications",
+},
+{
+  question: "What is a data center?",
+  options: [
+    "Facility storing computer systems and data",
+    "Programming language",
+    "Gaming console",
+    "Wireless network",
+  ],
+  answer: "Facility storing computer systems and data",
+},
+{
+  question: "Which company developed Photoshop?",
+  options: [
+    "Adobe",
+    "Microsoft",
+    "Google",
+    "Apple",
+  ],
+  answer: "Adobe",
+},
+{
+  question: "Which file format is commonly used for images?",
+  options: [
+    "JPEG",
+    "MP3",
+    "PDF",
+    "DOCX",
+  ],
+  answer: "JPEG",
+},
+{
+  question: "What does MP3 relate to?",
+  options: [
+    "Audio files",
+    "Video files",
+    "Image files",
+    "Database files",
+  ],
+  answer: "Audio files",
+},
+{
+  question: "What is a browser used for?",
+  options: [
+    "Accessing websites",
+    "Printing documents",
+    "Programming apps",
+    "Repairing hardware",
+  ],
+  answer: "Accessing websites",
+},
+{
+  question: "Which browser is developed by Microsoft?",
+  options: [
+    "Edge",
+    "Chrome",
+    "Firefox",
+    "Safari",
+  ],
+  answer: "Edge",
+},
+{
+  question: "Which browser is developed by Mozilla?",
+  options: [
+    "Firefox",
+    "Edge",
+    "Chrome",
+    "Safari",
+  ],
+  answer: "Firefox",
+},
+{
+  question: "What is two-factor authentication?",
+  options: [
+    "Extra security verification method",
+    "A type of programming",
+    "Wireless charging",
+    "Cloud networking",
+  ],
+  answer: "Extra security verification method",
+},
+{
+  question: "What does OTP stand for?",
+  options: [
+    "One Time Password",
+    "Online Transfer Process",
+    "Official Text Program",
+    "One Type Protection",
+  ],
+  answer: "One Time Password",
+},
 ];
