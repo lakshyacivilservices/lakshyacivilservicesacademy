@@ -4289,5 +4289,485 @@ export const ancientHistoryMcq = [
   ],
   answer: "Subhas Chandra Bose",
 },
+  {
+  question: "Who founded the newspaper ‘Al-Hilal’?",
+  options: [
+    "Maulana Abul Kalam Azad",
+    "Muhammad Ali Jinnah",
+    "Iqbal",
+    "Sir Syed Ahmad Khan",
+  ],
+  answer: "Maulana Abul Kalam Azad",
+},
+{
+  question: "Who was popularly known as Punjab Kesari?",
+  options: [
+    "Lala Lajpat Rai",
+    "Bal Gangadhar Tilak",
+    "Bipin Chandra Pal",
+    "Gopal Krishna Gokhale",
+  ],
+  answer: "Lala Lajpat Rai",
+},
+{
+  question: "Who formed the Azad Hind Government?",
+  options: [
+    "Subhas Chandra Bose",
+    "Rash Behari Bose",
+    "Bhagat Singh",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Subhas Chandra Bose",
+},
+{
+  question: "Which movement demanded complete independence from British rule?",
+  options: [
+    "Purna Swaraj Movement",
+    "Swadeshi Movement",
+    "Non-Cooperation Movement",
+    "Khilafat Movement",
+  ],
+  answer: "Purna Swaraj Movement",
+},
+{
+  question: "Which session of Congress declared Purna Swaraj as its goal?",
+  options: [
+    "Lahore Session 1929",
+    "Bombay Session",
+    "Surat Session",
+    "Lucknow Session",
+  ],
+  answer: "Lahore Session 1929",
+},
+{
+  question: "Who founded the Khudai Khidmatgar movement?",
+  options: [
+    "Khan Abdul Ghaffar Khan",
+    "Maulana Azad",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Khan Abdul Ghaffar Khan",
+},
+{
+  question: "Which movement was launched against the partition of Bengal?",
+  options: [
+    "Swadeshi Movement",
+    "Quit India Movement",
+    "Civil Disobedience Movement",
+    "Non-Cooperation Movement",
+  ],
+  answer: "Swadeshi Movement",
+},
+{
+  question: "Who was called the ‘Iron Man of India’?",
+  options: [
+    "Sardar Vallabhbhai Patel",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+  ],
+  answer: "Sardar Vallabhbhai Patel",
+},
+{
+  question: "Who founded the Indian Independence League?",
+  options: [
+    "Rash Behari Bose",
+    "Subhas Chandra Bose",
+    "Bhagat Singh",
+    "Rajguru",
+  ],
+  answer: "Rash Behari Bose",
+},
+{
+  question: "Who organized the Kakori Train Robbery?",
+  options: [
+    "Ram Prasad Bismil",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Rajguru",
+  ],
+  answer: "Ram Prasad Bismil",
+},
+{
+  question: "Who was the founder of the Hindustan Republican Association?",
+  options: [
+    "Sachindra Nath Sanyal",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Lala Lajpat Rai",
+  ],
+  answer: "Sachindra Nath Sanyal",
+},
+{
+  question: "Who was known as the Nightingale of India?",
+  options: [
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Vijayalakshmi Pandit",
+    "Aruna Asaf Ali",
+  ],
+  answer: "Sarojini Naidu",
+},
+{
+  question: "Who hoisted the Congress flag during the Quit India Movement?",
+  options: [
+    "Aruna Asaf Ali",
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Kasturba Gandhi",
+  ],
+  answer: "Aruna Asaf Ali",
+},
+{
+  question: "Who founded the Indian National Liberal Federation?",
+  options: [
+    "Surendranath Banerjee",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Surendranath Banerjee",
+},
+{
+  question: "Which act introduced dyarchy in provinces?",
+  options: [
+    "Government of India Act 1919",
+    "Government of India Act 1935",
+    "Regulating Act",
+    "Pitt’s India Act",
+  ],
+  answer: "Government of India Act 1919",
+},
+{
+  question: "Which mission came to India in 1946?",
+  options: [
+    "Cabinet Mission",
+    "Cripps Mission",
+    "Simon Commission",
+    "Hunter Commission",
+  ],
+  answer: "Cabinet Mission",
+},
+{
+  question: "Who was the chairman of the Constituent Assembly?",
+  options: [
+    "Dr. Rajendra Prasad",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Sardar Patel",
+  ],
+  answer: "Dr. Rajendra Prasad",
+},
+{
+  question: "Who moved the Objectives Resolution in the Constituent Assembly?",
+  options: [
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Rajendra Prasad",
+    "Sardar Patel",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "Who designed the Indian national flag?",
+  options: [
+    "Pingali Venkayya",
+    "Rabindranath Tagore",
+    "Mahatma Gandhi",
+    "B.R. Ambedkar",
+  ],
+  answer: "Pingali Venkayya",
+},
+{
+  question: "Who was the first Indian Governor-General?",
+  options: [
+    "C. Rajagopalachari",
+    "Jawaharlal Nehru",
+    "Lord Mountbatten",
+    "Rajendra Prasad",
+  ],
+  answer: "C. Rajagopalachari",
+},
+{
+  question: "Who founded the Indian National Army in Singapore?",
+  options: [
+    "Captain Mohan Singh",
+    "Subhas Chandra Bose",
+    "Rash Behari Bose",
+    "Bhagat Singh",
+  ],
+  answer: "Captain Mohan Singh",
+},
+{
+  question: "Who wrote the book ‘Poverty and Un-British Rule in India’?",
+  options: [
+    "Dadabhai Naoroji",
+    "R.C. Dutt",
+    "Gopal Krishna Gokhale",
+    "Surendranath Banerjee",
+  ],
+  answer: "Dadabhai Naoroji",
+},
+{
+  question: "Who gave the Drain Theory?",
+  options: [
+    "Dadabhai Naoroji",
+    "R.C. Dutt",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Dadabhai Naoroji",
+},
+{
+  question: "Which organization was founded by Annie Besant in India?",
+  options: [
+    "Home Rule League",
+    "Arya Samaj",
+    "Brahmo Samaj",
+    "Ramakrishna Mission",
+  ],
+  answer: "Home Rule League",
+},
+{
+  question: "Who was known as Lokmanya?",
+  options: [
+    "Bal Gangadhar Tilak",
+    "Lala Lajpat Rai",
+    "Bipin Chandra Pal",
+    "Gopal Krishna Gokhale",
+  ],
+  answer: "Bal Gangadhar Tilak",
+},
+{
+  question: "Which leader founded the Servants of the People Society?",
+  options: [
+    "Lala Lajpat Rai",
+    "Bal Gangadhar Tilak",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Lala Lajpat Rai",
+},
+{
+  question: "Who was known as the ‘Father of Indian Unrest’?",
+  options: [
+    "Bal Gangadhar Tilak",
+    "Lala Lajpat Rai",
+    "Subhas Chandra Bose",
+    "Bhagat Singh",
+  ],
+  answer: "Bal Gangadhar Tilak",
+},
+{
+  question: "Who founded the weekly newspaper ‘Kesari’?",
+  options: [
+    "Bal Gangadhar Tilak",
+    "Mahatma Gandhi",
+    "Lala Lajpat Rai",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Bal Gangadhar Tilak",
+},
+{
+  question: "Which movement was associated with peasants in Gujarat?",
+  options: [
+    "Kheda Satyagraha",
+    "Champaran Satyagraha",
+    "Quit India Movement",
+    "Swadeshi Movement",
+  ],
+  answer: "Kheda Satyagraha",
+},
+{
+  question: "Who led the Kheda Satyagraha?",
+  options: [
+    "Mahatma Gandhi",
+    "Sardar Patel",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Who founded the Harijan Sevak Sangh?",
+  options: [
+    "Mahatma Gandhi",
+    "B.R. Ambedkar",
+    "Jyotiba Phule",
+    "Periyar",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Which revolutionary was known as Azad?",
+  options: [
+    "Chandrasekhar Azad",
+    "Bhagat Singh",
+    "Rajguru",
+    "Sukhdev",
+  ],
+  answer: "Chandrasekhar Azad",
+},
+{
+  question: "Who founded the revolutionary organization ‘Anushilan Samiti’?",
+  options: [
+    "Barindra Ghosh",
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Rash Behari Bose",
+  ],
+  answer: "Barindra Ghosh",
+},
+{
+  question: "Which revolutionary assassinated Saunders?",
+  options: [
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Chandrasekhar Azad",
+    "Ram Prasad Bismil",
+  ],
+  answer: "Bhagat Singh",
+},
+{
+  question: "Who among the following founded the Communist Party of India?",
+  options: [
+    "M.N. Roy",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "Bhagat Singh",
+  ],
+  answer: "M.N. Roy",
+},
+{
+  question: "Which freedom fighter founded the INA women’s regiment?",
+  options: [
+    "Lakshmi Sahgal",
+    "Sarojini Naidu",
+    "Aruna Asaf Ali",
+    "Annie Besant",
+  ],
+  answer: "Lakshmi Sahgal",
+},
+{
+  question: "Who was the first woman president of the Indian National Congress?",
+  options: [
+    "Annie Besant",
+    "Sarojini Naidu",
+    "Aruna Asaf Ali",
+    "Vijayalakshmi Pandit",
+  ],
+  answer: "Annie Besant",
+},
+{
+  question: "Who was the first Indian woman president of INC?",
+  options: [
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Aruna Asaf Ali",
+    "Kasturba Gandhi",
+  ],
+  answer: "Sarojini Naidu",
+},
+{
+  question: "Who was known as the ‘Maker of Modern India’?",
+  options: [
+    "Raja Ram Mohan Roy",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+  ],
+  answer: "Raja Ram Mohan Roy",
+},
+{
+  question: "Who founded the Widow Remarriage Association?",
+  options: [
+    "Ishwar Chandra Vidyasagar",
+    "Raja Ram Mohan Roy",
+    "Dayanand Saraswati",
+    "Swami Vivekananda",
+  ],
+  answer: "Ishwar Chandra Vidyasagar",
+},
+{
+  question: "Which reformer promoted women’s education in Maharashtra?",
+  options: [
+    "Savitribai Phule",
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Aruna Asaf Ali",
+  ],
+  answer: "Savitribai Phule",
+},
+{
+  question: "Who founded the Satya Shodhak Samaj?",
+  options: [
+    "Jyotiba Phule",
+    "Periyar",
+    "B.R. Ambedkar",
+    "Dayanand Saraswati",
+  ],
+  answer: "Jyotiba Phule",
+},
+{
+  question: "Who wrote ‘Gulamgiri’?",
+  options: [
+    "Jyotiba Phule",
+    "B.R. Ambedkar",
+    "Periyar",
+    "Mahatma Gandhi",
+  ],
+  answer: "Jyotiba Phule",
+},
+{
+  question: "Who founded the Depressed Classes Federation?",
+  options: [
+    "B.R. Ambedkar",
+    "Jyotiba Phule",
+    "Periyar",
+    "Mahatma Gandhi",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Who launched the Individual Satyagraha in 1940?",
+  options: [
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "Sardar Patel",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Who was the first satyagrahi of the Individual Satyagraha?",
+  options: [
+    "Vinoba Bhave",
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "Rajendra Prasad",
+  ],
+  answer: "Vinoba Bhave",
+},
+{
+  question: "Which leader gave the slogan ‘Tum Mujhe Khoon Do’?",
+  options: [
+    "Subhas Chandra Bose",
+    "Bhagat Singh",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Subhas Chandra Bose",
+},
+{
+  question: "Who was the Viceroy during the Quit India Movement?",
+  options: [
+    "Lord Linlithgow",
+    "Lord Wavell",
+    "Lord Mountbatten",
+    "Lord Curzon",
+  ],
+ answer: "Lord Linlithgow",
+},
   ];
 
