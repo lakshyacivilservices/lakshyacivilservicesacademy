@@ -524,4 +524,514 @@ export const aiQuestions = [
   ],
   answer: "Bluetooth",
 },
+   {
+  question: "What does LAN stand for?",
+  options: [
+    "Local Area Network",
+    "Large Area Network",
+    "Logical Access Network",
+    "Long Area Node",
+  ],
+  answer: "Local Area Network",
+},
+{
+  question: "What does WAN stand for?",
+  options: [
+    "Wide Area Network",
+    "Wireless Area Network",
+    "World Access Network",
+    "Wide Access Node",
+  ],
+  answer: "Wide Area Network",
+},
+{
+  question: "Which company developed the Java programming language?",
+  options: [
+    "Sun Microsystems",
+    "Microsoft",
+    "IBM",
+    "Google",
+  ],
+  answer: "Sun Microsystems",
+},
+{
+  question: "Which symbol is used for comments in Python?",
+  options: [
+    "#",
+    "//",
+    "/*",
+    "--",
+  ],
+  answer: "#",
+},
+{
+  question: "What does SQL stand for?",
+  options: [
+    "Structured Query Language",
+    "Simple Query Language",
+    "Sequential Query Language",
+    "System Query Logic",
+  ],
+  answer: "Structured Query Language",
+},
+{
+  question: "Which company owns LinkedIn?",
+  options: [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "Amazon",
+  ],
+  answer: "Microsoft",
+},
+{
+  question: "Which company developed the Firefox browser?",
+  options: [
+    "Mozilla",
+    "Google",
+    "Microsoft",
+    "Apple",
+  ],
+  answer: "Mozilla",
+},
+{
+  question: "Which company developed the Safari browser?",
+  options: [
+    "Apple",
+    "Google",
+    "Microsoft",
+    "Mozilla",
+  ],
+  answer: "Apple",
+},
+{
+  question: "What is the main function of an operating system?",
+  options: [
+    "Manage computer hardware and software",
+    "Create websites",
+    "Edit photos",
+    "Play games",
+  ],
+  answer: "Manage computer hardware and software",
+},
+{
+  question: "Which operating system is open-source?",
+  options: [
+    "Linux",
+    "Windows",
+    "macOS",
+    "iOS",
+  ],
+  answer: "Linux",
+},
+{
+  question: "What is cybersecurity?",
+  options: [
+    "Protection of computer systems and data",
+    "Computer programming",
+    "Graphic designing",
+    "Web hosting",
+  ],
+  answer: "Protection of computer systems and data",
+},
+{
+  question: "Which company developed Linux?",
+  options: [
+    "Linus Torvalds",
+    "Bill Gates",
+    "Steve Jobs",
+    "Mark Zuckerberg",
+  ],
+  answer: "Linus Torvalds",
+},
+{
+  question: "Which device converts digital signals to analog signals?",
+  options: [
+    "Modem",
+    "Router",
+    "Switch",
+    "Scanner",
+  ],
+  answer: "Modem",
+},
+{
+  question: "What is a router used for?",
+  options: [
+    "Connecting networks",
+    "Printing documents",
+    "Editing videos",
+    "Scanning images",
+  ],
+  answer: "Connecting networks",
+},
+{
+  question: "What does BIOS stand for?",
+  options: [
+    "Basic Input Output System",
+    "Binary Input Output Setup",
+    "Basic Integrated Operating Service",
+    "Binary Integrated Output System",
+  ],
+  answer: "Basic Input Output System",
+},
+{
+  question: "Which key is used to refresh a webpage in most browsers?",
+  options: [
+    "F5",
+    "F1",
+    "F10",
+    "Esc",
+  ],
+  answer: "F5",
+},
+{
+  question: "What does VPN stand for?",
+  options: [
+    "Virtual Private Network",
+    "Verified Public Network",
+    "Virtual Protected Node",
+    "Variable Private Node",
+  ],
+  answer: "Virtual Private Network",
+},
+{
+  question: "Which technology is used for contactless payments?",
+  options: [
+    "NFC",
+    "LAN",
+    "HTTP",
+    "HTML",
+  ],
+  answer: "NFC",
+},
+{
+  question: "What does NFC stand for?",
+  options: [
+    "Near Field Communication",
+    "Network File Connection",
+    "New Frequency Channel",
+    "Near File Control",
+  ],
+  answer: "Near Field Communication",
+},
+{
+  question: "Which company created the Snapdragon processor?",
+  options: [
+    "Qualcomm",
+    "Intel",
+    "AMD",
+    "NVIDIA",
+  ],
+  answer: "Qualcomm",
+},
+{
+  question: "Which company manufactures Ryzen processors?",
+  options: [
+    "AMD",
+    "Intel",
+    "Qualcomm",
+    "Apple",
+  ],
+  answer: "AMD",
+},
+{
+  question: "Which company is famous for GeForce graphics cards?",
+  options: [
+    "NVIDIA",
+    "Intel",
+    "AMD",
+    "Apple",
+  ],
+  answer: "NVIDIA",
+},
+{
+  question: "Which company developed ChatGPT competitor Claude?",
+  options: [
+    "Anthropic",
+    "Google",
+    "Meta",
+    "Amazon",
+  ],
+  answer: "Anthropic",
+},
+{
+  question: "Which company developed the AI model Llama?",
+  options: [
+    "Meta",
+    "Google",
+    "OpenAI",
+    "Amazon",
+  ],
+  answer: "Meta",
+},
+{
+  question: "What is machine learning?",
+  options: [
+    "AI that learns from data",
+    "Repairing machines",
+    "Computer networking",
+    "Web designing",
+  ],
+  answer: "AI that learns from data",
+},
+{
+  question: "What is deep learning based on?",
+  options: [
+    "Neural networks",
+    "Databases",
+    "Printers",
+    "Computer cables",
+  ],
+  answer: "Neural networks",
+},
+{
+  question: "What is a neural network inspired by?",
+  options: [
+    "Human brain",
+    "Satellite systems",
+    "Computer keyboard",
+    "Web browser",
+  ],
+  answer: "Human brain",
+},
+{
+  question: "Which technology powers self-driving cars?",
+  options: [
+    "Artificial Intelligence",
+    "HTML",
+    "Bluetooth",
+    "VPN",
+  ],
+  answer: "Artificial Intelligence",
+},
+{
+  question: "What is facial recognition?",
+  options: [
+    "AI identification of faces",
+    "Voice recording",
+    "Text formatting",
+    "Cloud storage",
+  ],
+  answer: "AI identification of faces",
+},
+{
+  question: "Which company developed Tesla’s self-driving system?",
+  options: [
+    "Tesla",
+    "Google",
+    "Apple",
+    "Meta",
+  ],
+  answer: "Tesla",
+},
+{
+  question: "What is data science mainly used for?",
+  options: [
+    "Analyzing data",
+    "Repairing hardware",
+    "Printing documents",
+    "Designing logos",
+  ],
+  answer: "Analyzing data",
+},
+{
+  question: "Which language is widely used in data science?",
+  options: [
+    "Python",
+    "HTML",
+    "CSS",
+    "PHP",
+  ],
+  answer: "Python",
+},
+{
+  question: "What is an algorithm?",
+  options: [
+    "Step-by-step instructions to solve a problem",
+    "A hardware device",
+    "A storage unit",
+    "A web browser",
+  ],
+  answer: "Step-by-step instructions to solve a problem",
+},
+{
+  question: "What is a database?",
+  options: [
+    "Organized collection of data",
+    "Computer monitor",
+    "Internet cable",
+    "Programming bug",
+  ],
+  answer: "Organized collection of data",
+},
+{
+  question: "Which company developed Oracle Database?",
+  options: [
+    "Oracle",
+    "Microsoft",
+    "IBM",
+    "Google",
+  ],
+  answer: "Oracle",
+},
+{
+  question: "Which database language is most commonly used?",
+  options: [
+    "SQL",
+    "Python",
+    "Java",
+    "HTML",
+  ],
+  answer: "SQL",
+},
+{
+  question: "What does APK stand for in Android?",
+  options: [
+    "Android Package Kit",
+    "Android Program Kernel",
+    "Application Program Key",
+    "Advanced Package Kit",
+  ],
+  answer: "Android Package Kit",
+},
+{
+  question: "Which company developed the TensorFlow AI framework?",
+  options: [
+    "Google",
+    "Meta",
+    "Microsoft",
+    "IBM",
+  ],
+  answer: "Google",
+},
+{
+  question: "Which company developed PyTorch?",
+  options: [
+    "Meta",
+    "Google",
+    "Microsoft",
+    "Apple",
+  ],
+  answer: "Meta",
+},
+{
+  question: "What is augmented reality?",
+  options: [
+    "Digital elements added to real-world view",
+    "Virtual-only environment",
+    "Cloud computing",
+    "Database management",
+  ],
+  answer: "Digital elements added to real-world view",
+},
+{
+  question: "What is virtual reality?",
+  options: [
+    "Fully digital simulated environment",
+    "Wireless internet",
+    "A type of coding",
+    "Cloud backup",
+  ],
+  answer: "Fully digital simulated environment",
+},
+{
+  question: "Which company developed Oculus VR headsets?",
+  options: [
+    "Meta",
+    "Google",
+    "Apple",
+    "Microsoft",
+  ],
+  answer: "Meta",
+},
+{
+  question: "What is quantum computing?",
+  options: [
+    "Computing using quantum mechanics",
+    "Cloud computing",
+    "Gaming hardware",
+    "Mobile networking",
+  ],
+  answer: "Computing using quantum mechanics",
+},
+{
+  question: "Which company is heavily investing in quantum computers?",
+  options: [
+    "IBM",
+    "Nokia",
+    "Adobe",
+    "Intel",
+  ],
+  answer: "IBM",
+},
+{
+  question: "What does IoT stand for?",
+  options: [
+    "Internet of Things",
+    "Internet of Technology",
+    "Integrated Online Tools",
+    "Input Output Technology",
+  ],
+  answer: "Internet of Things",
+},
+{
+  question: "Smart home devices are examples of:",
+  options: [
+    "IoT",
+    "VPN",
+    "SQL",
+    "HTML",
+  ],
+  answer: "IoT",
+},
+{
+  question: "Which company developed Windows Copilot AI?",
+  options: [
+    "Microsoft",
+    "Google",
+    "Meta",
+    "Amazon",
+  ],
+  answer: "Microsoft",
+},
+{
+  question: "What is generative AI?",
+  options: [
+    "AI that creates content",
+    "AI for networking",
+    "AI for printing",
+    "AI for hardware repair",
+  ],
+  answer: "AI that creates content",
+},
+{
+  question: "Which AI tool generates images from text prompts?",
+  options: [
+    "DALL·E",
+    "Excel",
+    "PowerPoint",
+    "Notepad",
+  ],
+  answer: "DALL·E",
+},
+{
+  question: "What is the purpose of antivirus software?",
+  options: [
+    "Protect against malware",
+    "Increase monitor brightness",
+    "Print documents",
+    "Improve internet speed",
+  ],
+  answer: "Protect against malware",
+},
+{
+  question: "Which company developed Windows Defender?",
+  options: [
+    "Microsoft",
+    "Google",
+    "Apple",
+    "NVIDIA",
+  ],
+  answer: "Microsoft",
+},
 ];
