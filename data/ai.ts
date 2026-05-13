@@ -1,6 +1,5 @@
 export const aiQuestions = [
-  
-  {
+   {
     question: "AI stands for?",
     options: ["Artificial Intelligence","Automated Internet","Advanced Interface","Artificial Internet"],
     answer: "Artificial Intelligence",
