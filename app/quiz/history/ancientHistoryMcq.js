@@ -3289,5 +3289,505 @@ export const ancientHistoryMcq = [
   ],
   answer: "Nizam-ul-Mulk",
 },
+  {
+  question: "Who founded the Asiatic Society of Bengal?",
+  options: [
+    "William Jones",
+    "James Prinsep",
+    "Alexander Cunningham",
+    "Max Muller",
+  ],
+  answer: "William Jones",
+},
+{
+  question: "Which Governor-General introduced the Permanent Settlement?",
+  options: [
+    "Lord Cornwallis",
+    "Lord Wellesley",
+    "Lord Dalhousie",
+    "Warren Hastings",
+  ],
+  answer: "Lord Cornwallis",
+},
+{
+  question: "Who was the first Governor-General of Bengal?",
+  options: [
+    "Warren Hastings",
+    "Lord Cornwallis",
+    "Lord Wellesley",
+    "Robert Clive",
+  ],
+  answer: "Warren Hastings",
+},
+{
+  question: "Which battle marked the beginning of British rule in India?",
+  options: [
+    "Battle of Plassey",
+    "Battle of Buxar",
+    "Battle of Panipat",
+    "Battle of Talikota",
+  ],
+  answer: "Battle of Plassey",
+},
+{
+  question: "Who defeated Siraj-ud-Daulah in the Battle of Plassey?",
+  options: [
+    "Robert Clive",
+    "Warren Hastings",
+    "Cornwallis",
+    "Dalhousie",
+  ],
+  answer: "Robert Clive",
+},
+{
+  question: "Which battle established British supremacy in India?",
+  options: [
+    "Battle of Buxar",
+    "Battle of Plassey",
+    "Battle of Panipat",
+    "Battle of Haldighati",
+  ],
+  answer: "Battle of Buxar",
+},
+{
+  question: "Who introduced the Subsidiary Alliance system?",
+  options: [
+    "Lord Wellesley",
+    "Lord Dalhousie",
+    "Lord Cornwallis",
+    "Warren Hastings",
+  ],
+  answer: "Lord Wellesley",
+},
+{
+  question: "Which Governor-General annexed Awadh?",
+  options: [
+    "Lord Dalhousie",
+    "Lord Wellesley",
+    "Lord Cornwallis",
+    "Lord Curzon",
+  ],
+  answer: "Lord Dalhousie",
+},
+{
+  question: "Who introduced the Doctrine of Lapse?",
+  options: [
+    "Lord Dalhousie",
+    "Lord Wellesley",
+    "Lord Curzon",
+    "Lord Ripon",
+  ],
+  answer: "Lord Dalhousie",
+},
+{
+  question: "Which revolt is known as the First War of Independence?",
+  options: [
+    "Revolt of 1857",
+    "Santhal Revolt",
+    "Moplah Revolt",
+    "Indigo Revolt",
+  ],
+  answer: "Revolt of 1857",
+},
+{
+  question: "Who was the last Mughal emperor during the Revolt of 1857?",
+  options: [
+    "Bahadur Shah II",
+    "Akbar II",
+    "Aurangzeb",
+    "Shah Alam II",
+  ],
+  answer: "Bahadur Shah II",
+},
+{
+  question: "Who led the revolt in Kanpur during 1857?",
+  options: [
+    "Nana Sahib",
+    "Tatya Tope",
+    "Rani Lakshmibai",
+    "Kunwar Singh",
+  ],
+  answer: "Nana Sahib",
+},
+{
+  question: "Who led the revolt in Jhansi during 1857?",
+  options: [
+    "Rani Lakshmibai",
+    "Begum Hazrat Mahal",
+    "Nana Sahib",
+    "Tatya Tope",
+  ],
+  answer: "Rani Lakshmibai",
+},
+{
+  question: "Who founded the Brahmo Samaj?",
+  options: [
+    "Raja Ram Mohan Roy",
+    "Swami Vivekananda",
+    "Dayanand Saraswati",
+    "Ishwar Chandra Vidyasagar",
+  ],
+  answer: "Raja Ram Mohan Roy",
+},
+{
+  question: "Who founded the Arya Samaj?",
+  options: [
+    "Dayanand Saraswati",
+    "Raja Ram Mohan Roy",
+    "Swami Vivekananda",
+    "Annie Besant",
+  ],
+  answer: "Dayanand Saraswati",
+},
+{
+  question: "Which reformer founded the Ramakrishna Mission?",
+  options: [
+    "Swami Vivekananda",
+    "Dayanand Saraswati",
+    "Raja Ram Mohan Roy",
+    "Keshab Chandra Sen",
+  ],
+  answer: "Swami Vivekananda",
+},
+{
+  question: "Who founded the Aligarh Movement?",
+  options: [
+    "Sir Syed Ahmad Khan",
+    "Muhammad Ali Jinnah",
+    "Abul Kalam Azad",
+    "Iqbal",
+  ],
+  answer: "Sir Syed Ahmad Khan",
+},
+{
+  question: "Which act abolished Sati in India?",
+  options: [
+    "Regulation XVII of 1829",
+    "Indian Councils Act",
+    "Charter Act",
+    "Pitt’s India Act",
+  ],
+  answer: "Regulation XVII of 1829",
+},
+{
+  question: "Who introduced English education in India?",
+  options: [
+    "Lord Macaulay",
+    "Lord Curzon",
+    "Lord Ripon",
+    "Warren Hastings",
+  ],
+  answer: "Lord Macaulay",
+},
+{
+  question: "Which Governor-General introduced railways in India?",
+  options: [
+    "Lord Dalhousie",
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Wellesley",
+  ],
+  answer: "Lord Dalhousie",
+},
+{
+  question: "Which was the first railway line in India?",
+  options: [
+    "Bombay to Thane",
+    "Delhi to Agra",
+    "Howrah to Patna",
+    "Madras to Bangalore",
+  ],
+  answer: "Bombay to Thane",
+},
+{
+  question: "Who founded the Indian National Congress?",
+  options: [
+    "A.O. Hume",
+    "Dadabhai Naoroji",
+    "Surendranath Banerjee",
+    "W.C. Banerjee",
+  ],
+  answer: "A.O. Hume",
+},
+{
+  question: "In which year was the Indian National Congress founded?",
+  options: [
+    "1885",
+    "1857",
+    "1905",
+    "1919",
+  ],
+  answer: "1885",
+},
+{
+  question: "Who was the first president of the Indian National Congress?",
+  options: [
+    "W.C. Banerjee",
+    "Dadabhai Naoroji",
+    "A.O. Hume",
+    "Gopal Krishna Gokhale",
+  ],
+  answer: "W.C. Banerjee",
+},
+{
+  question: "Who is known as the Grand Old Man of India?",
+  options: [
+    "Dadabhai Naoroji",
+    "Bal Gangadhar Tilak",
+    "Gopal Krishna Gokhale",
+    "Lala Lajpat Rai",
+  ],
+  answer: "Dadabhai Naoroji",
+},
+{
+  question: "Who gave the slogan ‘Swaraj is my birthright’?",
+  options: [
+    "Bal Gangadhar Tilak",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Lala Lajpat Rai",
+  ],
+  answer: "Bal Gangadhar Tilak",
+},
+{
+  question: "Which movement was launched after the partition of Bengal?",
+  options: [
+    "Swadeshi Movement",
+    "Non-Cooperation Movement",
+    "Civil Disobedience Movement",
+    "Quit India Movement",
+  ],
+  answer: "Swadeshi Movement",
+},
+{
+  question: "In which year was Bengal partitioned?",
+  options: [
+    "1905",
+    "1911",
+    "1885",
+    "1947",
+  ],
+  answer: "1905",
+},
+{
+  question: "Who annulled the partition of Bengal?",
+  options: [
+    "Lord Hardinge",
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Dalhousie",
+  ],
+  answer: "Lord Hardinge",
+},
+{
+  question: "Who founded the Muslim League?",
+  options: [
+    "Nawab Salimullah",
+    "Muhammad Ali Jinnah",
+    "Sir Syed Ahmad Khan",
+    "Aga Khan",
+  ],
+  answer: "Nawab Salimullah",
+},
+{
+  question: "In which year was the Muslim League founded?",
+  options: [
+    "1906",
+    "1885",
+    "1919",
+    "1940",
+  ],
+  answer: "1906",
+},
+{
+  question: "Who was known as the Frontier Gandhi?",
+  options: [
+    "Khan Abdul Ghaffar Khan",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Bhagat Singh",
+  ],
+  answer: "Khan Abdul Ghaffar Khan",
+},
+{
+  question: "Which movement was launched by Gandhi in 1920?",
+  options: [
+    "Non-Cooperation Movement",
+    "Quit India Movement",
+    "Civil Disobedience Movement",
+    "Swadeshi Movement",
+  ],
+  answer: "Non-Cooperation Movement",
+},
+{
+  question: "Which incident led Gandhi to withdraw the Non-Cooperation Movement?",
+  options: [
+    "Chauri Chaura Incident",
+    "Jallianwala Bagh Massacre",
+    "Partition of Bengal",
+    "Dandi March",
+  ],
+  answer: "Chauri Chaura Incident",
+},
+{
+  question: "Who organized the Dandi March?",
+  options: [
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "Sardar Patel",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Which movement is associated with the Salt March?",
+  options: [
+    "Civil Disobedience Movement",
+    "Quit India Movement",
+    "Swadeshi Movement",
+    "Non-Cooperation Movement",
+  ],
+  answer: "Civil Disobedience Movement",
+},
+{
+  question: "Who gave the slogan ‘Do or Die’?",
+  options: [
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "Bhagat Singh",
+  ],
+  answer: "Mahatma Gandhi",
+},
+{
+  question: "Which movement began in 1942?",
+  options: [
+    "Quit India Movement",
+    "Civil Disobedience Movement",
+    "Swadeshi Movement",
+    "Non-Cooperation Movement",
+  ],
+  answer: "Quit India Movement",
+},
+{
+  question: "Who founded the Forward Bloc?",
+  options: [
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Sardar Patel",
+  ],
+ answer: "Subhas Chandra Bose",
+},
+{
+  question: "Who formed the Indian National Army?",
+  options: [
+    "Subhas Chandra Bose",
+    "Rash Behari Bose",
+    "Bhagat Singh",
+    "Lala Lajpat Rai",
+  ],
+  answer: "Rash Behari Bose",
+},
+{
+  question: "Who gave the slogan ‘Jai Hind’?",
+  options: [
+    "Subhas Chandra Bose",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Bhagat Singh",
+  ],
+  answer: "Subhas Chandra Bose",
+},
+{
+  question: "Which revolutionary threw bombs in the Central Legislative Assembly?",
+  options: [
+    "Bhagat Singh and B.K. Dutt",
+    "Rajguru and Sukhdev",
+    "Chandrasekhar Azad",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Bhagat Singh and B.K. Dutt",
+},
+{
+  question: "Who wrote the book ‘Discovery of India’?",
+  options: [
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "B.R. Ambedkar",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "Who was the first Prime Minister of independent India?",
+  options: [
+    "Jawaharlal Nehru",
+    "Sardar Patel",
+    "Rajendra Prasad",
+    "Lal Bahadur Shastri",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "Who was the first President of India?",
+  options: [
+    "Dr. Rajendra Prasad",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Sardar Patel",
+  ],
+  answer: "Dr. Rajendra Prasad",
+},
+{
+  question: "Who chaired the Drafting Committee of the Constitution?",
+  options: [
+    "B.R. Ambedkar",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+    "Sardar Patel",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "When did India become a republic?",
+  options: [
+    "26 January 1950",
+    "15 August 1947",
+    "26 November 1949",
+    "2 October 1948",
+  ],
+  answer: "26 January 1950",
+},
+{
+  question: "Who gave the slogan ‘Inquilab Zindabad’?",
+  options: [
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Bhagat Singh",
+},
+{
+  question: "Which act transferred power from East India Company to the British Crown?",
+  options: [
+    "Government of India Act 1858",
+    "Pitt’s India Act",
+    "Regulating Act",
+    "Charter Act",
+  ],
+  answer: "Government of India Act 1858",
+},
+{
+  question: "Who was the first Viceroy of India?",
+  options: [
+    "Lord Canning",
+    "Lord Curzon",
+    "Lord Dalhousie",
+    "Lord Ripon",
+  ],
+  answer: "Lord Canning",
+},
   ];
 
