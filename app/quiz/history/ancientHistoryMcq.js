@@ -4769,5 +4769,495 @@ export const ancientHistoryMcq = [
   ],
  answer: "Lord Linlithgow",
 },
+  {
+  question: "Who founded the newspaper ‘New India’?",
+  options: [
+    "Annie Besant",
+    "Bal Gangadhar Tilak",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+  ],
+  answer: "Annie Besant",
+},
+{
+  question: "Who established the Indian Reform Association?",
+  options: [
+    "Keshab Chandra Sen",
+    "Raja Ram Mohan Roy",
+    "Dayanand Saraswati",
+    "Swami Vivekananda",
+  ],
+  answer: "Keshab Chandra Sen",
+},
+{
+  question: "Which reform movement opposed caste discrimination?",
+  options: [
+    "Brahmo Samaj",
+    "Subsidiary Alliance",
+    "Doctrine of Lapse",
+    "Permanent Settlement",
+  ],
+  answer: "Brahmo Samaj",
+},
+{
+  question: "Who founded the Prarthana Samaj?",
+  options: [
+    "Atmaram Pandurang",
+    "Jyotiba Phule",
+    "Swami Vivekananda",
+    "Periyar",
+  ],
+  answer: "Atmaram Pandurang",
+},
+{
+  question: "Who founded the Dev Samaj?",
+  options: [
+    "Shiv Narayan Agnihotri",
+    "Dayanand Saraswati",
+    "Keshab Chandra Sen",
+    "Raja Ram Mohan Roy",
+  ],
+  answer: "Shiv Narayan Agnihotri",
+},
+{
+  question: "Which organization promoted widow remarriage?",
+  options: [
+    "Widow Remarriage Association",
+    "Arya Samaj",
+    "Prarthana Samaj",
+    "Theosophical Society",
+  ],
+  answer: "Widow Remarriage Association",
+},
+{
+  question: "Who founded the Young Bengal Movement?",
+  options: [
+    "Henry Vivian Derozio",
+    "Raja Ram Mohan Roy",
+    "Ishwar Chandra Vidyasagar",
+    "Keshab Chandra Sen",
+  ],
+  answer: "Henry Vivian Derozio",
+},
+{
+  question: "Which movement promoted rational thinking in Bengal?",
+  options: [
+    "Young Bengal Movement",
+    "Swadeshi Movement",
+    "Quit India Movement",
+    "Civil Disobedience Movement",
+  ],
+  answer: "Young Bengal Movement",
+},
+{
+  question: "Who founded the Hindu College in Calcutta?",
+  options: [
+    "David Hare",
+    "Raja Ram Mohan Roy",
+    "Henry Derozio",
+    "Ishwar Chandra Vidyasagar",
+  ],
+  answer: "David Hare",
+},
+{
+  question: "Who translated the Vedas into Hindi?",
+  options: [
+    "Dayanand Saraswati",
+    "Swami Vivekananda",
+    "Keshab Chandra Sen",
+    "Raja Ram Mohan Roy",
+  ],
+  answer: "Dayanand Saraswati",
+},
+{
+  question: "Who wrote ‘Satyarth Prakash’?",
+  options: [
+    "Dayanand Saraswati",
+    "Swami Vivekananda",
+    "Mahatma Gandhi",
+    "B.R. Ambedkar",
+  ],
+  answer: "Dayanand Saraswati",
+},
+{
+  question: "Who founded the Ramakrishna Math?",
+  options: [
+    "Swami Vivekananda",
+    "Ramakrishna Paramahamsa",
+    "Dayanand Saraswati",
+    "Raja Ram Mohan Roy",
+  ],
+  answer: "Swami Vivekananda",
+},
+{
+  question: "Which social reformer emphasized practical Vedanta?",
+  options: [
+    "Swami Vivekananda",
+    "Dayanand Saraswati",
+    "Keshab Chandra Sen",
+    "Jyotiba Phule",
+  ],
+  answer: "Swami Vivekananda",
+},
+{
+  question: "Who represented Hinduism at the Chicago Parliament of Religions?",
+  options: [
+    "Swami Vivekananda",
+    "Dayanand Saraswati",
+    "Raja Ram Mohan Roy",
+    "Annie Besant",
+  ],
+  answer: "Swami Vivekananda",
+},
+{
+  question: "Who founded the Muhammadan Anglo-Oriental College?",
+  options: [
+    "Sir Syed Ahmad Khan",
+    "Muhammad Ali Jinnah",
+    "Iqbal",
+    "Maulana Azad",
+  ],
+  answer: "Sir Syed Ahmad Khan",
+},
+{
+  question: "Which institution later became Aligarh Muslim University?",
+  options: [
+    "Muhammadan Anglo-Oriental College",
+    "Calcutta Madrasa",
+    "Jamia Millia Islamia",
+    "Banaras Hindu University",
+  ],
+  answer: "Muhammadan Anglo-Oriental College",
+},
+{
+  question: "Who founded the Deoband Movement?",
+  options: [
+    "Muhammad Qasim Nanautavi",
+    "Sir Syed Ahmad Khan",
+    "Maulana Azad",
+    "Iqbal",
+  ],
+  answer: "Muhammad Qasim Nanautavi",
+},
+{
+  question: "Which movement focused on Islamic education reforms?",
+  options: [
+    "Deoband Movement",
+    "Arya Samaj",
+    "Prarthana Samaj",
+    "Brahmo Samaj",
+  ],
+  answer: "Deoband Movement",
+},
+{
+  question: "Who founded Jamia Millia Islamia?",
+  options: [
+    "Maulana Mohammad Ali",
+    "Sir Syed Ahmad Khan",
+    "Iqbal",
+    "Muhammad Ali Jinnah",
+  ],
+  answer: "Maulana Mohammad Ali",
+},
+{
+  question: "Who founded the Servants of India Society in 1905?",
+  options: [
+    "Gopal Krishna Gokhale",
+    "Bal Gangadhar Tilak",
+    "Dadabhai Naoroji",
+    "Mahatma Gandhi",
+  ],
+  answer: "Gopal Krishna Gokhale",
+},
+{
+  question: "Which leader was known as the political guru of Gandhi?",
+  options: [
+    "Gopal Krishna Gokhale",
+    "Bal Gangadhar Tilak",
+    "Dadabhai Naoroji",
+    "Lala Lajpat Rai",
+  ],
+  answer: "Gopal Krishna Gokhale",
+},
+{
+  question: "Who founded the Poona Sarvajanik Sabha?",
+  options: [
+    "M.G. Ranade",
+    "Bal Gangadhar Tilak",
+    "Gopal Krishna Gokhale",
+    "Dadabhai Naoroji",
+  ],
+  answer: "M.G. Ranade",
+},
+{
+  question: "Which reformer supported widow remarriage and women’s education?",
+  options: [
+    "M.G. Ranade",
+    "Dayanand Saraswati",
+    "Periyar",
+    "Jyotiba Phule",
+  ],
+  answer: "M.G. Ranade",
+},
+{
+  question: "Who founded the Indian Social Conference?",
+  options: [
+    "M.G. Ranade",
+    "Dayanand Saraswati",
+    "Swami Vivekananda",
+    "Jyotiba Phule",
+  ],
+  answer: "M.G. Ranade",
+},
+{
+  question: "Who launched the anti-caste movement in Kerala?",
+  options: [
+    "Sri Narayana Guru",
+    "Periyar",
+    "Jyotiba Phule",
+    "B.R. Ambedkar",
+  ],
+  answer: "Sri Narayana Guru",
+},
+{
+  question: "Who founded the SNDP Yogam?",
+  options: [
+    "Sri Narayana Guru",
+    "Periyar",
+    "Jyotiba Phule",
+    "Swami Vivekananda",
+  ],
+  answer: "Sri Narayana Guru",
+},
+{
+  question: "Which reformer gave the message ‘One caste, one religion, one God’?",
+  options: [
+    "Sri Narayana Guru",
+    "Periyar",
+    "Dayanand Saraswati",
+    "Swami Vivekananda",
+  ],
+  answer: "Sri Narayana Guru",
+},
+{
+  question: "Who started the Temple Entry Movement in Kerala?",
+  options: [
+    "Sri Narayana Guru",
+    "Periyar",
+    "Mahatma Gandhi",
+    "B.R. Ambedkar",
+  ],
+  answer: "Sri Narayana Guru",
+},
+{
+  question: "Who founded the Self-Respect Movement in Tamil Nadu?",
+  options: [
+    "Periyar E.V. Ramasamy",
+    "Sri Narayana Guru",
+    "Jyotiba Phule",
+    "M.G. Ranade",
+  ],
+  answer: "Periyar E.V. Ramasamy",
+},
+{
+  question: "Which reformer strongly opposed Brahmin dominance?",
+  options: [
+    "Periyar",
+    "Swami Vivekananda",
+    "Dayanand Saraswati",
+    "M.G. Ranade",
+  ],
+  answer: "Periyar",
+},
+{
+  question: "Who established the Depressed Classes Mission?",
+  options: [
+    "V.R. Shinde",
+    "B.R. Ambedkar",
+    "Jyotiba Phule",
+    "Periyar",
+  ],
+  answer: "V.R. Shinde",
+},
+{
+  question: "Who founded the Bahishkrit Hitakarini Sabha?",
+  options: [
+    "B.R. Ambedkar",
+    "Jyotiba Phule",
+    "Periyar",
+    "Mahatma Gandhi",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Who started the Mahad Satyagraha?",
+  options: [
+    "B.R. Ambedkar",
+    "Mahatma Gandhi",
+    "Periyar",
+    "Jyotiba Phule",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Which movement demanded temple entry for untouchables?",
+  options: [
+    "Kalaram Temple Movement",
+    "Swadeshi Movement",
+    "Civil Disobedience Movement",
+    "Quit India Movement",
+  ],
+  answer: "Kalaram Temple Movement",
+},
+{
+  question: "Who led the Kalaram Temple Movement?",
+  options: [
+    "B.R. Ambedkar",
+    "Mahatma Gandhi",
+    "Periyar",
+    "Jyotiba Phule",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Who wrote the book ‘Who Were the Shudras?’",
+  options: [
+    "B.R. Ambedkar",
+    "Jyotiba Phule",
+    "Periyar",
+    "Mahatma Gandhi",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Who founded the All India Scheduled Castes Federation?",
+  options: [
+    "B.R. Ambedkar",
+    "Jyotiba Phule",
+    "Periyar",
+    "Mahatma Gandhi",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Which reformer was known as Lokhitwadi?",
+  options: [
+    "Gopal Hari Deshmukh",
+    "M.G. Ranade",
+    "Jyotiba Phule",
+    "Dayanand Saraswati",
+  ],
+  answer: "Gopal Hari Deshmukh",
+},
+{
+  question: "Who founded the Widow Home at Pune?",
+  options: [
+    "Dhondo Keshav Karve",
+    "Ishwar Chandra Vidyasagar",
+    "M.G. Ranade",
+    "Savitribai Phule",
+  ],
+  answer: "Dhondo Keshav Karve",
+},
+{
+  question: "Who founded SNDT Women’s University?",
+  options: [
+    "Dhondo Keshav Karve",
+    "Savitribai Phule",
+    "Annie Besant",
+    "Sarojini Naidu",
+  ],
+  answer: "Dhondo Keshav Karve",
+},
+{
+  question: "Who was the first woman teacher of India?",
+  options: [
+    "Savitribai Phule",
+    "Sarojini Naidu",
+    "Annie Besant",
+    "Kasturba Gandhi",
+  ],
+  answer: "Savitribai Phule",
+},
+{
+  question: "Who started the first school for girls in Pune?",
+  options: [
+    "Jyotiba and Savitribai Phule",
+    "M.G. Ranade",
+    "Dayanand Saraswati",
+    "Periyar",
+  ],
+  answer: "Jyotiba and Savitribai Phule",
+},
+{
+  question: "Which reform movement promoted monotheism?",
+  options: [
+    "Brahmo Samaj",
+    "Arya Samaj",
+    "Self-Respect Movement",
+    "SNDP Movement",
+  ],
+  answer: "Brahmo Samaj",
+},
+{
+  question: "Who founded the Indian National Social Conference?",
+  options: [
+    "M.G. Ranade",
+    "Periyar",
+    "Jyotiba Phule",
+    "B.R. Ambedkar",
+  ],
+  answer: "M.G. Ranade",
+},
+{
+  question: "Which reformer is known as the father of local self-government in India?",
+  options: [
+    "Lord Ripon",
+    "Lord Curzon",
+    "Lord Dalhousie",
+    "Lord Wellesley",
+  ],
+  answer: "Lord Ripon",
+},
+{
+  question: "Who introduced the Ilbert Bill?",
+  options: [
+    "Lord Ripon",
+    "Lord Curzon",
+    "Lord Dalhousie",
+    "Lord Lytton",
+  ],
+  answer: "Lord Ripon",
+},
+{
+  question: "Which Viceroy partitioned Bengal?",
+  options: [
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Dalhousie",
+    "Lord Wellesley",
+  ],
+  answer: "Lord Curzon",
+},
+{
+  question: "Who passed the Vernacular Press Act?",
+  options: [
+    "Lord Lytton",
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Dalhousie",
+  ],
+  answer: "Lord Lytton",
+},
+{
+  question: "Which act was repealed by Lord Ripon?",
+  options: [
+    "Vernacular Press Act",
+    "Regulating Act",
+    "Pitt’s India Act",
+    "Rowlatt Act",
+  ],
+ answer: "Vernacular Press Act",
+},
   ];
 
