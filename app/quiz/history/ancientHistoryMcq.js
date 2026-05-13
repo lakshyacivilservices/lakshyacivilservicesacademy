@@ -9169,5 +9169,495 @@ export const ancientHistoryMcq = [
   ],
   answer: "Sachin Tendulkar",
 },
+  {
+  question: "Who was the first Chief Minister of independent India’s first state government?",
+  options: [
+    "Govind Ballabh Pant",
+    "B.C. Roy",
+    "Morarji Desai",
+    "K. Kamaraj",
+  ],
+  answer: "Govind Ballabh Pant",
+},
+{
+  question: "Who was the first Chief Minister of West Bengal?",
+  options: [
+    "Bidhan Chandra Roy",
+    "Jyoti Basu",
+    "Prafulla Chandra Ghosh",
+    "Siddhartha Shankar Ray",
+  ],
+  answer: "Prafulla Chandra Ghosh",
+},
+{
+  question: "Who was the first Chief Minister of Maharashtra?",
+  options: [
+    "Yashwantrao Chavan",
+    "Morarji Desai",
+    "Vasantrao Naik",
+    "Sharad Pawar",
+  ],
+  answer: "Yashwantrao Chavan",
+},
+{
+  question: "Which commission recommended the reorganization of states on linguistic basis?",
+  options: [
+    "States Reorganisation Commission",
+    "Hunter Commission",
+    "Mandal Commission",
+    "Sarkaria Commission",
+  ],
+  answer: "States Reorganisation Commission",
+},
+{
+  question: "When was the States Reorganisation Act passed?",
+  options: [
+    "1956",
+    "1950",
+    "1962",
+    "1971",
+  ],
+  answer: "1956",
+},
+{
+  question: "Which was the first state formed on linguistic basis?",
+  options: [
+    "Andhra Pradesh",
+    "Maharashtra",
+    "Gujarat",
+    "Punjab",
+  ],
+  answer: "Andhra Pradesh",
+},
+{
+  question: "Who fasted for the creation of Andhra state?",
+  options: [
+    "Potti Sriramulu",
+    "T. Prakasam",
+    "N.G. Ranga",
+    "Tanguturi Prakasam",
+  ],
+  answer: "Potti Sriramulu",
+},
+{
+  question: "Which Indian state was formed in 1960 after division of Bombay state?",
+  options: [
+    "Maharashtra and Gujarat",
+    "Punjab and Haryana",
+    "Bihar and Jharkhand",
+    "Assam and Meghalaya",
+  ],
+  answer: "Maharashtra and Gujarat",
+},
+{
+  question: "Which state was created in 2000 from Bihar?",
+  options: [
+    "Jharkhand",
+    "Chhattisgarh",
+    "Uttarakhand",
+    "Telangana",
+  ],
+  answer: "Jharkhand",
+},
+{
+  question: "Which state was created from Uttar Pradesh in 2000?",
+  options: [
+    "Uttarakhand",
+    "Jharkhand",
+    "Chhattisgarh",
+    "Telangana",
+  ],
+  answer: "Uttarakhand",
+},
+{
+  question: "Which state was created from Madhya Pradesh in 2000?",
+  options: [
+    "Chhattisgarh",
+    "Jharkhand",
+    "Uttarakhand",
+    "Telangana",
+  ],
+  answer: "Chhattisgarh",
+},
+{
+  question: "Which is the newest state of India?",
+  options: [
+    "Telangana",
+    "Jharkhand",
+    "Chhattisgarh",
+    "Uttarakhand",
+  ],
+  answer: "Telangana",
+},
+{
+  question: "When was Telangana formed?",
+  options: [
+    "2014",
+    "2000",
+    "1995",
+    "1987",
+  ],
+  answer: "2014",
+},
+{
+  question: "Who was the first Chief Minister of Telangana?",
+  options: [
+    "K. Chandrashekar Rao",
+    "N. Chandrababu Naidu",
+    "Y.S. Rajasekhara Reddy",
+    "T. Anjaiah",
+  ],
+  answer: "K. Chandrashekar Rao",
+},
+{
+  question: "Which Indian Prime Minister introduced Panchayati Raj officially?",
+  options: [
+    "Jawaharlal Nehru",
+    "Rajiv Gandhi",
+    "Indira Gandhi",
+    "Morarji Desai",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "Where was Panchayati Raj first inaugurated in India?",
+  options: [
+    "Nagaur",
+    "Jaipur",
+    "Ahmedabad",
+    "Lucknow",
+  ],
+  answer: "Nagaur",
+},
+{
+  question: "Which committee recommended Panchayati Raj institutions?",
+  options: [
+    "Balwant Rai Mehta Committee",
+    "Mandal Commission",
+    "Sarkaria Commission",
+    "Kothari Commission",
+  ],
+  answer: "Balwant Rai Mehta Committee",
+},
+{
+  question: "Which committee recommended constitutional status for Panchayati Raj?",
+  options: [
+    "L.M. Singhvi Committee",
+    "Balwant Rai Mehta Committee",
+    "Mandal Commission",
+    "Sarkaria Commission",
+  ],
+  answer: "L.M. Singhvi Committee",
+},
+{
+  question: "Which amendment provided constitutional status to Panchayats?",
+  options: [
+    "73rd Amendment",
+    "74th Amendment",
+    "42nd Amendment",
+    "61st Amendment",
+  ],
+  answer: "73rd Amendment",
+},
+{
+  question: "Which amendment provided constitutional status to Municipalities?",
+  options: [
+    "74th Amendment",
+    "73rd Amendment",
+    "42nd Amendment",
+    "44th Amendment",
+  ],
+  answer: "74th Amendment",
+},
+{
+  question: "Who was the first woman Prime Minister of India?",
+  options: [
+    "Indira Gandhi",
+    "Sarojini Naidu",
+    "Pratibha Patil",
+    "Sucheta Kriplani",
+  ],
+  answer: "Indira Gandhi",
+},
+{
+  question: "Who was the first woman President of India?",
+  options: [
+    "Pratibha Patil",
+    "Indira Gandhi",
+    "Droupadi Murmu",
+    "Sarojini Naidu",
+  ],
+  answer: "Pratibha Patil",
+},
+{
+  question: "Who was the first tribal President of India?",
+  options: [
+    "Droupadi Murmu",
+    "Ram Nath Kovind",
+    "K.R. Narayanan",
+    "Pratibha Patil",
+  ],
+  answer: "Droupadi Murmu",
+},
+{
+  question: "Who was the first Indian woman to win a Nobel Prize?",
+  options: [
+    "Mother Teresa",
+    "Indira Gandhi",
+    "Sarojini Naidu",
+    "Kalpana Chawla",
+  ],
+  answer: "Mother Teresa",
+},
+{
+  question: "Which Nobel Prize did Mother Teresa receive?",
+  options: [
+    "Peace Prize",
+    "Literature Prize",
+    "Economics Prize",
+    "Medicine Prize",
+  ],
+  answer: "Peace Prize",
+},
+{
+  question: "Who founded the Missionaries of Charity?",
+  options: [
+    "Mother Teresa",
+    "Annie Besant",
+    "Sarojini Naidu",
+    "Sister Nivedita",
+  ],
+  answer: "Mother Teresa",
+},
+{
+  question: "Who was the first Indian to win the Nobel Prize?",
+  options: [
+    "Rabindranath Tagore",
+    "C.V. Raman",
+    "Amartya Sen",
+    "Mother Teresa",
+  ],
+  answer: "Rabindranath Tagore",
+},
+{
+  question: "Which work won Rabindranath Tagore the Nobel Prize?",
+  options: [
+    "Gitanjali",
+    "Anandamath",
+    "Discovery of India",
+    "Godan",
+  ],
+  answer: "Gitanjali",
+},
+{
+  question: "Who was the first Indian scientist to win the Nobel Prize?",
+  options: [
+    "C.V. Raman",
+    "Homi Bhabha",
+    "Vikram Sarabhai",
+    "A.P.J. Abdul Kalam",
+  ],
+  answer: "C.V. Raman",
+},
+{
+  question: "Which effect is associated with C.V. Raman?",
+  options: [
+    "Raman Effect",
+    "Photoelectric Effect",
+    "Greenhouse Effect",
+    "Doppler Effect",
+  ],
+  answer: "Raman Effect",
+},
+{
+  question: "Who won the Nobel Prize in Economics from India?",
+  options: [
+    "Amartya Sen",
+    "C.V. Raman",
+    "Har Gobind Khorana",
+    "Subrahmanyan Chandrasekhar",
+  ],
+  answer: "Amartya Sen",
+},
+{
+  question: "Who won the Nobel Prize in Physics of Indian origin for work on stars?",
+  options: [
+    "Subrahmanyan Chandrasekhar",
+    "C.V. Raman",
+    "Homi Bhabha",
+    "Vikram Sarabhai",
+  ],
+  answer: "Subrahmanyan Chandrasekhar",
+},
+{
+  question: "Who became the first Indian-born woman astronaut?",
+  options: [
+    "Kalpana Chawla",
+    "Sunita Williams",
+    "Ritu Karidhal",
+    "Tessy Thomas",
+  ],
+  answer: "Kalpana Chawla",
+},
+{
+  question: "Which spacecraft disaster caused the death of Kalpana Chawla?",
+  options: [
+    "Columbia Shuttle Disaster",
+    "Challenger Disaster",
+    "Apollo 13",
+    "Soyuz 11",
+  ],
+  answer: "Columbia Shuttle Disaster",
+},
+{
+  question: "Who is known as the Missile Woman of India?",
+  options: [
+    "Tessy Thomas",
+    "Kalpana Chawla",
+    "Ritu Karidhal",
+    "Kiran Bedi",
+  ],
+  answer: "Tessy Thomas",
+},
+{
+  question: "Who was the first woman IPS officer in India?",
+  options: [
+    "Kiran Bedi",
+    "Anna Rajam Malhotra",
+    "Aruna Roy",
+    "Indira Gandhi",
+  ],
+  answer: "Kiran Bedi",
+},
+{
+  question: "Who was the first woman IAS officer in India?",
+  options: [
+    "Anna Rajam Malhotra",
+    "Kiran Bedi",
+    "Sarojini Naidu",
+    "Sucheta Kriplani",
+  ],
+  answer: "Anna Rajam Malhotra",
+},
+{
+  question: "Who was the first Indian woman to climb Mount Everest?",
+  options: [
+    "Bachendri Pal",
+    "Santosh Yadav",
+    "Arunima Sinha",
+    "Premlata Agarwal",
+  ],
+  answer: "Bachendri Pal",
+},
+{
+  question: "Who was the first Indian woman to win an Olympic medal?",
+  options: [
+    "Karnam Malleswari",
+    "P.V. Sindhu",
+    "Saina Nehwal",
+    "Mary Kom",
+  ],
+ answer: "Karnam Malleswari",
+},
+{
+  question: "Which sport is associated with Major Dhyan Chand?",
+  options: [
+    "Hockey",
+    "Cricket",
+    "Football",
+    "Tennis",
+  ],
+  answer: "Hockey",
+},
+{
+  question: "Who is known as the Flying Sikh?",
+  options: [
+    "Milkha Singh",
+    "P.T. Usha",
+    "Neeraj Chopra",
+    "Kapil Dev",
+  ],
+  answer: "Milkha Singh",
+},
+{
+  question: "Who is known as the Queen of Indian Track and Field?",
+  options: [
+    "P.T. Usha",
+    "Saina Nehwal",
+    "Mary Kom",
+    "Karnam Malleswari",
+  ],
+  answer: "P.T. Usha",
+},
+{
+  question: "Who became the first Indian to win an individual Olympic gold medal?",
+  options: [
+    "Abhinav Bindra",
+    "Neeraj Chopra",
+    "Leander Paes",
+    "Milkha Singh",
+  ],
+  answer: "Abhinav Bindra",
+},
+{
+  question: "Which Indian athlete won Olympic gold in javelin throw?",
+  options: [
+    "Neeraj Chopra",
+    "Milkha Singh",
+    "P.T. Usha",
+    "Abhinav Bindra",
+  ],
+  answer: "Neeraj Chopra",
+},
+{
+  question: "Who captained India to its first Cricket World Cup victory?",
+  options: [
+    "Kapil Dev",
+    "Sunil Gavaskar",
+    "M.S. Dhoni",
+    "Sourav Ganguly",
+  ],
+  answer: "Kapil Dev",
+},
+{
+  question: "In which year did India win its first Cricket World Cup?",
+  options: [
+    "1983",
+    "2011",
+    "1975",
+    "1992",
+  ],
+  answer: "1983",
+},
+{
+  question: "Who captained India in the 2011 Cricket World Cup victory?",
+  options: [
+    "M.S. Dhoni",
+    "Sachin Tendulkar",
+    "Virat Kohli",
+    "Kapil Dev",
+  ],
+  answer: "M.S. Dhoni",
+},
+{
+  question: "Who is known as the Master Blaster in cricket?",
+  options: [
+    "Sachin Tendulkar",
+    "Virat Kohli",
+    "Kapil Dev",
+    "Sunil Gavaskar",
+  ],
+  answer: "Sachin Tendulkar",
+},
+{
+  question: "Who was the first Indian cricketer to score 100 international centuries?",
+  options: [
+    "Sachin Tendulkar",
+    "Virat Kohli",
+    "Sunil Gavaskar",
+    "Rahul Dravid",
+  ],
+  answer: "Sachin Tendulkar",
+},
   ];
 
