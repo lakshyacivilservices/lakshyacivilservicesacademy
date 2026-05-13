@@ -7699,5 +7699,495 @@ export const ancientHistoryMcq = [
   ],
  answer: "86th Amendment",
 },
+  {
+  question: "Who was the first woman judge of the Supreme Court of India?",
+  options: [
+    "Justice M. Fathima Beevi",
+    "Justice Indu Malhotra",
+    "Justice Ruma Pal",
+    "Justice Sujata Manohar",
+  ],
+  answer: "Justice M. Fathima Beevi",
+},
+{
+  question: "Who was the first woman Speaker of Lok Sabha?",
+  options: [
+    "Meira Kumar",
+    "Sumitra Mahajan",
+    "Pratibha Patil",
+    "Indira Gandhi",
+  ],
+  answer: "Meira Kumar",
+},
+{
+  question: "Who was the first Chief Election Commissioner of India?",
+  options: [
+    "Sukumar Sen",
+    "T.N. Seshan",
+    "S.Y. Quraishi",
+    "Rajiv Kumar",
+  ],
+  answer: "Sukumar Sen",
+},
+{
+  question: "Who introduced Electronic Voting Machines in India widely?",
+  options: [
+    "T.N. Seshan",
+    "Sukumar Sen",
+    "Rajiv Gandhi",
+    "Manmohan Singh",
+  ],
+  answer: "T.N. Seshan",
+},
+{
+  question: "Who is known as the father of the Indian Space Programme?",
+  options: [
+    "Vikram Sarabhai",
+    "A.P.J. Abdul Kalam",
+    "Homi Bhabha",
+    "Satish Dhawan",
+  ],
+  answer: "Vikram Sarabhai",
+},
+{
+  question: "Which was the first Indian satellite?",
+  options: [
+    "Aryabhata",
+    "Bhaskara",
+    "INSAT",
+    "Rohini",
+  ],
+  answer: "Aryabhata",
+},
+{
+  question: "When was Aryabhata satellite launched?",
+  options: [
+    "1975",
+    "1969",
+    "1980",
+    "1991",
+  ],
+  answer: "1975",
+},
+{
+  question: "Which was the first Indian satellite launch vehicle?",
+  options: [
+    "SLV-3",
+    "PSLV",
+    "GSLV",
+    "ASLV",
+  ],
+  answer: "SLV-3",
+},
+{
+  question: "Who led the SLV-3 project?",
+  options: [
+    "A.P.J. Abdul Kalam",
+    "Vikram Sarabhai",
+    "Satish Dhawan",
+    "Homi Bhabha",
+  ],
+  answer: "A.P.J. Abdul Kalam",
+},
+{
+  question: "Which mission successfully reached Mars in 2014?",
+  options: [
+    "Mangalyaan",
+    "Chandrayaan-1",
+    "Chandrayaan-2",
+    "Aditya-L1",
+  ],
+  answer: "Mangalyaan",
+},
+{
+  question: "Which organization launched Mangalyaan?",
+  options: [
+    "ISRO",
+    "NASA",
+    "DRDO",
+    "BARC",
+  ],
+  answer: "ISRO",
+},
+{
+  question: "Which was India’s first mission to the Moon?",
+  options: [
+    "Chandrayaan-1",
+    "Mangalyaan",
+    "Aditya-L1",
+    "Gaganyaan",
+  ],
+  answer: "Chandrayaan-1",
+},
+{
+  question: "Who was the President of India during Chandrayaan-1 launch?",
+  options: [
+    "Pratibha Patil",
+    "A.P.J. Abdul Kalam",
+    "K.R. Narayanan",
+    "Ram Nath Kovind",
+  ],
+  answer: "Pratibha Patil",
+},
+{
+  question: "Which mission discovered water molecules on the Moon?",
+  options: [
+    "Chandrayaan-1",
+    "Mangalyaan",
+    "Aditya-L1",
+    "GSLV",
+  ],
+  answer: "Chandrayaan-1",
+},
+{
+  question: "Which mission achieved soft landing near Moon’s south pole?",
+  options: [
+    "Chandrayaan-3",
+    "Chandrayaan-1",
+    "Mangalyaan",
+    "Aditya-L1",
+  ],
+  answer: "Chandrayaan-3",
+},
+{
+  question: "India became which country to land on the Moon successfully in 2023?",
+  options: [
+    "Fourth",
+    "Second",
+    "Third",
+    "Fifth",
+  ],
+  answer: "Fourth",
+},
+{
+  question: "Which Indian mission studies the Sun?",
+  options: [
+    "Aditya-L1",
+    "Chandrayaan-2",
+    "Mangalyaan",
+    "Gaganyaan",
+  ],
+  answer: "Aditya-L1",
+},
+{
+  question: "Which planned mission is India’s human spaceflight programme?",
+  options: [
+    "Gaganyaan",
+    "Aditya-L1",
+    "Chandrayaan-3",
+    "Mangalyaan",
+  ],
+  answer: "Gaganyaan",
+},
+{
+  question: "Who is known as the father of the Indian nuclear programme?",
+  options: [
+    "Homi J. Bhabha",
+    "A.P.J. Abdul Kalam",
+    "Vikram Sarabhai",
+    "M.S. Swaminathan",
+  ],
+  answer: "Homi J. Bhabha",
+},
+{
+  question: "Which was India’s first nuclear test?",
+  options: [
+    "Smiling Buddha",
+    "Operation Shakti",
+    "Operation Vijay",
+    "Pokhran-II",
+  ],
+  answer: "Smiling Buddha",
+},
+{
+  question: "When did India conduct its first nuclear test?",
+  options: [
+    "1974",
+    "1962",
+    "1984",
+    "1998",
+  ],
+  answer: "1974",
+},
+{
+  question: "Where was India’s first nuclear test conducted?",
+  options: [
+    "Pokhran",
+    "Sriharikota",
+    "Chennai",
+    "Mumbai",
+  ],
+  answer: "Pokhran",
+},
+{
+  question: "Which Prime Minister was in office during the first nuclear test?",
+  options: [
+    "Indira Gandhi",
+    "Jawaharlal Nehru",
+    "Rajiv Gandhi",
+    "Morarji Desai",
+  ],
+  answer: "Indira Gandhi",
+},
+{
+  question: "Which operation name was used for Pokhran-II tests?",
+  options: [
+    "Operation Shakti",
+    "Smiling Buddha",
+    "Operation Vijay",
+    "Operation Polo",
+  ],
+  answer: "Operation Shakti",
+},
+{
+  question: "When were Pokhran-II nuclear tests conducted?",
+  options: [
+    "1998",
+    "1974",
+    "1965",
+    "2001",
+  ],
+  answer: "1998",
+},
+{
+  question: "Which Prime Minister conducted Pokhran-II?",
+  options: [
+    "Atal Bihari Vajpayee",
+    "Rajiv Gandhi",
+    "Indira Gandhi",
+    "Manmohan Singh",
+  ],
+  answer: "Atal Bihari Vajpayee",
+},
+{
+  question: "Who is known as the father of the Green Revolution in India?",
+  options: [
+    "M.S. Swaminathan",
+    "Norman Borlaug",
+    "Verghese Kurien",
+    "Homi Bhabha",
+  ],
+  answer: "M.S. Swaminathan",
+},
+{
+  question: "Which crop was most associated with the Green Revolution?",
+  options: [
+    "Wheat",
+    "Rice",
+    "Cotton",
+    "Sugarcane",
+  ],
+  answer: "Wheat",
+},
+{
+  question: "Which state benefited most initially from the Green Revolution?",
+  options: [
+    "Punjab",
+    "Bihar",
+    "Odisha",
+    "Assam",
+  ],
+  answer: "Punjab",
+},
+{
+  question: "Who is known as the father of the White Revolution?",
+  options: [
+    "Verghese Kurien",
+    "M.S. Swaminathan",
+    "Norman Borlaug",
+    "A.P.J. Abdul Kalam",
+  ],
+  answer: "Verghese Kurien",
+},
+{
+  question: "Which programme led to the White Revolution?",
+  options: [
+    "Operation Flood",
+    "Blue Revolution",
+    "Golden Revolution",
+    "Green Revolution",
+  ],
+  answer: "Operation Flood",
+},
+{
+  question: "Which cooperative brand became famous during the White Revolution?",
+  options: [
+    "Amul",
+    "Nandini",
+    "Mother Dairy",
+    "Aavin",
+  ],
+  answer: "Amul",
+},
+{
+  question: "Which revolution is associated with fish production?",
+  options: [
+    "Blue Revolution",
+    "Green Revolution",
+    "White Revolution",
+    "Golden Revolution",
+  ],
+  answer: "Blue Revolution",
+},
+{
+  question: "Which revolution is linked with oilseed production?",
+  options: [
+    "Yellow Revolution",
+    "Blue Revolution",
+    "White Revolution",
+    "Golden Revolution",
+  ],
+  answer: "Yellow Revolution",
+},
+{
+  question: "Which revolution is associated with fruits and honey production?",
+  options: [
+    "Golden Revolution",
+    "Blue Revolution",
+    "White Revolution",
+    "Green Revolution",
+  ],
+  answer: "Golden Revolution",
+},
+{
+  question: "Who founded the Bhoodan Movement?",
+  options: [
+    "Vinoba Bhave",
+    "Jayaprakash Narayan",
+    "Mahatma Gandhi",
+    "Acharya Narendra Dev",
+  ],
+  answer: "Vinoba Bhave",
+},
+{
+  question: "Which movement asked landlords to donate land to the poor?",
+  options: [
+    "Bhoodan Movement",
+    "Chipko Movement",
+    "Quit India Movement",
+    "Swadeshi Movement",
+  ],
+  answer: "Bhoodan Movement",
+},
+{
+  question: "Who led the Total Revolution Movement?",
+  options: [
+    "Jayaprakash Narayan",
+    "Vinoba Bhave",
+    "Morarji Desai",
+    "Lal Bahadur Shastri",
+  ],
+  answer: "Jayaprakash Narayan",
+},
+{
+  question: "Which movement opposed corruption during the 1970s?",
+  options: [
+    "Total Revolution Movement",
+    "Bhoodan Movement",
+    "Chipko Movement",
+    "Green Revolution",
+  ],
+  answer: "Total Revolution Movement",
+},
+{
+  question: "Who founded the Chipko Movement?",
+  options: [
+    "Sunderlal Bahuguna",
+    "Medha Patkar",
+    "Baba Amte",
+    "Anna Hazare",
+  ],
+  answer: "Sunderlal Bahuguna",
+},
+{
+  question: "Which movement focused on forest conservation?",
+  options: [
+    "Chipko Movement",
+    "Bhoodan Movement",
+    "Quit India Movement",
+    "Swadeshi Movement",
+  ],
+  answer: "Chipko Movement",
+},
+{
+  question: "Which river project was opposed by Medha Patkar?",
+  options: [
+    "Narmada Bachao Andolan",
+    "Tehri Project",
+    "Bhakra Nangal Project",
+    "Hirakud Project",
+  ],
+  answer: "Narmada Bachao Andolan",
+},
+{
+  question: "Who founded the Narmada Bachao Andolan?",
+  options: [
+    "Medha Patkar",
+    "Sunderlal Bahuguna",
+    "Anna Hazare",
+    "Vinoba Bhave",
+  ],
+  answer: "Medha Patkar",
+},
+{
+  question: "Who is known for the anti-corruption movement in 2011?",
+  options: [
+    "Anna Hazare",
+    "Medha Patkar",
+    "Vinoba Bhave",
+    "Jayaprakash Narayan",
+  ],
+  answer: "Anna Hazare",
+},
+{
+  question: "Which constitutional amendment added Fundamental Duties?",
+  options: [
+    "42nd Amendment",
+    "44th Amendment",
+    "73rd Amendment",
+    "61st Amendment",
+  ],
+  answer: "42nd Amendment",
+},
+{
+  question: "Which amendment reduced the voting age to 18 years?",
+  options: [
+    "61st Amendment",
+    "42nd Amendment",
+    "44th Amendment",
+    "73rd Amendment",
+  ],
+  answer: "61st Amendment",
+},
+{
+  question: "Which amendment introduced Panchayati Raj institutions?",
+  options: [
+    "73rd Amendment",
+    "74th Amendment",
+    "42nd Amendment",
+    "61st Amendment",
+  ],
+ answer: "73rd Amendment",
+},
+{
+  question: "Which amendment introduced urban local bodies?",
+  options: [
+    "74th Amendment",
+    "73rd Amendment",
+    "42nd Amendment",
+    "44th Amendment",
+  ],
+ answer: "74th Amendment",
+},
+{
+  question: "Which amendment made Right to Education a Fundamental Right?",
+  options: [
+    "86th Amendment",
+    "42nd Amendment",
+    "44th Amendment",
+    "61st Amendment",
+  ],
+ answer: "86th Amendment",
+},
   ];
 
