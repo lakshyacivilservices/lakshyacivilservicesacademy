@@ -6709,5 +6709,505 @@ export const ancientHistoryMcq = [
   ],
   answer: "Dadabhai Naoroji",
 },
+  {
+  question: "Who was known as the ‘Father of the Indian Constitution’?",
+  options: [
+    "B.R. Ambedkar",
+    "Jawaharlal Nehru",
+    "Rajendra Prasad",
+    "Sardar Patel",
+  ],
+  answer: "B.R. Ambedkar",
+},
+{
+  question: "Who was the first Chief Election Commissioner of India?",
+  options: [
+    "Sukumar Sen",
+    "T.N. Seshan",
+    "Rajendra Prasad",
+    "B.N. Rau",
+  ],
+  answer: "Sukumar Sen",
+},
+{
+  question: "Which was the first general election held in independent India?",
+  options: [
+    "1951-52",
+    "1947-48",
+    "1955-56",
+    "1960-61",
+  ],
+  answer: "1951-52",
+},
+{
+  question: "Who founded the Planning Commission of India?",
+  options: [
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Rajendra Prasad",
+    "Sardar Patel",
+  ],
+  answer: "Jawaharlal Nehru",
+},
+{
+  question: "When was the Planning Commission established?",
+  options: [
+    "1950",
+    "1947",
+    "1955",
+    "1962",
+  ],
+  answer: "1950",
+},
+{
+  question: "Who gave the slogan ‘Garibi Hatao’?",
+  options: [
+    "Indira Gandhi",
+    "Jawaharlal Nehru",
+    "Lal Bahadur Shastri",
+    "Rajiv Gandhi",
+  ],
+  answer: "Indira Gandhi",
+},
+{
+  question: "Who gave the slogan ‘Jai Jawan Jai Kisan’?",
+  options: [
+    "Lal Bahadur Shastri",
+    "Jawaharlal Nehru",
+    "Indira Gandhi",
+    "Rajiv Gandhi",
+  ],
+  answer: "Lal Bahadur Shastri",
+},
+{
+  question: "Who was the first woman Prime Minister of India?",
+  options: [
+    "Indira Gandhi",
+    "Sarojini Naidu",
+    "Sucheta Kriplani",
+    "Vijayalakshmi Pandit",
+  ],
+  answer: "Indira Gandhi",
+},
+{
+  question: "Who nationalized banks in India in 1969?",
+  options: [
+    "Indira Gandhi",
+    "Jawaharlal Nehru",
+    "Morarji Desai",
+    "Rajiv Gandhi",
+  ],
+  answer: "Indira Gandhi",
+},
+{
+  question: "Which war led to the creation of Bangladesh?",
+  options: [
+    "Indo-Pak War of 1971",
+    "Kargil War",
+    "Indo-China War",
+    "First Kashmir War",
+  ],
+  answer: "Indo-Pak War of 1971",
+},
+{
+  question: "Who was the Prime Minister during the Emergency in India?",
+  options: [
+    "Indira Gandhi",
+    "Morarji Desai",
+    "Rajiv Gandhi",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Indira Gandhi",
+},
+{
+  question: "During which years was the Emergency imposed in India?",
+  options: [
+    "1975-1977",
+    "1962-1964",
+    "1980-1982",
+    "1990-1992",
+  ],
+  answer: "1975-1977",
+},
+{
+  question: "Who became the first non-Congress Prime Minister of India?",
+  options: [
+    "Morarji Desai",
+    "Charan Singh",
+    "Atal Bihari Vajpayee",
+    "V.P. Singh",
+  ],
+  answer: "Morarji Desai",
+},
+{
+  question: "Who launched Operation Blue Star?",
+  options: [
+    "Indira Gandhi",
+    "Rajiv Gandhi",
+    "Morarji Desai",
+    "Lal Bahadur Shastri",
+  ],
+  answer: "Indira Gandhi",
+},
+{
+  question: "Who became Prime Minister after Indira Gandhi’s assassination?",
+  options: [
+    "Rajiv Gandhi",
+    "Morarji Desai",
+    "Charan Singh",
+    "P.V. Narasimha Rao",
+  ],
+  answer: "Rajiv Gandhi",
+},
+{
+  question: "Who introduced economic liberalization in 1991?",
+  options: [
+    "P.V. Narasimha Rao",
+    "Indira Gandhi",
+    "Rajiv Gandhi",
+    "Atal Bihari Vajpayee",
+  ],
+  answer: "P.V. Narasimha Rao",
+},
+{
+  question: "Who was the Finance Minister during the 1991 economic reforms?",
+  options: [
+    "Manmohan Singh",
+    "Pranab Mukherjee",
+    "Morarji Desai",
+    "Yashwant Sinha",
+  ],
+  answer: "Manmohan Singh",
+},
+{
+  question: "Who became the first Sikh Prime Minister of India?",
+  options: [
+    "Manmohan Singh",
+    "Giani Zail Singh",
+    "I.K. Gujral",
+    "Charan Singh",
+  ],
+  answer: "Manmohan Singh",
+},
+{
+  question: "Which Prime Minister conducted Pokhran-II nuclear tests?",
+  options: [
+    "Atal Bihari Vajpayee",
+    "Indira Gandhi",
+    "Rajiv Gandhi",
+    "P.V. Narasimha Rao",
+  ],
+  answer: "Atal Bihari Vajpayee",
+},
+{
+  question: "Which war took place in 1999 between India and Pakistan?",
+  options: [
+    "Kargil War",
+    "Indo-Pak War 1971",
+    "Indo-China War",
+    "First Kashmir War",
+  ],
+  answer: "Kargil War",
+},
+{
+  question: "Who was the President of India during Kargil War?",
+  options: [
+    "K.R. Narayanan",
+    "A.P.J. Abdul Kalam",
+    "R. Venkataraman",
+    "Shankar Dayal Sharma",
+  ],
+  answer: "K.R. Narayanan",
+},
+{
+  question: "Who is known as the Missile Man of India?",
+  options: [
+    "A.P.J. Abdul Kalam",
+    "Vikram Sarabhai",
+    "Homi Bhabha",
+    "Satish Dhawan",
+  ],
+  answer: "A.P.J. Abdul Kalam",
+},
+{
+  question: "Who founded ISRO?",
+  options: [
+    "Vikram Sarabhai",
+    "A.P.J. Abdul Kalam",
+    "Homi Bhabha",
+    "Satish Dhawan",
+  ],
+  answer: "Vikram Sarabhai",
+},
+{
+  question: "When was ISRO established?",
+  options: [
+    "1969",
+    "1950",
+    "1975",
+    "1984",
+  ],
+  answer: "1969",
+},
+{
+  question: "Who is known as the father of the Indian nuclear programme?",
+  options: [
+    "Homi J. Bhabha",
+    "A.P.J. Abdul Kalam",
+    "Vikram Sarabhai",
+    "Satish Dhawan",
+  ],
+  answer: "Homi J. Bhabha",
+},
+{
+  question: "Who was the first Indian to travel into space?",
+  options: [
+    "Rakesh Sharma",
+    "Kalpana Chawla",
+    "Sunita Williams",
+    "Vikram Sarabhai",
+  ],
+  answer: "Rakesh Sharma",
+},
+{
+  question: "Which Prime Minister asked Rakesh Sharma ‘How does India look from space?’",
+  options: [
+    "Indira Gandhi",
+    "Rajiv Gandhi",
+    "Morarji Desai",
+    "Atal Bihari Vajpayee",
+  ],
+  answer: "Indira Gandhi",
+},
+{
+  question: "What was Rakesh Sharma’s reply about India from space?",
+  options: [
+    "Saare Jahan Se Achha",
+    "Jai Hind",
+    "Vande Mataram",
+    "Do or Die",
+  ],
+  answer: "Saare Jahan Se Achha",
+},
+{
+  question: "Who was the first President of independent India?",
+  options: [
+    "Dr. Rajendra Prasad",
+    "Sarvepalli Radhakrishnan",
+    "Zakir Hussain",
+    "V.V. Giri",
+  ],
+  answer: "Dr. Rajendra Prasad",
+},
+{
+  question: "Who was the first Vice President of India?",
+  options: [
+    "Sarvepalli Radhakrishnan",
+    "Rajendra Prasad",
+    "Zakir Hussain",
+    "V.V. Giri",
+  ],
+  answer: "Sarvepalli Radhakrishnan",
+},
+{
+  question: "Who was the first Muslim President of India?",
+  options: [
+    "Dr. Zakir Hussain",
+    "A.P.J. Abdul Kalam",
+    "Fakhruddin Ali Ahmed",
+    "Zail Singh",
+  ],
+  answer: "Dr. Zakir Hussain",
+},
+{
+  question: "Who was the first woman President of India?",
+  options: [
+    "Pratibha Patil",
+    "Indira Gandhi",
+    "Sarojini Naidu",
+    "Droupadi Murmu",
+  ],
+  answer: "Pratibha Patil",
+},
+{
+  question: "Who was the first Dalit President of India?",
+  options: [
+    "K.R. Narayanan",
+    "Ram Nath Kovind",
+    "Zakir Hussain",
+    "A.P.J. Abdul Kalam",
+  ],
+  answer: "K.R. Narayanan",
+},
+{
+  question: "Who was the first tribal President of India?",
+  options: [
+    "Droupadi Murmu",
+    "Pratibha Patil",
+    "K.R. Narayanan",
+    "Ram Nath Kovind",
+  ],
+  answer: "Droupadi Murmu",
+},
+{
+  question: "Who was the first Chief Justice of India?",
+  options: [
+    "H.J. Kania",
+    "M. Hidayatullah",
+    "P.N. Bhagwati",
+    "Y.V. Chandrachud",
+  ],
+  answer: "H.J. Kania",
+},
+{
+  question: "Which Prime Minister introduced the Green Revolution?",
+  options: [
+    "Lal Bahadur Shastri",
+    "Jawaharlal Nehru",
+    "Indira Gandhi",
+    "Rajiv Gandhi",
+  ],
+  answer: "Lal Bahadur Shastri",
+},
+{
+  question: "Who is known as the Father of Green Revolution in India?",
+  options: [
+    "M.S. Swaminathan",
+    "Verghese Kurien",
+    "Norman Borlaug",
+    "Vikram Sarabhai",
+  ],
+  answer: "M.S. Swaminathan",
+},
+{
+  question: "Who is known as the Father of White Revolution in India?",
+  options: [
+    "Verghese Kurien",
+    "M.S. Swaminathan",
+    "Norman Borlaug",
+    "Homi Bhabha",
+  ],
+  answer: "Verghese Kurien",
+},
+{
+  question: "Which programme is associated with milk production in India?",
+  options: [
+    "Operation Flood",
+    "Green Revolution",
+    "Blue Revolution",
+    "Golden Revolution",
+  ],
+  answer: "Operation Flood",
+},
+{
+  question: "Who founded Amul?",
+  options: [
+    "Verghese Kurien",
+    "Tribhuvandas Patel",
+    "M.S. Swaminathan",
+    "Homi Bhabha",
+  ],
+  answer: "Verghese Kurien",
+},
+{
+  question: "Which revolution is related to fish production?",
+  options: [
+    "Blue Revolution",
+    "Green Revolution",
+    "White Revolution",
+    "Golden Revolution",
+  ],
+  answer: "Blue Revolution",
+},
+{
+  question: "Which revolution is related to horticulture and honey production?",
+  options: [
+    "Golden Revolution",
+    "Blue Revolution",
+    "White Revolution",
+    "Green Revolution",
+  ],
+  answer: "Golden Revolution",
+},
+{
+  question: "Which constitutional amendment lowered voting age from 21 to 18?",
+  options: [
+    "61st Amendment",
+    "42nd Amendment",
+    "44th Amendment",
+    "73rd Amendment",
+  ],
+  answer: "61st Amendment",
+},
+{
+  question: "Which amendment is known as the Mini Constitution?",
+  options: [
+    "42nd Amendment",
+    "44th Amendment",
+    "73rd Amendment",
+    "86th Amendment",
+  ],
+  answer: "42nd Amendment",
+},
+{
+  question: "Which amendment added Fundamental Duties?",
+  options: [
+    "42nd Amendment",
+    "44th Amendment",
+    "61st Amendment",
+    "73rd Amendment",
+  ],
+ answer: "42nd Amendment",
+},
+{
+  question: "Which amendment gave constitutional status to Panchayati Raj?",
+  options: [
+    "73rd Amendment",
+    "74th Amendment",
+    "42nd Amendment",
+    "61st Amendment",
+  ],
+  answer: "73rd Amendment",
+},
+{
+  question: "Which amendment gave constitutional status to Municipalities?",
+  options: [
+    "74th Amendment",
+    "73rd Amendment",
+    "42nd Amendment",
+    "61st Amendment",
+  ],
+  answer: "74th Amendment",
+},
+{
+  question: "Which amendment made education a fundamental right?",
+  options: [
+    "86th Amendment",
+    "42nd Amendment",
+    "44th Amendment",
+    "73rd Amendment",
+  ],
+  answer: "86th Amendment",
+},
+{
+  question: "Who was the first woman Chief Minister in India?",
+  options: [
+    "Sucheta Kriplani",
+    "Indira Gandhi",
+    "Jayalalithaa",
+    "Mayawati",
+  ],
+  answer: "Sucheta Kriplani",
+},
+{
+  question: "Who was the first woman Governor in India?",
+  options: [
+    "Sarojini Naidu",
+    "Indira Gandhi",
+    "Sucheta Kriplani",
+    "Vijayalakshmi Pandit",
+  ],
+ answer: "Sarojini Naidu",
+},
   ];
 
