@@ -9659,5 +9659,475 @@ export const ancientHistoryMcq = [
   ],
   answer: "Sachin Tendulkar",
 },
+  {
+  question: "Who is known as the Wall of Indian cricket?",
+  options: [
+    "Rahul Dravid",
+    "Sachin Tendulkar",
+    "Virat Kohli",
+    "Kapil Dev",
+  ],
+  answer: "Rahul Dravid",
+},
+{
+  question: "Who is known as Captain Cool in Indian cricket?",
+  options: [
+    "M.S. Dhoni",
+    "Virat Kohli",
+    "Kapil Dev",
+    "Rohit Sharma",
+  ],
+  answer: "M.S. Dhoni",
+},
+{
+  question: "Who was the first Indian batsman to score a triple century in Test cricket?",
+  options: [
+    "Virender Sehwag",
+    "Sachin Tendulkar",
+    "Sunil Gavaskar",
+    "Rahul Dravid",
+  ],
+  answer: "Virender Sehwag",
+},
+{
+  question: "Who is known as the Little Master in cricket?",
+  options: [
+    "Sunil Gavaskar",
+    "Sachin Tendulkar",
+    "Virat Kohli",
+    "Kapil Dev",
+  ],
+  answer: "Sunil Gavaskar",
+},
+{
+  question: "Which Indian badminton player won India’s first Olympic silver medal in badminton?",
+  options: [
+    "P.V. Sindhu",
+    "Saina Nehwal",
+    "Jwala Gutta",
+    "Ashwini Ponnappa",
+  ],
+  answer: "P.V. Sindhu",
+},
+{
+  question: "Who was the first Indian woman boxer to win an Olympic medal?",
+  options: [
+    "Mary Kom",
+    "Lovlina Borgohain",
+    "Nikhat Zareen",
+    "P.T. Usha",
+  ],
+  answer: "Mary Kom",
+},
+{
+  question: "Who is known as the Magnificent Mary?",
+  options: [
+    "Mary Kom",
+    "P.V. Sindhu",
+    "Saina Nehwal",
+    "Karnam Malleswari",
+  ],
+  answer: "Mary Kom",
+},
+{
+  question: "Which Indian shuttler became world champion in badminton in 2019?",
+  options: [
+    "P.V. Sindhu",
+    "Saina Nehwal",
+    "Kidambi Srikanth",
+    "Lakshya Sen",
+  ],
+  answer: "P.V. Sindhu",
+},
+{
+  question: "Who was the first Indian woman to win a medal in badminton at Olympics?",
+  options: [
+    "Saina Nehwal",
+    "P.V. Sindhu",
+    "Jwala Gutta",
+    "Ashwini Ponnappa",
+  ],
+  answer: "Saina Nehwal",
+},
+{
+  question: "Which Indian tennis player won multiple Grand Slam doubles titles?",
+  options: [
+    "Leander Paes",
+    "Vijay Amritraj",
+    "Mahesh Bhupathi",
+    "Rohan Bopanna",
+  ],
+  answer: "Leander Paes",
+},
+{
+  question: "Who was the first Indian to win a Grand Slam title?",
+  options: [
+    "Mahesh Bhupathi",
+    "Leander Paes",
+    "Rohan Bopanna",
+    "Sania Mirza",
+  ],
+  answer: "Mahesh Bhupathi",
+},
+{
+  question: "Who was the first Indian woman to win a Grand Slam title?",
+  options: [
+    "Sania Mirza",
+    "Saina Nehwal",
+    "P.V. Sindhu",
+    "Mary Kom",
+  ],
+  answer: "Sania Mirza",
+},
+{
+  question: "Who won the Bharat Ratna among sportspersons first?",
+  options: [
+    "Sachin Tendulkar",
+    "Dhyan Chand",
+    "Kapil Dev",
+    "Milkha Singh",
+  ],
+  answer: "Sachin Tendulkar",
+},
+{
+  question: "Which Indian shooter won Olympic gold in 2008?",
+  options: [
+    "Abhinav Bindra",
+    "Gagan Narang",
+    "Rajyavardhan Singh Rathore",
+    "Vijay Kumar",
+  ],
+  answer: "Abhinav Bindra",
+},
+{
+  question: "Who was the first Indian to win an individual Olympic silver medal?",
+  options: [
+    "Rajyavardhan Singh Rathore",
+    "Abhinav Bindra",
+    "Leander Paes",
+    "P.V. Sindhu",
+  ],
+  answer: "Rajyavardhan Singh Rathore",
+},
+{
+  question: "Which Indian wrestler won Olympic bronze in 2008?",
+  options: [
+    "Sushil Kumar",
+    "Bajrang Punia",
+    "Yogeshwar Dutt",
+    "Ravi Dahiya",
+  ],
+  answer: "Sushil Kumar",
+},
+{
+  question: "Who became the first Indian wrestler to win two Olympic medals?",
+  options: [
+    "Sushil Kumar",
+    "Bajrang Punia",
+    "Yogeshwar Dutt",
+    "Ravi Dahiya",
+  ],
+  answer: "Sushil Kumar",
+},
+{
+  question: "Which Indian athlete won Olympic gold in Tokyo 2020?",
+  options: [
+    "Neeraj Chopra",
+    "Milkha Singh",
+    "P.T. Usha",
+    "Abhinav Bindra",
+  ],
+  answer: "Neeraj Chopra",
+},
+{
+  question: "Who was the first Indian woman to win two Olympic medals?",
+  options: [
+    "P.V. Sindhu",
+    "Mary Kom",
+    "Saina Nehwal",
+    "Karnam Malleswari",
+  ],
+  answer: "P.V. Sindhu",
+},
+{
+  question: "Who founded the Indian National Army women’s regiment Rani Jhansi Regiment?",
+  options: [
+    "Subhas Chandra Bose",
+    "Lakshmi Sahgal",
+    "Sarojini Naidu",
+    "Aruna Asaf Ali",
+  ],
+  answer: "Subhas Chandra Bose",
+},
+{
+  question: "Who commanded the Rani Jhansi Regiment?",
+  options: [
+    "Lakshmi Sahgal",
+    "Sarojini Naidu",
+    "Aruna Asaf Ali",
+    "Sucheta Kriplani",
+  ],
+  answer: "Lakshmi Sahgal",
+},
+{
+  question: "Who was the first Indian woman to become president of the UN General Assembly?",
+  options: [
+    "Vijayalakshmi Pandit",
+    "Sarojini Naidu",
+    "Indira Gandhi",
+    "Pratibha Patil",
+  ],
+  answer: "Vijayalakshmi Pandit",
+},
+{
+  question: "Who was the first Indian woman to become Governor of a state?",
+  options: [
+    "Sarojini Naidu",
+    "Indira Gandhi",
+    "Sucheta Kriplani",
+    "Pratibha Patil",
+  ],
+  answer: "Sarojini Naidu",
+},
+{
+  question: "Who became the first Indian woman to swim across the English Channel?",
+  options: [
+    "Arati Saha",
+    "Bula Choudhury",
+    "Sania Mirza",
+    "P.T. Usha",
+  ],
+  answer: "Arati Saha",
+},
+{
+  question: "Who was the first Indian woman to win Miss World?",
+  options: [
+    "Reita Faria",
+    "Aishwarya Rai",
+    "Sushmita Sen",
+    "Priyanka Chopra",
+  ],
+  answer: "Reita Faria",
+},
+{
+  question: "Who was the first Indian woman to win Miss Universe?",
+  options: [
+    "Sushmita Sen",
+    "Aishwarya Rai",
+    "Priyanka Chopra",
+    "Lara Dutta",
+  ],
+  answer: "Sushmita Sen",
+},
+{
+  question: "Who won Miss World title for India in 1994?",
+  options: [
+    "Aishwarya Rai",
+    "Sushmita Sen",
+    "Priyanka Chopra",
+    "Lara Dutta",
+  ],
+  answer: "Aishwarya Rai",
+},
+{
+  question: "Who became the first Indian woman to climb Mount Everest twice?",
+  options: [
+    "Santosh Yadav",
+    "Bachendri Pal",
+    "Arunima Sinha",
+    "Premlata Agarwal",
+  ],
+  answer: "Santosh Yadav",
+},
+{
+  question: "Who became the first female amputee to climb Mount Everest?",
+  options: [
+    "Arunima Sinha",
+    "Santosh Yadav",
+    "Bachendri Pal",
+    "Premlata Agarwal",
+  ],
+  answer: "Arunima Sinha",
+},
+{
+  question: "Who is known as the Metro Man of India?",
+  options: [
+    "E. Sreedharan",
+    "Sam Pitroda",
+    "Verghese Kurien",
+    "M.S. Swaminathan",
+  ],
+  answer: "E. Sreedharan",
+},
+{
+  question: "Who is known as the father of India’s telecom revolution?",
+  options: [
+    "Sam Pitroda",
+    "E. Sreedharan",
+    "Verghese Kurien",
+    "A.P.J. Abdul Kalam",
+  ],
+  answer: "Sam Pitroda",
+},
+{
+  question: "Who is known as the father of India’s IT revolution?",
+  options: [
+    "N.R. Narayana Murthy",
+    "Azim Premji",
+    "Sam Pitroda",
+    "Ratan Tata",
+  ],
+  answer: "N.R. Narayana Murthy",
+},
+{
+  question: "Which company was founded by N.R. Narayana Murthy?",
+  options: [
+    "Infosys",
+    "TCS",
+    "Wipro",
+    "HCL",
+  ],
+  answer: "Infosys",
+},
+{
+  question: "Who is known as the Czar of Indian IT industry?",
+  options: [
+    "Azim Premji",
+    "N.R. Narayana Murthy",
+    "Ratan Tata",
+    "Sam Pitroda",
+  ],
+  answer: "Azim Premji",
+},
+{
+  question: "Which company is associated with Azim Premji?",
+  options: [
+    "Wipro",
+    "Infosys",
+    "TCS",
+    "Reliance",
+  ],
+  answer: "Wipro",
+},
+{
+  question: "Who founded Reliance Industries?",
+  options: [
+    "Dhirubhai Ambani",
+    "Ratan Tata",
+    "Azim Premji",
+    "Narayana Murthy",
+  ],
+  answer: "Dhirubhai Ambani",
+},
+{
+  question: "Who is associated with the Tata Group modernization?",
+  options: [
+    "Ratan Tata",
+    "J.R.D. Tata",
+    "Dhirubhai Ambani",
+    "Azim Premji",
+  ],
+  answer: "Ratan Tata",
+},
+{
+  question: "Who founded the Tata Group?",
+  options: [
+    "Jamsetji Tata",
+    "Ratan Tata",
+    "J.R.D. Tata",
+    "Naval Tata",
+  ],
+  answer: "Jamsetji Tata",
+},
+{
+  question: "Who started India’s first airline Tata Airlines?",
+  options: [
+    "J.R.D. Tata",
+    "Jamsetji Tata",
+    "Ratan Tata",
+    "Dhirubhai Ambani",
+  ],
+  answer: "J.R.D. Tata",
+},
+{
+  question: "Which airline later became Air India?",
+  options: [
+    "Tata Airlines",
+    "Indian Airlines",
+    "Deccan Airways",
+    "Alliance Air",
+  ],
+  answer: "Tata Airlines",
+},
+{
+  question: "Who was the first Indian to receive Bharat Ratna?",
+  options: [
+    "C. Rajagopalachari",
+    "Sarvepalli Radhakrishnan",
+    "C.V. Raman",
+    "Jawaharlal Nehru",
+  ],
+  answer: "C. Rajagopalachari",
+},
+{
+  question: "Who was the first educationist to receive Bharat Ratna?",
+  options: [
+    "Sarvepalli Radhakrishnan",
+    "C.V. Raman",
+    "M. Visvesvaraya",
+    "Jawaharlal Nehru",
+  ],
+  answer: "Sarvepalli Radhakrishnan",
+},
+{
+  question: "Who is known as the father of Indian engineering?",
+  options: [
+    "M. Visvesvaraya",
+    "E. Sreedharan",
+    "Homi Bhabha",
+    "Vikram Sarabhai",
+  ],
+  answer: "M. Visvesvaraya",
+},
+{
+  question: "Engineers Day in India is celebrated on the birth anniversary of:",
+  options: [
+    "M. Visvesvaraya",
+    "A.P.J. Abdul Kalam",
+    "Homi Bhabha",
+    "Vikram Sarabhai",
+  ],
+  answer: "M. Visvesvaraya",
+},
+{
+  question: "Who designed the Bhakra Nangal project prominently?",
+  options: [
+    "M. Visvesvaraya",
+    "E. Sreedharan",
+    "Homi Bhabha",
+    "A.P.J. Abdul Kalam",
+  ],
+  answer: "M. Visvesvaraya",
+},
+{
+  question: "Who was known as the Iron Man of India?",
+  options: [
+    "Sardar Vallabhbhai Patel",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+  ],
+  answer: "Sardar Vallabhbhai Patel",
+},
+{
+  question: "Who is known as the Missile Man of India?",
+  options: [
+    "A.P.J. Abdul Kalam",
+    "Vikram Sarabhai",
+    "Homi Bhabha",
+    "Satish Dhawan",
+  ],
+  answer: "A.P.J. Abdul Kalam",
+},
   ];
 
