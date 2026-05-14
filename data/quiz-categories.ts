@@ -104,4 +104,9 @@ export const quizCategories = [
     link: "/quiz/maths",
     color: "linear-gradient(135deg,#991b1b,#ef4444,#fca5a5)"
   }
+  {
+  title: "Constitution",
+  slug: "constitution",
+  description: "Indian Constitution MCQs"
+},
 ];
