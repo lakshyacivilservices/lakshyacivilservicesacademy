@@ -1,40 +1,28 @@
 export default function Home() {
-  const categories = [
-    {
-      title: "SSC",
-      link: "/quiz/ssc"
-    },
-    {
-      title: "UPSC",
-      link: "/quiz/upsc"
-    },
-    {
-      title: "UGC NET",
-      link: "/quiz/ugc-net"
-    },
-    {
-      title: "Constitution",
-      link: "/quiz/constitution"
-    }
-  ]
-
   return (
-    <main className="min-h-screen bg-black text-white p-10">
-      <h1 className="mb-10 text-6xl font-black">
+    <main style={{
+      background: "black",
+      minHeight: "100vh",
+      padding: "40px",
+      color: "white"
+    }}>
+      <h1 style={{ fontSize: "60px" }}>
         Lakshya Quiz Academy
       </h1>
 
-      <div className="grid gap-6 md:grid-cols-2">
+      <div style={{
+        display: "grid",
+        gap: "20px",
+        marginTop: "40px"
+      }}>
 
-        {categories.map((item) => (
-          <a
-            key={item.title}
-            href={item.link}
-            className="rounded-3xl bg-gradient-to-r from-cyan-500 to-blue-600 p-10 text-3xl font-bold shadow-2xl"
-          >
-            {item.title}
-          </a>
-        ))}
+        <a href="/quiz/ssc">SSC</a>
+
+        <a href="/quiz/upsc">UPSC</a>
+
+        <a href="/quiz/ugc-net">UGC NET</a>
+
+        <a href="/quiz/constitution">Constitution</a>
 
       </div>
     </main>
