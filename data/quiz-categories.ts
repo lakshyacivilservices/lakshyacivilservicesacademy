@@ -1,4 +1,3 @@
-
 export const quizCategories = [
   {
     title: "HRM Quiz",
