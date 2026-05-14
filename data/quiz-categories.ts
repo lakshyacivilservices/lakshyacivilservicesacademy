@@ -15,12 +15,12 @@ export const quizCategories = [
     color: "linear-gradient(135deg,#f97316,#ef4444,#ec4899)"
   },
   {
-    title: "UPSC Quiz",
+    title: "UPPSC Quiz",
     link: "/quiz/upsc",
     color: "linear-gradient(135deg,#0f172a,#2563eb,#06b6d4)"
   },
   {
-    title: "Banking Quiz",
+    title: "Indian Constitution",
     link: "/quiz/banking",
     color: "linear-gradient(135deg,#14532d,#22c55e,#84cc16)"
   },
