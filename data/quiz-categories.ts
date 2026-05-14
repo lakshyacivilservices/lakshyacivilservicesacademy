@@ -103,10 +103,10 @@ export const quizCategories = [
     title: "Maths Quiz",
     link: "/quiz/maths",
     color: "linear-gradient(135deg,#991b1b,#ef4444,#fca5a5)"
-  }
+  },
   {
-  title: "Constitution",
-  slug: "constitution",
-  description: "Indian Constitution MCQs"
-},
+    title: "Constitution Quiz",
+    link: "/quiz/constitution",
+    color: "linear-gradient(135deg,#7c2d12,#ea580c,#fdba74)"
+  }
 ];
