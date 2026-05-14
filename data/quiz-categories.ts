@@ -109,4 +109,10 @@ export const quizCategories = [
     link: "/quiz/constitution",
     color: "linear-gradient(135deg,#7c2d12,#ea580c,#fdba74)"
   }
+  ,
+{
+  title: "Constitution Quiz",
+  link: "/quiz/constitution",
+  color: "linear-gradient(135deg,#7c2d12,#ea580c,#fdba74)"
+}
 ];
