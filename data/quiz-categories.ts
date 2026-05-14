@@ -105,7 +105,7 @@ export const quizCategories = [
     color: "linear-gradient(135deg,#991b1b,#ef4444,#fca5a5)"
   },
   {
-    title: "Constitution Quiz",
+    title: "Indian Constitution",
     link: "/quiz/constitution",
     color: "linear-gradient(135deg,#7c2d12,#ea580c,#fdba74)"
   }
