@@ -1,3 +1,61 @@
+export const indianConstitutionMcqs = [
+  {
+    question: "Who is known as the Father of the Indian Constitution?",
+    options: [
+      "Jawaharlal Nehru",
+      "B. R. Ambedkar",
+      "Mahatma Gandhi",
+      "Sardar Patel"
+    ],
+    answer: "B. R. Ambedkar"
+  },
+
+  {
+    question: "How many Fundamental Rights are provided in the Indian Constitution?",
+    options: [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    answer: "6"
+  },
+
+  {
+    question: "Which Article deals with Equality before Law?",
+    options: [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 32"
+    ],
+    answer: "Article 14"
+  },
+
+  {
+    question: "Which part of the Constitution contains Fundamental Duties?",
+    options: [
+      "Part III",
+      "Part IV",
+      "Part IVA",
+      "Part V"
+    ],
+    answer: "Part IVA"
+  },
+
+  {
+    question: "Who appoints the Prime Minister of India?",
+    options: [
+      "Chief Justice",
+      "President",
+      "Lok Sabha Speaker",
+      "Governor"
+    ],
+    answer: "President"
+  }
+];
+
+
 export const constitutionQuestions = [
   {
     question: "Indian Constitution came into effect on?",
