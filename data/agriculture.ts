@@ -19,16 +19,5 @@ export const agricultureQuestions = [
       "Cotton"
     ],
     answer: "Rice"
-  },
-
-  {
-    question: "Kharif crops are sown in?",
-    options: [
-      "Winter",
-      "Rainy season",
-      "Summer",
-      "Spring"
-    ],
-    answer: "Rainy season"
   }
 ];
