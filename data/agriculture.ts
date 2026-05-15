@@ -7,7 +7,7 @@ export const agricultureQuestions = [
       "Industry",
       "Transport"
     ],
-    answer: "Agriculture",
+    answer: "Agriculture"
   },
 
   {
@@ -18,7 +18,7 @@ export const agricultureQuestions = [
       "Coffee",
       "Cotton"
     ],
-    answer: "Rice",
+    answer: "Rice"
   },
 
   {
@@ -29,6 +29,6 @@ export const agricultureQuestions = [
       "Summer",
       "Spring"
     ],
-    answer: "Rainy season",
+    answer: "Rainy season"
   }
 ];
