@@ -1,4 +1,4 @@
-export const constitutionMcqs = [
+export const constitutionQuestions = [
   {
     question: "Who is known as the Father of the Indian Constitution?",
     options: [
