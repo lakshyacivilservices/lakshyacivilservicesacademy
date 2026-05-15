@@ -1,41 +1,44 @@
 export const agricultureQuestions = [
   {
-    export const agricultureQuestions = [
-  {
-    question: "Which crop is known as golden fiber?",
+    id: 1,
+    question: "Which crop is known as a cash crop?",
     options: [
+      "Wheat",
+      "Rice",
       "Cotton",
-      "Jute",
-      "Tea",
-      "Rice"
+      "Maize"
     ],
-    answer: "Jute",
+    answer: "Cotton",
+    explanation: "Cotton is grown mainly for commercial purposes."
   },
 
   {
-    question: "Which fertilizer contains nitrogen?",
+    id: 2,
+    question: "Which nutrient is mainly supplied by urea?",
     options: [
-      "Urea",
-      "Gypsum",
-      "Lime",
-      "Potash"
+      "Phosphorus",
+      "Nitrogen",
+      "Potassium",
+      "Calcium"
     ],
-    answer: "Urea",
+    answer: "Nitrogen",
+    explanation: "Urea is a nitrogen-rich fertilizer."
   },
 
   // OLD QUESTIONS BELOW
+
+  {
+    id: 3,
     question: "Green Revolution related to?",
-    options: ["Milk","Agriculture","Industry","Transport"],
+    options: [
+      "Milk",
+      "Agriculture",
+      "Industry",
+      "Transport"
+    ],
     answer: "Agriculture",
-  },
-  {
-    question: "Main food crop of India?",
-    options: ["Tea","Rice","Coffee","Cotton"],
-    answer: "Rice",
-  },
-  {
-    question: "Kharif crops are sown in?",
-    options: ["Winter","Rainy season","Summer","Spring"],
-    answer: "Rainy season",
-  },
+    explanation: "Green Revolution improved agricultural production."
+  }
 ];
+
+
