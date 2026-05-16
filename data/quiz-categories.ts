@@ -113,5 +113,25 @@ export const quizCategories = [
     title: "Health Education Officer Psychology Quiz",
     link: "/quiz/health-education-officer-psychology",
     color: "linear-gradient(135deg,#16a34a,#06b6d4,#2563eb)"
+  },
+  {
+    title: "UPPSC Quiz",
+    link: "/quiz/uppsc",
+    color: "linear-gradient(135deg,#2563eb,#7c3aed,#ec4899)"
+  },
+  {
+    title: "PET Quiz",
+    link: "/quiz/pet",
+    color: "linear-gradient(135deg,#16a34a,#06b6d4,#2563eb)"
+  },
+  {
+    title: "Lower PCS Quiz",
+    link: "/quiz/lower-pcs",
+    color: "linear-gradient(135deg,#ea580c,#ef4444,#ec4899)"
+  },
+  {
+    title: "UP Special GK Quiz",
+    link: "/quiz/up-special-gk",
+    color: "linear-gradient(135deg,#0f172a,#2563eb,#06b6d4)"
   }
 ];
