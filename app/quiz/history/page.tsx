@@ -1,5 +1,5 @@
 import QuizTemplate from "@/app/components/QuizTemplate";
-import { ancientHistoryMcq as historyQuestions } from "./ancientHistoryMcq";
+import { historyQuestions } from "@/data/history";
 
 export default function Page() {
   return (

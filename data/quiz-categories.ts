@@ -15,12 +15,12 @@ export const quizCategories = [
     color: "linear-gradient(135deg,#f97316,#ef4444,#ec4899)"
   },
   {
-    title: "UPPSC Quiz",
+    title: "UPSC Quiz",
     link: "/quiz/upsc",
     color: "linear-gradient(135deg,#0f172a,#2563eb,#06b6d4)"
   },
   {
-    title: "Indian Constitution",
+    title: "Banking Quiz",
     link: "/quiz/banking",
     color: "linear-gradient(135deg,#14532d,#22c55e,#84cc16)"
   },
@@ -103,23 +103,5 @@ export const quizCategories = [
     title: "Maths Quiz",
     link: "/quiz/maths",
     color: "linear-gradient(135deg,#991b1b,#ef4444,#fca5a5)"
-  },
-  {
-    title: "Indian Constitution",
-    link: "/quiz/constitution",
-    color: "linear-gradient(135deg,#7c2d12,#ea580c,#fdba74)"
   }
-  ,
-{
-  title: "Constitution Quiz",
-  link: "/quiz/constitution",
-  color: "linear-gradient(135deg,#7c2d12,#ea580c,#fdba74)"
-}
-  ,
-{
-  title: "Constitution Quiz",
-  link: "/quiz/constitution",
-  color: "linear-gradient(135deg,#7c2d12,#ea580c,#fdba74)"
-}
-  
 ];

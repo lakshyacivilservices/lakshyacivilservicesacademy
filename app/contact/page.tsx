@@ -1,16 +1,15 @@
-export default function ContactPage() {
+import Navbar from "@/app/components/Navbar";
+
+export default function Contact() {
   return (
-    <main style={{ maxWidth: "900px", margin: "auto", padding: "40px" }}>
-      <h1>Contact Us</h1>
+    <>
+      <Navbar />
 
-      <p>
-        Email: lakshyacivilservicesacamedy@gmail.com
-      </p>
+      <main style={{ padding: "40px" }}>
+        <h1>Contact Us</h1>
 
-      <p>
-        For quiz support, PDF materials, collaborations and study resources,
-        contact us anytime.
-      </p>
-    </main>
+        <p>Email: support@example.com</p>
+      </main>
+    </>
   );
 }
