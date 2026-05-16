@@ -103,5 +103,15 @@ export const quizCategories = [
     title: "Maths Quiz",
     link: "/quiz/maths",
     color: "linear-gradient(135deg,#991b1b,#ef4444,#fca5a5)"
+  },
+  {
+    title: "UGC NET Psychology Quiz",
+    link: "/quiz/ugc-net-psychology",
+    color: "linear-gradient(135deg,#2563eb,#7c3aed,#ec4899)"
+  },
+  {
+    title: "Health Education Officer Psychology Quiz",
+    link: "/quiz/health-education-officer-psychology",
+    color: "linear-gradient(135deg,#16a34a,#06b6d4,#2563eb)"
   }
 ];
