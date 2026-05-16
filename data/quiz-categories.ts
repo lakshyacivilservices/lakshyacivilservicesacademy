@@ -133,5 +133,30 @@ export const quizCategories = [
     title: "UP Special GK Quiz",
     link: "/quiz/up-special-gk",
     color: "linear-gradient(135deg,#0f172a,#2563eb,#06b6d4)"
+  },
+  {
+    title: "Management UGC NET & PSU Quiz",
+    link: "/quiz/management-ugc-net",
+    color: "linear-gradient(135deg,#0f766e,#14b8a6,#2dd4bf)"
+  },
+  {
+    title: "Sociology UGC NET & PSU Quiz",
+    link: "/quiz/sociology-ugc-net",
+    color: "linear-gradient(135deg,#7c3aed,#9333ea,#d8b4fe)"
+  },
+  {
+    title: "History UGC NET & PSU Quiz",
+    link: "/quiz/history-ugc-net",
+    color: "linear-gradient(135deg,#ea580c,#f97316,#facc15)"
+  },
+  {
+    title: "Anthropology UGC NET & PSU Quiz",
+    link: "/quiz/anthropology-ugc-net",
+    color: "linear-gradient(135deg,#1e3a8a,#2563eb,#60a5fa)"
+  },
+  {
+    title: "Labour Welfare / HRM UGC NET & PSU Quiz",
+    link: "/quiz/labour-welfare-ugc-net",
+    color: "linear-gradient(135deg,#14532d,#16a34a,#4ade80)"
   }
 ];
