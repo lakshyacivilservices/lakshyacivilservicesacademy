@@ -1,4 +1,0 @@
-﻿User-agent: *
-Allow: /
-
-Sitemap: https://lakshyaquizacademy.vercel.app/sitemap.xml
