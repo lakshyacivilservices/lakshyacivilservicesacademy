@@ -1,4 +1,3 @@
-
 export const researchQuestions = [
   {
     question: "What is the first step in research process?",
