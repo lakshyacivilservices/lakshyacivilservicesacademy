@@ -4,9 +4,9 @@ import { psychologyQuestions } from "@/data/psychology";
 export default function Page() {
   return (
     <QuizTemplate
-      title="Banking Awareness Quiz"
+      title="CTET Pedagogy Quiz"
       questions={psychologyQuestions}
-      gradient="linear-gradient(135deg,#14532d,#22c55e,#84cc16)"
+      gradient="linear-gradient(135deg,#0f766e,#14b8a6,#2dd4bf)"
     />
   );
 }

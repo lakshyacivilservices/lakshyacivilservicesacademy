@@ -4,9 +4,9 @@ import { psychologyQuestions } from "@/data/psychology";
 export default function Page() {
   return (
     <QuizTemplate
-      title="Banking Awareness Quiz"
+      title="SSC Static GK Quiz"
       questions={psychologyQuestions}
-      gradient="linear-gradient(135deg,#14532d,#22c55e,#84cc16)"
+      gradient="linear-gradient(135deg,#ea580c,#ef4444,#ec4899)"
     />
   );
 }

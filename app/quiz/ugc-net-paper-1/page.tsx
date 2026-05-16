@@ -4,9 +4,9 @@ import { psychologyQuestions } from "@/data/psychology";
 export default function Page() {
   return (
     <QuizTemplate
-      title="Banking Awareness Quiz"
+      title="UGC NET Paper 1 Quiz"
       questions={psychologyQuestions}
-      gradient="linear-gradient(135deg,#14532d,#22c55e,#84cc16)"
+      gradient="linear-gradient(135deg,#2563eb,#7c3aed,#ec4899)"
     />
   );
 }
